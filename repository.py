@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[17]:
+# In[41]:
 
 
 from git import Repo
@@ -9,6 +9,7 @@ import shutil
 import os
 import pygount
 import json
+from pathlib import Path
 
 class Repository:
     
@@ -32,26 +33,25 @@ class Repository:
         ending = ''
         
         if self.repository.language == "Python":
-            ending = '.py'
+            ending = '**/*.py'
         elif self.repository.language == "Java":
-            ending = '.java'
+            ending = '**/*.java'
         else:
             print("Error in analyse: language of repository matches neither Python nor Java")
             return
+
+        directory_in_str = self.path+self.repository.name
+
+        pathlist = Path(directory_in_str).glob(ending)
         
-        # Recursive iteration through repository
-        contents = self.repository.get_contents("")
-        while contents:
-            file_content = contents.pop(0)
-            if file_content.type == "dir":
-                contents.extend(self.repository.get_contents(file_content.path))
-            else:
-                if os.path.splitext(file_content.path)[1]==ending:
-                    analysis = pygount.source_analysis(self.path+self.repository.name+'/'+file_content.path, self.repository.language, encoding = 'utf-8')
-                    self.codelines += analysis.code + analysis.string
-                    self.emptylines += analysis.empty
-                    self.commentlines += analysis.documentation
-        
+        for path in pathlist:
+            # because path is object not string
+            path_in_str = str(path)
+            analysis = pygount.source_analysis(path_in_str, self.repository.language, encoding = 'utf-8')
+            self.codelines += analysis.code + analysis.string
+            self.emptylines += analysis.empty
+            self.commentlines += analysis.documentation   
+            
         print("Analysed Repository: ", self.repository.name)
         return
                     
