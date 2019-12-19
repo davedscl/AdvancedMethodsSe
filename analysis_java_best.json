@@ -1,0 +1,7138 @@
+{
+    "owner": "bumptech",
+    "name": "glide",
+    "language": "Java",
+    "stars": 27932,
+    "forks": 5109,
+    "codelines": 62317,
+    "commentlines": 13153,
+    "emptylines": 24147
+},{
+    "owner": "macrozheng",
+    "name": "mall",
+    "language": "Java",
+    "stars": 26922,
+    "forks": 11059,
+    "codelines": 48080,
+    "commentlines": 2265,
+    "emptylines": 30392
+},{
+    "owner": "netty",
+    "name": "netty",
+    "language": "Java",
+    "stars": 22005,
+    "forks": 10308,
+    "codelines": 230915,
+    "commentlines": 99711,
+    "emptylines": 103929
+},{
+    "owner": "alibaba",
+    "name": "druid",
+    "language": "Java",
+    "stars": 19716,
+    "forks": 6715,
+    "codelines": 252989,
+    "commentlines": 59206,
+    "emptylines": 134150
+},{
+    "owner": "CymChad",
+    "name": "BaseRecyclerViewAdapterHelper",
+    "language": "Java",
+    "stars": 18972,
+    "forks": 3991,
+    "codelines": 5675,
+    "commentlines": 2435,
+    "emptylines": 2905
+},{
+    "owner": "hankcs",
+    "name": "HanLP",
+    "language": "Java",
+    "stars": 17207,
+    "forks": 4774,
+    "codelines": 43411,
+    "commentlines": 24131,
+    "emptylines": 27898
+},{
+    "owner": "facebook",
+    "name": "fresco",
+    "language": "Java",
+    "stars": 15981,
+    "forks": 3690,
+    "codelines": 74765,
+    "commentlines": 21921,
+    "emptylines": 29916
+},{
+    "owner": "google",
+    "name": "ExoPlayer",
+    "language": "Java",
+    "stars": 14584,
+    "forks": 4386,
+    "codelines": 132986,
+    "commentlines": 56600,
+    "emptylines": 44428
+},{
+    "owner": "apache",
+    "name": "kafka",
+    "language": "Java",
+    "stars": 14463,
+    "forks": 7660,
+    "codelines": 264737,
+    "commentlines": 94067,
+    "emptylines": 102364
+},{
+    "owner": "mybatis",
+    "name": "mybatis-3",
+    "language": "Java",
+    "stars": 12452,
+    "forks": 8112,
+    "codelines": 47846,
+    "commentlines": 23703,
+    "emptylines": 23540
+},{
+    "owner": "react-native-community",
+    "name": "lottie-react-native",
+    "language": "Java",
+    "stars": 12394,
+    "forks": 1294,
+    "codelines": 332,
+    "commentlines": 35,
+    "emptylines": 170
+},{
+    "owner": "openzipkin",
+    "name": "zipkin",
+    "language": "Java",
+    "stars": 12154,
+    "forks": 2247,
+    "codelines": 37603,
+    "commentlines": 10264,
+    "emptylines": 15755
+},{
+    "owner": "qiurunze123",
+    "name": "miaosha",
+    "language": "Java",
+    "stars": 12097,
+    "forks": 2766,
+    "codelines": 8245,
+    "commentlines": 2551,
+    "emptylines": 4160
+},{
+    "owner": "realm",
+    "name": "realm-java",
+    "language": "Java",
+    "stars": 10776,
+    "forks": 1701,
+    "codelines": 75048,
+    "commentlines": 27564,
+    "emptylines": 31801
+},{
+    "owner": "jeasonlzy",
+    "name": "okhttp-OkGo",
+    "language": "Java",
+    "stars": 9751,
+    "forks": 2407,
+    "codelines": 11521,
+    "commentlines": 5868,
+    "emptylines": 5184
+},{
+    "owner": "wasabeef",
+    "name": "recyclerview-animators",
+    "language": "Java",
+    "stars": 9716,
+    "forks": 1852,
+    "codelines": 1229,
+    "commentlines": 472,
+    "emptylines": 624
+},{
+    "owner": "apache",
+    "name": "incubator-shardingsphere",
+    "language": "Java",
+    "stars": 9515,
+    "forks": 3274,
+    "codelines": 66416,
+    "commentlines": 43079,
+    "emptylines": 32290
+},{
+    "owner": "Yalantis",
+    "name": "uCrop",
+    "language": "Java",
+    "stars": 9422,
+    "forks": 1665,
+    "codelines": 3893,
+    "commentlines": 996,
+    "emptylines": 1959
+},{
+    "owner": "google",
+    "name": "guice",
+    "language": "Java",
+    "stars": 8822,
+    "forks": 1293,
+    "codelines": 54853,
+    "commentlines": 18893,
+    "emptylines": 24332
+},{
+    "owner": "rzwitserloot",
+    "name": "lombok",
+    "language": "Java",
+    "stars": 8673,
+    "forks": 1634,
+    "codelines": 58413,
+    "commentlines": 13644,
+    "emptylines": 22805
+},{
+    "owner": "java-decompiler",
+    "name": "jd-gui",
+    "language": "Java",
+    "stars": 7714,
+    "forks": 1547,
+    "codelines": 12973,
+    "commentlines": 2640,
+    "emptylines": 6830
+},{
+    "owner": "alibaba",
+    "name": "atlas",
+    "language": "Java",
+    "stars": 7448,
+    "forks": 1407,
+    "codelines": 103234,
+    "commentlines": 129800,
+    "emptylines": 54210
+},{
+    "owner": "frank-lam",
+    "name": "fullstack-tutorial",
+    "language": "Java",
+    "stars": 7447,
+    "forks": 1645,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0
+},{
+    "owner": "hackware1993",
+    "name": "MagicIndicator",
+    "language": "Java",
+    "stars": 7235,
+    "forks": 1203,
+    "codelines": 3473,
+    "commentlines": 278,
+    "emptylines": 1676
+},{
+    "owner": "ben-manes",
+    "name": "caffeine",
+    "language": "Java",
+    "stars": 6961,
+    "forks": 652,
+    "codelines": 47693,
+    "commentlines": 15907,
+    "emptylines": 19194
+},{
+    "owner": "antlr",
+    "name": "antlr4",
+    "language": "Java",
+    "stars": 6893,
+    "forks": 1744,
+    "codelines": 50069,
+    "commentlines": 21663,
+    "emptylines": 22013
+},{
+    "owner": "huanghaibin-dev",
+    "name": "CalendarView",
+    "language": "Java",
+    "stars": 5992,
+    "forks": 1063,
+    "codelines": 10351,
+    "commentlines": 4076,
+    "emptylines": 4699
+},{
+    "owner": "davemorrissey",
+    "name": "subsampling-scale-image-view",
+    "language": "Java",
+    "stars": 5789,
+    "forks": 903,
+    "codelines": 3265,
+    "commentlines": 1140,
+    "emptylines": 1402
+},{
+    "owner": "google",
+    "name": "j2objc",
+    "language": "Java",
+    "stars": 5574,
+    "forks": 792,
+    "codelines": 701803,
+    "commentlines": 622902,
+    "emptylines": 308694
+},{
+    "owner": "Angel-ML",
+    "name": "angel",
+    "language": "Java",
+    "stars": 5530,
+    "forks": 1383,
+    "codelines": 71545,
+    "commentlines": 35417,
+    "emptylines": 34720
+},{
+    "owner": "alibaba",
+    "name": "freeline",
+    "language": "Java",
+    "stars": 5251,
+    "forks": 616,
+    "codelines": 4297,
+    "commentlines": 892,
+    "emptylines": 1957
+},{
+    "owner": "Graylog2",
+    "name": "graylog2-server",
+    "language": "Java",
+    "stars": 5117,
+    "forks": 781,
+    "codelines": 163311,
+    "commentlines": 52232,
+    "emptylines": 62062
+},{
+    "owner": "commonsguy",
+    "name": "cw-omnibus",
+    "language": "Java",
+    "stars": 5021,
+    "forks": 3834,
+    "codelines": 80302,
+    "commentlines": 32889,
+    "emptylines": 41602
+},{
+    "owner": "thinkaurelius",
+    "name": "titan",
+    "language": "Java",
+    "stars": 4989,
+    "forks": 1018,
+    "codelines": 62415,
+    "commentlines": 15388,
+    "emptylines": 30009
+},{
+    "owner": "checkstyle",
+    "name": "checkstyle",
+    "language": "Java",
+    "stars": 4982,
+    "forks": 7114,
+    "codelines": 182747,
+    "commentlines": 74433,
+    "emptylines": 59954
+},{
+    "owner": "google",
+    "name": "error-prone",
+    "language": "Java",
+    "stars": 4976,
+    "forks": 538,
+    "codelines": 144696,
+    "commentlines": 44941,
+    "emptylines": 43415
+},{
+    "owner": "motianhuo",
+    "name": "wechat",
+    "language": "Java",
+    "stars": 4925,
+    "forks": 2204,
+    "codelines": 27001,
+    "commentlines": 4803,
+    "emptylines": 9912
+},{
+    "owner": "k9mail",
+    "name": "k-9",
+    "language": "Java",
+    "stars": 4700,
+    "forks": 2040,
+    "codelines": 70334,
+    "commentlines": 8762,
+    "emptylines": 34367
+},{
+    "owner": "chentao0707",
+    "name": "SimplifyReader",
+    "language": "Java",
+    "stars": 4580,
+    "forks": 1691,
+    "codelines": 27244,
+    "commentlines": 15794,
+    "emptylines": 13853
+},{
+    "owner": "apache",
+    "name": "zeppelin",
+    "language": "Java",
+    "stars": 4485,
+    "forks": 2211,
+    "codelines": 109509,
+    "commentlines": 24595,
+    "emptylines": 48973
+},{
+    "owner": "ximsfei",
+    "name": "Android-skin-support",
+    "language": "Java",
+    "stars": 4421,
+    "forks": 740,
+    "codelines": 16531,
+    "commentlines": 1758,
+    "emptylines": 8090
+},{
+    "owner": "rubensousa",
+    "name": "GravitySnapHelper",
+    "language": "Java",
+    "stars": 4417,
+    "forks": 583,
+    "codelines": 500,
+    "commentlines": 227,
+    "emptylines": 234
+},{
+    "owner": "youlookwhat",
+    "name": "CloudReader",
+    "language": "Java",
+    "stars": 4077,
+    "forks": 1174,
+    "codelines": 16050,
+    "commentlines": 4108,
+    "emptylines": 8198
+},{
+    "owner": "pili-engineering",
+    "name": "PLDroidPlayer",
+    "language": "Java",
+    "stars": 4067,
+    "forks": 920,
+    "codelines": 1686,
+    "commentlines": 190,
+    "emptylines": 651
+},{
+    "owner": "OpenAPITools",
+    "name": "openapi-generator",
+    "language": "Java",
+    "stars": 3993,
+    "forks": 1399,
+    "codelines": 202862,
+    "commentlines": 58028,
+    "emptylines": 103863
+},{
+    "owner": "roboguice",
+    "name": "roboguice",
+    "language": "Java",
+    "stars": 3843,
+    "forks": 882,
+    "codelines": 49346,
+    "commentlines": 19666,
+    "emptylines": 25895
+},{
+    "owner": "puniverse",
+    "name": "quasar",
+    "language": "Java",
+    "stars": 3820,
+    "forks": 468,
+    "codelines": 41285,
+    "commentlines": 26800,
+    "emptylines": 18507
+},{
+    "owner": "huangyanbin",
+    "name": "smartTable",
+    "language": "Java",
+    "stars": 3817,
+    "forks": 626,
+    "codelines": 10880,
+    "commentlines": 3125,
+    "emptylines": 5296
+},{
+    "owner": "apache",
+    "name": "jmeter",
+    "language": "Java",
+    "stars": 3722,
+    "forks": 1195,
+    "codelines": 118061,
+    "commentlines": 68563,
+    "emptylines": 52612
+},{
+    "owner": "lcodecorex",
+    "name": "TwinklingRefreshLayout",
+    "language": "Java",
+    "stars": 3713,
+    "forks": 664,
+    "codelines": 4611,
+    "commentlines": 777,
+    "emptylines": 2194
+},{
+    "owner": "yanzhenjie",
+    "name": "NoHttp",
+    "language": "Java",
+    "stars": 3679,
+    "forks": 877,
+    "codelines": 7342,
+    "commentlines": 5906,
+    "emptylines": 4089
+},{
+    "owner": "MinecraftForge",
+    "name": "MinecraftForge",
+    "language": "Java",
+    "stars": 3500,
+    "forks": 1609,
+    "codelines": 39670,
+    "commentlines": 40345,
+    "emptylines": 26095
+},{
+    "owner": "codeestX",
+    "name": "GeekNews",
+    "language": "Java",
+    "stars": 3457,
+    "forks": 860,
+    "codelines": 9882,
+    "commentlines": 1734,
+    "emptylines": 5262
+},{
+    "owner": "Piasy",
+    "name": "BigImageViewer",
+    "language": "Java",
+    "stars": 3395,
+    "forks": 358,
+    "codelines": 2088,
+    "commentlines": 950,
+    "emptylines": 1071
+},{
+    "owner": "techGay",
+    "name": "v9porn",
+    "language": "Java",
+    "stars": 3332,
+    "forks": 813,
+    "codelines": 20029,
+    "commentlines": 3850,
+    "emptylines": 10060
+},{
+    "owner": "micronaut-projects",
+    "name": "micronaut-core",
+    "language": "Java",
+    "stars": 3208,
+    "forks": 530,
+    "codelines": 101688,
+    "commentlines": 88569,
+    "emptylines": 50424
+},{
+    "owner": "pengjianbo",
+    "name": "GalleryFinal",
+    "language": "Java",
+    "stars": 3183,
+    "forks": 819,
+    "codelines": 6259,
+    "commentlines": 2192,
+    "emptylines": 3181
+},{
+    "owner": "stephanenicolas",
+    "name": "robospice",
+    "language": "Java",
+    "stars": 3032,
+    "forks": 589,
+    "codelines": 12991,
+    "commentlines": 3465,
+    "emptylines": 7204
+},{
+    "owner": "apache",
+    "name": "incubator-dolphinscheduler",
+    "language": "Java",
+    "stars": 3025,
+    "forks": 967,
+    "codelines": 31143,
+    "commentlines": 20721,
+    "emptylines": 15693
+},{
+    "owner": "azkaban",
+    "name": "azkaban",
+    "language": "Java",
+    "stars": 2972,
+    "forks": 1225,
+    "codelines": 66536,
+    "commentlines": 20678,
+    "emptylines": 28260
+},{
+    "owner": "JanusGraph",
+    "name": "janusgraph",
+    "language": "Java",
+    "stars": 2959,
+    "forks": 747,
+    "codelines": 76468,
+    "commentlines": 30487,
+    "emptylines": 36188
+},{
+    "owner": "WVector",
+    "name": "AppUpdate",
+    "language": "Java",
+    "stars": 2853,
+    "forks": 577,
+    "codelines": 2127,
+    "commentlines": 1059,
+    "emptylines": 1201
+},{
+    "owner": "jiangqqlmj",
+    "name": "FastDev4Android",
+    "language": "Java",
+    "stars": 2801,
+    "forks": 1024,
+    "codelines": 14388,
+    "commentlines": 7066,
+    "emptylines": 6248
+},{
+    "owner": "reactor",
+    "name": "reactor-core",
+    "language": "Java",
+    "stars": 2762,
+    "forks": 578,
+    "codelines": 126869,
+    "commentlines": 37777,
+    "emptylines": 60590
+},{
+    "owner": "oracle",
+    "name": "opengrok",
+    "language": "Java",
+    "stars": 2758,
+    "forks": 535,
+    "codelines": 60867,
+    "commentlines": 37516,
+    "emptylines": 26158
+},{
+    "owner": "WritingMinds",
+    "name": "ffmpeg-android-java",
+    "language": "Java",
+    "stars": 2700,
+    "forks": 717,
+    "codelines": 1048,
+    "commentlines": 101,
+    "emptylines": 643
+},{
+    "owner": "linkedin",
+    "name": "databus",
+    "language": "Java",
+    "stars": 2693,
+    "forks": 610,
+    "codelines": 108238,
+    "commentlines": 34341,
+    "emptylines": 66629
+},{
+    "owner": "Nightonke",
+    "name": "WoWoViewPager",
+    "language": "Java",
+    "stars": 2667,
+    "forks": 445,
+    "codelines": 6963,
+    "commentlines": 1928,
+    "emptylines": 2920
+},{
+    "owner": "crate",
+    "name": "crate",
+    "language": "Java",
+    "stars": 2622,
+    "forks": 362,
+    "codelines": 356426,
+    "commentlines": 140629,
+    "emptylines": 152608
+},{
+    "owner": "zhou-you",
+    "name": "RxEasyHttp",
+    "language": "Java",
+    "stars": 2625,
+    "forks": 505,
+    "codelines": 9207,
+    "commentlines": 4738,
+    "emptylines": 4541
+},{
+    "owner": "JackyAndroid",
+    "name": "AndroidChromium",
+    "language": "Java",
+    "stars": 2610,
+    "forks": 665,
+    "codelines": 120377,
+    "commentlines": 55620,
+    "emptylines": 55312
+},{
+    "owner": "guoguibing",
+    "name": "librec",
+    "language": "Java",
+    "stars": 2597,
+    "forks": 924,
+    "codelines": 25934,
+    "commentlines": 20844,
+    "emptylines": 13474
+},{
+    "owner": "Nightonke",
+    "name": "CoCoin",
+    "language": "Java",
+    "stars": 2572,
+    "forks": 1021,
+    "codelines": 17674,
+    "commentlines": 1347,
+    "emptylines": 6499
+},{
+    "owner": "googlearchive",
+    "name": "android-ConstraintLayoutExamples",
+    "language": "Java",
+    "stars": 2553,
+    "forks": 455,
+    "codelines": 2895,
+    "commentlines": 429,
+    "emptylines": 1055
+},{
+    "owner": "ltsopensource",
+    "name": "light-task-scheduler",
+    "language": "Java",
+    "stars": 2555,
+    "forks": 1053,
+    "codelines": 38480,
+    "commentlines": 7196,
+    "emptylines": 21882
+},{
+    "owner": "vert-x3",
+    "name": "vertx-examples",
+    "language": "Java",
+    "stars": 2535,
+    "forks": 1778,
+    "codelines": 13251,
+    "commentlines": 3773,
+    "emptylines": 7491
+},{
+    "owner": "jiajunhui",
+    "name": "PlayerBase",
+    "language": "Java",
+    "stars": 2427,
+    "forks": 361,
+    "codelines": 10005,
+    "commentlines": 2891,
+    "emptylines": 4926
+},{
+    "owner": "ldoublem",
+    "name": "LoadingView",
+    "language": "Java",
+    "stars": 2414,
+    "forks": 434,
+    "codelines": 3866,
+    "commentlines": 117,
+    "emptylines": 2319
+},{
+    "owner": "Red5",
+    "name": "red5-server",
+    "language": "Java",
+    "stars": 2408,
+    "forks": 978,
+    "codelines": 8549,
+    "commentlines": 5745,
+    "emptylines": 4044
+},{
+    "owner": "line",
+    "name": "armeria",
+    "language": "Java",
+    "stars": 2343,
+    "forks": 480,
+    "codelines": 120462,
+    "commentlines": 56994,
+    "emptylines": 54103
+},{
+    "owner": "graphhopper",
+    "name": "graphhopper",
+    "language": "Java",
+    "stars": 2347,
+    "forks": 913,
+    "codelines": 68129,
+    "commentlines": 23125,
+    "emptylines": 27127
+},{
+    "owner": "tronprotocol",
+    "name": "java-tron",
+    "language": "Java",
+    "stars": 2322,
+    "forks": 649,
+    "codelines": 209986,
+    "commentlines": 21323,
+    "emptylines": 61924
+},{
+    "owner": "FasterXML",
+    "name": "jackson-databind",
+    "language": "Java",
+    "stars": 2312,
+    "forks": 900,
+    "codelines": 91033,
+    "commentlines": 40644,
+    "emptylines": 50828
+},{
+    "owner": "qiujuer",
+    "name": "Genius-Android",
+    "language": "Java",
+    "stars": 2304,
+    "forks": 604,
+    "codelines": 7561,
+    "commentlines": 3826,
+    "emptylines": 3811
+},{
+    "owner": "mongodb",
+    "name": "mongo-java-driver",
+    "language": "Java",
+    "stars": 2257,
+    "forks": 1300,
+    "codelines": 107168,
+    "commentlines": 71553,
+    "emptylines": 53343
+},{
+    "owner": "yanzhenjie",
+    "name": "Album",
+    "language": "Java",
+    "stars": 2230,
+    "forks": 440,
+    "codelines": 6495,
+    "commentlines": 3243,
+    "emptylines": 3128
+},{
+    "owner": "eclipse",
+    "name": "openj9",
+    "language": "Java",
+    "stars": 2173,
+    "forks": 440,
+    "codelines": 407321,
+    "commentlines": 215947,
+    "emptylines": 177000
+},{
+    "owner": "lingcimi",
+    "name": "jjdxm_ijkplayer",
+    "language": "Java",
+    "stars": 2151,
+    "forks": 513,
+    "codelines": 3168,
+    "commentlines": 1811,
+    "emptylines": 1374
+},{
+    "owner": "tuguangquan",
+    "name": "mybatis",
+    "language": "Java",
+    "stars": 2149,
+    "forks": 1235,
+    "codelines": 35498,
+    "commentlines": 19156,
+    "emptylines": 17070
+},{
+    "owner": "TheFinestArtist",
+    "name": "FinestWebView-Android",
+    "language": "Java",
+    "stars": 2144,
+    "forks": 497,
+    "codelines": 2026,
+    "commentlines": 158,
+    "emptylines": 838
+},{
+    "owner": "h2database",
+    "name": "h2database",
+    "language": "Java",
+    "stars": 2077,
+    "forks": 674,
+    "codelines": 195324,
+    "commentlines": 68288,
+    "emptylines": 68438
+},{
+    "owner": "LuckyJayce",
+    "name": "LargeImage",
+    "language": "Java",
+    "stars": 2051,
+    "forks": 373,
+    "codelines": 2368,
+    "commentlines": 298,
+    "emptylines": 1056
+},{
+    "owner": "dueeeke",
+    "name": "DKVideoPlayer",
+    "language": "Java",
+    "stars": 2010,
+    "forks": 397,
+    "codelines": 11477,
+    "commentlines": 2424,
+    "emptylines": 5346
+},{
+    "owner": "janishar",
+    "name": "PlaceHolderView",
+    "language": "Java",
+    "stars": 1982,
+    "forks": 352,
+    "codelines": 6026,
+    "commentlines": 441,
+    "emptylines": 2540
+},{
+    "owner": "tvbarthel",
+    "name": "BlurDialogFragment",
+    "language": "Java",
+    "stars": 1972,
+    "forks": 347,
+    "codelines": 989,
+    "commentlines": 579,
+    "emptylines": 500
+},{
+    "owner": "novoda",
+    "name": "android-demos",
+    "language": "Java",
+    "stars": 1955,
+    "forks": 690,
+    "codelines": 6713,
+    "commentlines": 1047,
+    "emptylines": 3559
+},{
+    "owner": "gre",
+    "name": "gl-react-native-v2",
+    "language": "Java",
+    "stars": 1933,
+    "forks": 187,
+    "codelines": 1451,
+    "commentlines": 30,
+    "emptylines": 571
+},{
+    "owner": "Rajawali",
+    "name": "Rajawali",
+    "language": "Java",
+    "stars": 1927,
+    "forks": 646,
+    "codelines": 37311,
+    "commentlines": 14150,
+    "emptylines": 17233
+},{
+    "owner": "Wizcorp",
+    "name": "phonegap-facebook-plugin",
+    "language": "Java",
+    "stars": 1904,
+    "forks": 1914,
+    "codelines": 25635,
+    "commentlines": 15049,
+    "emptylines": 13572
+},{
+    "owner": "BeesX",
+    "name": "BeesAndroid",
+    "language": "Java",
+    "stars": 1903,
+    "forks": 273,
+    "codelines": 105,
+    "commentlines": 32,
+    "emptylines": 60
+},{
+    "owner": "sqlcipher",
+    "name": "android-database-sqlcipher",
+    "language": "Java",
+    "stars": 1880,
+    "forks": 519,
+    "codelines": 4711,
+    "commentlines": 4105,
+    "emptylines": 2588
+},{
+    "owner": "graknlabs",
+    "name": "grakn",
+    "language": "Java",
+    "stars": 1864,
+    "forks": 225,
+    "codelines": 76646,
+    "commentlines": 31475,
+    "emptylines": 35378
+},{
+    "owner": "wingjay",
+    "name": "jianshi",
+    "language": "Java",
+    "stars": 1851,
+    "forks": 431,
+    "codelines": 3404,
+    "commentlines": 774,
+    "emptylines": 1715
+},{
+    "owner": "wangdan",
+    "name": "AisenWeiBo",
+    "language": "Java",
+    "stars": 1825,
+    "forks": 613,
+    "codelines": 47434,
+    "commentlines": 12098,
+    "emptylines": 27232
+},{
+    "owner": "atomashpolskiy",
+    "name": "bt",
+    "language": "Java",
+    "stars": 1817,
+    "forks": 256,
+    "codelines": 38039,
+    "commentlines": 17497,
+    "emptylines": 21699
+},{
+    "owner": "apache",
+    "name": "mahout",
+    "language": "Java",
+    "stars": 1750,
+    "forks": 934,
+    "codelines": 92667,
+    "commentlines": 45408,
+    "emptylines": 42315
+},{
+    "owner": "evollu",
+    "name": "react-native-fcm",
+    "language": "Java",
+    "stars": 1708,
+    "forks": 698,
+    "codelines": 1043,
+    "commentlines": 79,
+    "emptylines": 441
+},{
+    "owner": "pac4j",
+    "name": "pac4j",
+    "language": "Java",
+    "stars": 1698,
+    "forks": 503,
+    "codelines": 34507,
+    "commentlines": 8340,
+    "emptylines": 16842
+},{
+    "owner": "geometer",
+    "name": "FBReaderJ",
+    "language": "Java",
+    "stars": 1639,
+    "forks": 804,
+    "codelines": 53886,
+    "commentlines": 18839,
+    "emptylines": 27875
+},{
+    "owner": "pwnall",
+    "name": "chromeview",
+    "language": "Java",
+    "stars": 1636,
+    "forks": 444,
+    "codelines": 16881,
+    "commentlines": 9405,
+    "emptylines": 8444
+},{
+    "owner": "apache",
+    "name": "activemq",
+    "language": "Java",
+    "stars": 1634,
+    "forks": 1112,
+    "codelines": 353113,
+    "commentlines": 164622,
+    "emptylines": 184338
+},{
+    "owner": "mancj",
+    "name": "SlideUp-Android",
+    "language": "Java",
+    "stars": 1622,
+    "forks": 226,
+    "codelines": 1018,
+    "commentlines": 225,
+    "emptylines": 432
+},{
+    "owner": "apache",
+    "name": "calcite",
+    "language": "Java",
+    "stars": 1609,
+    "forks": 1014,
+    "codelines": 279721,
+    "commentlines": 117310,
+    "emptylines": 96647
+},{
+    "owner": "caiyonglong",
+    "name": "MusicLake",
+    "language": "Java",
+    "stars": 1606,
+    "forks": 286,
+    "codelines": 12719,
+    "commentlines": 4586,
+    "emptylines": 6216
+},{
+    "owner": "HpWens",
+    "name": "MeiWidgetView",
+    "language": "Java",
+    "stars": 1604,
+    "forks": 226,
+    "codelines": 8546,
+    "commentlines": 2280,
+    "emptylines": 4167
+},{
+    "owner": "fossasia",
+    "name": "open-event-droidgen",
+    "language": "Java",
+    "stars": 1589,
+    "forks": 862,
+    "codelines": 11647,
+    "commentlines": 405,
+    "emptylines": 4839
+},{
+    "owner": "yydcdut",
+    "name": "PhotoNoter",
+    "language": "Java",
+    "stars": 1585,
+    "forks": 337,
+    "codelines": 20922,
+    "commentlines": 3510,
+    "emptylines": 8844
+},{
+    "owner": "jmxtrans",
+    "name": "jmxtrans",
+    "language": "Java",
+    "stars": 1570,
+    "forks": 489,
+    "codelines": 15761,
+    "commentlines": 8247,
+    "emptylines": 6388
+},{
+    "owner": "oubowu",
+    "name": "OuNews",
+    "language": "Java",
+    "stars": 1550,
+    "forks": 472,
+    "codelines": 10092,
+    "commentlines": 3560,
+    "emptylines": 5432
+},{
+    "owner": "RoaringBitmap",
+    "name": "RoaringBitmap",
+    "language": "Java",
+    "stars": 1515,
+    "forks": 286,
+    "codelines": 50183,
+    "commentlines": 8375,
+    "emptylines": 21252
+},{
+    "owner": "PhilippC",
+    "name": "keepass2android",
+    "language": "Java",
+    "stars": 1482,
+    "forks": 155,
+    "codelines": 50884,
+    "commentlines": 23458,
+    "emptylines": 26793
+},{
+    "owner": "mongodb",
+    "name": "mongo-hadoop",
+    "language": "Java",
+    "stars": 1467,
+    "forks": 594,
+    "codelines": 13444,
+    "commentlines": 3258,
+    "emptylines": 5715
+},{
+    "owner": "unclebob",
+    "name": "fitnesse",
+    "language": "Java",
+    "stars": 1446,
+    "forks": 614,
+    "codelines": 65654,
+    "commentlines": 2838,
+    "emptylines": 30249
+},{
+    "owner": "MorphiaOrg",
+    "name": "morphia",
+    "language": "Java",
+    "stars": 1435,
+    "forks": 413,
+    "codelines": 35729,
+    "commentlines": 12613,
+    "emptylines": 17313
+},{
+    "owner": "spring-projects",
+    "name": "spring-batch",
+    "language": "Java",
+    "stars": 1429,
+    "forks": 1430,
+    "codelines": 105493,
+    "commentlines": 64285,
+    "emptylines": 54554
+},{
+    "owner": "chrisk44",
+    "name": "Hijacker",
+    "language": "Java",
+    "stars": 1414,
+    "forks": 287,
+    "codelines": 6509,
+    "commentlines": 1224,
+    "emptylines": 1975
+},{
+    "owner": "saysky",
+    "name": "ForestBlog",
+    "language": "Java",
+    "stars": 1429,
+    "forks": 679,
+    "codelines": 2638,
+    "commentlines": 1932,
+    "emptylines": 1541
+},{
+    "owner": "flyingsaucerproject",
+    "name": "flyingsaucer",
+    "language": "Java",
+    "stars": 1395,
+    "forks": 460,
+    "codelines": 48269,
+    "commentlines": 26669,
+    "emptylines": 24829
+},{
+    "owner": "albertlatacz",
+    "name": "java-repl",
+    "language": "Java",
+    "stars": 1358,
+    "forks": 191,
+    "codelines": 5106,
+    "commentlines": 29,
+    "emptylines": 2693
+},{
+    "owner": "nisrulz",
+    "name": "android-examples",
+    "language": "Java",
+    "stars": 1357,
+    "forks": 505,
+    "codelines": 10144,
+    "commentlines": 2383,
+    "emptylines": 5553
+},{
+    "owner": "konsoletyper",
+    "name": "teavm",
+    "language": "Java",
+    "stars": 1353,
+    "forks": 158,
+    "codelines": 177756,
+    "commentlines": 51834,
+    "emptylines": 75545
+},{
+    "owner": "fossasia",
+    "name": "pslab-android",
+    "language": "Java",
+    "stars": 1354,
+    "forks": 488,
+    "codelines": 27511,
+    "commentlines": 1560,
+    "emptylines": 9171
+},{
+    "owner": "PureDark",
+    "name": "H-Viewer",
+    "language": "Java",
+    "stars": 1340,
+    "forks": 193,
+    "codelines": 22323,
+    "commentlines": 3023,
+    "emptylines": 8092
+},{
+    "owner": "yahoo",
+    "name": "squidb",
+    "language": "Java",
+    "stars": 1321,
+    "forks": 129,
+    "codelines": 23709,
+    "commentlines": 17465,
+    "emptylines": 12242
+},{
+    "owner": "apache",
+    "name": "drill",
+    "language": "Java",
+    "stars": 1318,
+    "forks": 779,
+    "codelines": 439697,
+    "commentlines": 168619,
+    "emptylines": 181702
+},{
+    "owner": "open-keychain",
+    "name": "open-keychain",
+    "language": "Java",
+    "stars": 1287,
+    "forks": 390,
+    "codelines": 59296,
+    "commentlines": 14185,
+    "emptylines": 28793
+},{
+    "owner": "MindorksOpenSource",
+    "name": "AndroidTensorFlowMachineLearningExample",
+    "language": "Java",
+    "stars": 1283,
+    "forks": 411,
+    "codelines": 277,
+    "commentlines": 145,
+    "emptylines": 146
+},{
+    "owner": "txusballesteros",
+    "name": "welcome-coordinator",
+    "language": "Java",
+    "stars": 1271,
+    "forks": 138,
+    "codelines": 1042,
+    "commentlines": 384,
+    "emptylines": 377
+},{
+    "owner": "OCNYang",
+    "name": "QBox",
+    "language": "Java",
+    "stars": 1269,
+    "forks": 318,
+    "codelines": 27102,
+    "commentlines": 7857,
+    "emptylines": 12703
+},{
+    "owner": "survivingwithandroid",
+    "name": "Surviving-with-android",
+    "language": "Java",
+    "stars": 1264,
+    "forks": 2871,
+    "codelines": 8645,
+    "commentlines": 3322,
+    "emptylines": 5265
+},{
+    "owner": "cachecats",
+    "name": "coderiver",
+    "language": "Java",
+    "stars": 1262,
+    "forks": 229,
+    "codelines": 4597,
+    "commentlines": 1650,
+    "emptylines": 2350
+},{
+    "owner": "Rogero0o",
+    "name": "GifLoadingView",
+    "language": "Java",
+    "stars": 1257,
+    "forks": 216,
+    "codelines": 167,
+    "commentlines": 12,
+    "emptylines": 86
+},{
+    "owner": "siaorg",
+    "name": "sia-task",
+    "language": "Java",
+    "stars": 1265,
+    "forks": 430,
+    "codelines": 8488,
+    "commentlines": 8897,
+    "emptylines": 4863
+},{
+    "owner": "mixi-inc",
+    "name": "AndroidTraining",
+    "language": "Java",
+    "stars": 1255,
+    "forks": 380,
+    "codelines": 29732,
+    "commentlines": 12308,
+    "emptylines": 15920
+},{
+    "owner": "xmindltd",
+    "name": "xmind",
+    "language": "Java",
+    "stars": 1237,
+    "forks": 375,
+    "codelines": 241967,
+    "commentlines": 67789,
+    "emptylines": 112304
+},{
+    "owner": "fossasia",
+    "name": "open-event-organizer-android",
+    "language": "Java",
+    "stars": 1236,
+    "forks": 351,
+    "codelines": 28320,
+    "commentlines": 575,
+    "emptylines": 12747
+},{
+    "owner": "KronicDeth",
+    "name": "intellij-elixir",
+    "language": "Java",
+    "stars": 1222,
+    "forks": 88,
+    "codelines": 36594,
+    "commentlines": 6922,
+    "emptylines": 19575
+},{
+    "owner": "CainKernel",
+    "name": "CainCamera",
+    "language": "Java",
+    "stars": 1223,
+    "forks": 375,
+    "codelines": 30900,
+    "commentlines": 13001,
+    "emptylines": 14662
+},{
+    "owner": "JeroenMols",
+    "name": "LandscapeVideoCamera",
+    "language": "Java",
+    "stars": 1208,
+    "forks": 299,
+    "codelines": 2325,
+    "commentlines": 542,
+    "emptylines": 1118
+},{
+    "owner": "saulmm",
+    "name": "CoordinatorExamples",
+    "language": "Java",
+    "stars": 1207,
+    "forks": 300,
+    "codelines": 250,
+    "commentlines": 106,
+    "emptylines": 127
+},{
+    "owner": "camunda",
+    "name": "camunda-bpm-platform",
+    "language": "Java",
+    "stars": 1197,
+    "forks": 654,
+    "codelines": 532925,
+    "commentlines": 215546,
+    "emptylines": 265145
+},{
+    "owner": "spring-cloud",
+    "name": "spring-cloud-sleuth",
+    "language": "Java",
+    "stars": 1193,
+    "forks": 545,
+    "codelines": 26068,
+    "commentlines": 8737,
+    "emptylines": 13383
+},{
+    "owner": "chat-sdk",
+    "name": "chat-sdk-android",
+    "language": "Java",
+    "stars": 1185,
+    "forks": 502,
+    "codelines": 16955,
+    "commentlines": 2247,
+    "emptylines": 10101
+},{
+    "owner": "AlmasB",
+    "name": "FXGL",
+    "language": "Java",
+    "stars": 1186,
+    "forks": 161,
+    "codelines": 19738,
+    "commentlines": 8934,
+    "emptylines": 10087
+},{
+    "owner": "wkeyuan",
+    "name": "DWSurvey",
+    "language": "Java",
+    "stars": 1184,
+    "forks": 471,
+    "codelines": 14561,
+    "commentlines": 4967,
+    "emptylines": 6655
+},{
+    "owner": "primefaces",
+    "name": "primefaces",
+    "language": "Java",
+    "stars": 1174,
+    "forks": 555,
+    "codelines": 69438,
+    "commentlines": 32400,
+    "emptylines": 43379
+},{
+    "owner": "zlt2000",
+    "name": "microservices-platform",
+    "language": "Java",
+    "stars": 1167,
+    "forks": 540,
+    "codelines": 12825,
+    "commentlines": 5515,
+    "emptylines": 5692
+},{
+    "owner": "kaz-Anova",
+    "name": "StackNet",
+    "language": "Java",
+    "stars": 1152,
+    "forks": 326,
+    "codelines": 106087,
+    "commentlines": 33063,
+    "emptylines": 63424
+},{
+    "owner": "sirthias",
+    "name": "parboiled",
+    "language": "Java",
+    "stars": 1145,
+    "forks": 142,
+    "codelines": 13969,
+    "commentlines": 8179,
+    "emptylines": 7124
+},{
+    "owner": "yangchaojiang",
+    "name": "ZoomPreviewPicture",
+    "language": "Java",
+    "stars": 1139,
+    "forks": 170,
+    "codelines": 3668,
+    "commentlines": 1029,
+    "emptylines": 1612
+},{
+    "owner": "couchbase",
+    "name": "couchbase-lite-android",
+    "language": "Java",
+    "stars": 1137,
+    "forks": 212,
+    "codelines": 1424,
+    "commentlines": 341,
+    "emptylines": 581
+},{
+    "owner": "BuildCraft",
+    "name": "BuildCraft",
+    "language": "Java",
+    "stars": 1134,
+    "forks": 488,
+    "codelines": 131465,
+    "commentlines": 13102,
+    "emptylines": 64400
+},{
+    "owner": "macrozheng",
+    "name": "mall-swarm",
+    "language": "Java",
+    "stars": 1154,
+    "forks": 417,
+    "codelines": 48131,
+    "commentlines": 2276,
+    "emptylines": 30440
+},{
+    "owner": "alidili",
+    "name": "Demos",
+    "language": "Java",
+    "stars": 1135,
+    "forks": 819,
+    "codelines": 3832,
+    "commentlines": 1554,
+    "emptylines": 2121
+},{
+    "owner": "Pi4J",
+    "name": "pi4j",
+    "language": "Java",
+    "stars": 1121,
+    "forks": 437,
+    "codelines": 25286,
+    "commentlines": 34530,
+    "emptylines": 16050
+},{
+    "owner": "saulmm",
+    "name": "Avengers",
+    "language": "Java",
+    "stars": 1112,
+    "forks": 186,
+    "codelines": 1822,
+    "commentlines": 196,
+    "emptylines": 994
+},{
+    "owner": "hawtio",
+    "name": "hawtio",
+    "language": "Java",
+    "stars": 1106,
+    "forks": 461,
+    "codelines": 11806,
+    "commentlines": 2377,
+    "emptylines": 5800
+},{
+    "owner": "LuckyZXL2016",
+    "name": "Movie_Recommend",
+    "language": "Java",
+    "stars": 1106,
+    "forks": 593,
+    "codelines": 8095,
+    "commentlines": 411,
+    "emptylines": 5404
+},{
+    "owner": "twitter",
+    "name": "elephant-bird",
+    "language": "Java",
+    "stars": 1098,
+    "forks": 389,
+    "codelines": 19116,
+    "commentlines": 5511,
+    "emptylines": 8543
+},{
+    "owner": "jooby-project",
+    "name": "jooby",
+    "language": "Java",
+    "stars": 1089,
+    "forks": 145,
+    "codelines": 29755,
+    "commentlines": 14077,
+    "emptylines": 14565
+},{
+    "owner": "fossasia",
+    "name": "loklak_wok_android",
+    "language": "Java",
+    "stars": 1092,
+    "forks": 92,
+    "codelines": 3082,
+    "commentlines": 337,
+    "emptylines": 1400
+},{
+    "owner": "cloudfoundry",
+    "name": "uaa",
+    "language": "Java",
+    "stars": 1082,
+    "forks": 694,
+    "codelines": 139169,
+    "commentlines": 13633,
+    "emptylines": 50072
+},{
+    "owner": "ToDou",
+    "name": "appbarlayout-spring-behavior",
+    "language": "Java",
+    "stars": 1075,
+    "forks": 155,
+    "codelines": 1641,
+    "commentlines": 417,
+    "emptylines": 812
+},{
+    "owner": "guardianproject",
+    "name": "ChatSecureAndroid",
+    "language": "Java",
+    "stars": 1073,
+    "forks": 556,
+    "codelines": 30153,
+    "commentlines": 8928,
+    "emptylines": 17758
+},{
+    "owner": "todoroo",
+    "name": "astrid",
+    "language": "Java",
+    "stars": 1073,
+    "forks": 982,
+    "codelines": 121322,
+    "commentlines": 45213,
+    "emptylines": 59056
+},{
+    "owner": "CNSRE",
+    "name": "HTTPDNSLib",
+    "language": "Java",
+    "stars": 1064,
+    "forks": 264,
+    "codelines": 18457,
+    "commentlines": 8724,
+    "emptylines": 11057
+},{
+    "owner": "p6spy",
+    "name": "p6spy",
+    "language": "Java",
+    "stars": 1049,
+    "forks": 215,
+    "codelines": 10261,
+    "commentlines": 3794,
+    "emptylines": 5093
+},{
+    "owner": "ctripcorp",
+    "name": "dal",
+    "language": "Java",
+    "stars": 1046,
+    "forks": 411,
+    "codelines": 64658,
+    "commentlines": 7842,
+    "emptylines": 28823
+},{
+    "owner": "brave",
+    "name": "link-bubble",
+    "language": "Java",
+    "stars": 1037,
+    "forks": 186,
+    "codelines": 18265,
+    "commentlines": 3039,
+    "emptylines": 9421
+},{
+    "owner": "desmond1121",
+    "name": "Android-Ptr-Comparison",
+    "language": "Java",
+    "stars": 1031,
+    "forks": 157,
+    "codelines": 8525,
+    "commentlines": 2558,
+    "emptylines": 4432
+},{
+    "owner": "z56402344",
+    "name": "BaseAnimation",
+    "language": "Java",
+    "stars": 1028,
+    "forks": 534,
+    "codelines": 26603,
+    "commentlines": 7259,
+    "emptylines": 12790
+},{
+    "owner": "DreamOfTheRedChamber",
+    "name": "system-design",
+    "language": "Java",
+    "stars": 1030,
+    "forks": 374,
+    "codelines": 1162,
+    "commentlines": 402,
+    "emptylines": 1277
+},{
+    "owner": "airsonic",
+    "name": "airsonic",
+    "language": "Java",
+    "stars": 1028,
+    "forks": 147,
+    "codelines": 29574,
+    "commentlines": 10880,
+    "emptylines": 14061
+},{
+    "owner": "vanniktech",
+    "name": "Emoji",
+    "language": "Java",
+    "stars": 1021,
+    "forks": 237,
+    "codelines": 13902,
+    "commentlines": 239,
+    "emptylines": 2974
+},{
+    "owner": "SilenceIM",
+    "name": "Silence",
+    "language": "Java",
+    "stars": 1017,
+    "forks": 162,
+    "codelines": 34293,
+    "commentlines": 6281,
+    "emptylines": 17182
+},{
+    "owner": "apache",
+    "name": "pdfbox",
+    "language": "Java",
+    "stars": 1015,
+    "forks": 462,
+    "codelines": 105936,
+    "commentlines": 82285,
+    "emptylines": 76250
+},{
+    "owner": "SmartBear",
+    "name": "soapui",
+    "language": "Java",
+    "stars": 1008,
+    "forks": 476,
+    "codelines": 166519,
+    "commentlines": 50675,
+    "emptylines": 91039
+},{
+    "owner": "ervandew",
+    "name": "eclim",
+    "language": "Java",
+    "stars": 1008,
+    "forks": 137,
+    "codelines": 28438,
+    "commentlines": 14912,
+    "emptylines": 15404
+},{
+    "owner": "AnyChart",
+    "name": "AnyChart-Android",
+    "language": "Java",
+    "stars": 1006,
+    "forks": 187,
+    "codelines": 149642,
+    "commentlines": 147474,
+    "emptylines": 92858
+},{
+    "owner": "purplecabbage",
+    "name": "phonegap-plugins",
+    "language": "Java",
+    "stars": 996,
+    "forks": 4086,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0
+},{
+    "owner": "jenly1314",
+    "name": "ZXingLite",
+    "language": "Java",
+    "stars": 990,
+    "forks": 156,
+    "codelines": 3044,
+    "commentlines": 1664,
+    "emptylines": 1548
+},{
+    "owner": "apache",
+    "name": "struts",
+    "language": "Java",
+    "stars": 984,
+    "forks": 659,
+    "codelines": 132248,
+    "commentlines": 87225,
+    "emptylines": 69451
+},{
+    "owner": "UniversalMediaServer",
+    "name": "UniversalMediaServer",
+    "language": "Java",
+    "stars": 984,
+    "forks": 288,
+    "codelines": 85497,
+    "commentlines": 47961,
+    "emptylines": 38011
+},{
+    "owner": "zeebe-io",
+    "name": "zeebe",
+    "language": "Java",
+    "stars": 981,
+    "forks": 147,
+    "codelines": 122657,
+    "commentlines": 36302,
+    "emptylines": 52862
+},{
+    "owner": "eowise",
+    "name": "recyclerview-stickyheaders",
+    "language": "Java",
+    "stars": 976,
+    "forks": 155,
+    "codelines": 789,
+    "commentlines": 66,
+    "emptylines": 383
+},{
+    "owner": "HelloChenJinJun",
+    "name": "NewFastFrame",
+    "language": "Java",
+    "stars": 973,
+    "forks": 249,
+    "codelines": 54558,
+    "commentlines": 10386,
+    "emptylines": 29969
+},{
+    "owner": "spring-projects",
+    "name": "spring-integration",
+    "language": "Java",
+    "stars": 973,
+    "forks": 789,
+    "codelines": 213526,
+    "commentlines": 94047,
+    "emptylines": 99472
+},{
+    "owner": "smartloli",
+    "name": "kafka-eagle",
+    "language": "Java",
+    "stars": 975,
+    "forks": 373,
+    "codelines": 12309,
+    "commentlines": 5933,
+    "emptylines": 5082
+},{
+    "owner": "AndroidVTS",
+    "name": "android-vts",
+    "language": "Java",
+    "stars": 968,
+    "forks": 281,
+    "codelines": 12213,
+    "commentlines": 8990,
+    "emptylines": 6498
+},{
+    "owner": "OpnTec",
+    "name": "open-event-android",
+    "language": "Java",
+    "stars": 969,
+    "forks": 1,
+    "codelines": 8187,
+    "commentlines": 823,
+    "emptylines": 4052
+},{
+    "owner": "tomthecarrot",
+    "name": "arcore-for-all",
+    "language": "Java",
+    "stars": 955,
+    "forks": 141,
+    "codelines": 31,
+    "commentlines": 13,
+    "emptylines": 14
+},{
+    "owner": "curtis2",
+    "name": "SuperVideoPlayer",
+    "language": "Java",
+    "stars": 948,
+    "forks": 360,
+    "codelines": 6116,
+    "commentlines": 2795,
+    "emptylines": 2514
+},{
+    "owner": "winder",
+    "name": "Universal-G-Code-Sender",
+    "language": "Java",
+    "stars": 941,
+    "forks": 516,
+    "codelines": 34847,
+    "commentlines": 14057,
+    "emptylines": 15229
+},{
+    "owner": "algorithm004-01",
+    "name": "algorithm004-01",
+    "language": "Java",
+    "stars": 921,
+    "forks": 361,
+    "codelines": 39935,
+    "commentlines": 19403,
+    "emptylines": 21266
+},{
+    "owner": "youseries",
+    "name": "ureport",
+    "language": "Java",
+    "stars": 916,
+    "forks": 461,
+    "codelines": 24241,
+    "commentlines": 10140,
+    "emptylines": 8458
+},{
+    "owner": "good-life",
+    "name": "PushTalk",
+    "language": "Java",
+    "stars": 914,
+    "forks": 615,
+    "codelines": 3530,
+    "commentlines": 86,
+    "emptylines": 1722
+},{
+    "owner": "google-ar",
+    "name": "sceneform-android-sdk",
+    "language": "Java",
+    "stars": 892,
+    "forks": 382,
+    "codelines": 3423,
+    "commentlines": 1451,
+    "emptylines": 1603
+},{
+    "owner": "eBay",
+    "name": "restcommander",
+    "language": "Java",
+    "stars": 889,
+    "forks": 144,
+    "codelines": 35072,
+    "commentlines": 10200,
+    "emptylines": 18260
+},{
+    "owner": "ashqal",
+    "name": "MD360Player4Android",
+    "language": "Java",
+    "stars": 882,
+    "forks": 318,
+    "codelines": 8695,
+    "commentlines": 1614,
+    "emptylines": 4778
+},{
+    "owner": "spring2go",
+    "name": "staffjoy",
+    "language": "Java",
+    "stars": 876,
+    "forks": 474,
+    "codelines": 13762,
+    "commentlines": 661,
+    "emptylines": 4393
+},{
+    "owner": "IanDarwin",
+    "name": "Android-Cookbook-Examples",
+    "language": "Java",
+    "stars": 869,
+    "forks": 840,
+    "codelines": 13205,
+    "commentlines": 3358,
+    "emptylines": 6040
+},{
+    "owner": "resteasy",
+    "name": "Resteasy",
+    "language": "Java",
+    "stars": 859,
+    "forks": 787,
+    "codelines": 178883,
+    "commentlines": 32928,
+    "emptylines": 87835
+},{
+    "owner": "HuanTanSheng",
+    "name": "EasyPhotos",
+    "language": "Java",
+    "stars": 871,
+    "forks": 152,
+    "codelines": 9433,
+    "commentlines": 1304,
+    "emptylines": 4251
+},{
+    "owner": "facebookarchive",
+    "name": "hadoop-20",
+    "language": "Java",
+    "stars": 854,
+    "forks": 359,
+    "codelines": 379962,
+    "commentlines": 150951,
+    "emptylines": 151717
+},{
+    "owner": "DuanJiaNing",
+    "name": "Musicoco",
+    "language": "Java",
+    "stars": 848,
+    "forks": 189,
+    "codelines": 17983,
+    "commentlines": 2725,
+    "emptylines": 9121
+},{
+    "owner": "REBOOTERS",
+    "name": "AndroidAnimationExercise",
+    "language": "Java",
+    "stars": 849,
+    "forks": 201,
+    "codelines": 28436,
+    "commentlines": 8160,
+    "emptylines": 13698
+},{
+    "owner": "417511458",
+    "name": "jbone",
+    "language": "Java",
+    "stars": 847,
+    "forks": 488,
+    "codelines": 978,
+    "commentlines": 248,
+    "emptylines": 587
+},{
+    "owner": "rabbitmq",
+    "name": "rabbitmq-java-client",
+    "language": "Java",
+    "stars": 836,
+    "forks": 411,
+    "codelines": 25080,
+    "commentlines": 13421,
+    "emptylines": 13094
+},{
+    "owner": "treasure-data",
+    "name": "digdag",
+    "language": "Java",
+    "stars": 832,
+    "forks": 146,
+    "codelines": 57020,
+    "commentlines": 2657,
+    "emptylines": 27845
+},{
+    "owner": "tony19",
+    "name": "logback-android",
+    "language": "Java",
+    "stars": 832,
+    "forks": 121,
+    "codelines": 39114,
+    "commentlines": 22058,
+    "emptylines": 20497
+},{
+    "owner": "androidmalin",
+    "name": "RengwuxianRxjava",
+    "language": "Java",
+    "stars": 825,
+    "forks": 157,
+    "codelines": 1207,
+    "commentlines": 924,
+    "emptylines": 716
+},{
+    "owner": "cuba-platform",
+    "name": "cuba",
+    "language": "Java",
+    "stars": 824,
+    "forks": 145,
+    "codelines": 302404,
+    "commentlines": 116474,
+    "emptylines": 162167
+},{
+    "owner": "alibaba",
+    "name": "simpleimage",
+    "language": "Java",
+    "stars": 821,
+    "forks": 349,
+    "codelines": 13494,
+    "commentlines": 4560,
+    "emptylines": 6669
+},{
+    "owner": "jcodec",
+    "name": "jcodec",
+    "language": "Java",
+    "stars": 816,
+    "forks": 250,
+    "codelines": 108647,
+    "commentlines": 13033,
+    "emptylines": 35761
+},{
+    "owner": "schemacrawler",
+    "name": "SchemaCrawler",
+    "language": "Java",
+    "stars": 813,
+    "forks": 119,
+    "codelines": 38965,
+    "commentlines": 22684,
+    "emptylines": 26241
+},{
+    "owner": "mikepenz",
+    "name": "wallsplash-android",
+    "language": "Java",
+    "stars": 795,
+    "forks": 236,
+    "codelines": 1627,
+    "commentlines": 319,
+    "emptylines": 856
+},{
+    "owner": "zstackio",
+    "name": "zstack",
+    "language": "Java",
+    "stars": 796,
+    "forks": 290,
+    "codelines": 422047,
+    "commentlines": 30940,
+    "emptylines": 207034
+},{
+    "owner": "prestosql",
+    "name": "presto",
+    "language": "Java",
+    "stars": 783,
+    "forks": 346,
+    "codelines": 531756,
+    "commentlines": 99669,
+    "emptylines": 261440
+},{
+    "owner": "apache",
+    "name": "accumulo",
+    "language": "Java",
+    "stars": 770,
+    "forks": 307,
+    "codelines": 294926,
+    "commentlines": 78308,
+    "emptylines": 133927
+},{
+    "owner": "umlet",
+    "name": "umlet",
+    "language": "Java",
+    "stars": 771,
+    "forks": 181,
+    "codelines": 33085,
+    "commentlines": 4023,
+    "emptylines": 16763
+},{
+    "owner": "belaban",
+    "name": "JGroups",
+    "language": "Java",
+    "stars": 769,
+    "forks": 404,
+    "codelines": 101836,
+    "commentlines": 16807,
+    "emptylines": 48813
+},{
+    "owner": "appium",
+    "name": "java-client",
+    "language": "Java",
+    "stars": 769,
+    "forks": 571,
+    "codelines": 14061,
+    "commentlines": 11273,
+    "emptylines": 7170
+},{
+    "owner": "mapsforge",
+    "name": "mapsforge",
+    "language": "Java",
+    "stars": 771,
+    "forks": 307,
+    "codelines": 34431,
+    "commentlines": 21894,
+    "emptylines": 16346
+},{
+    "owner": "Teradata",
+    "name": "kylo",
+    "language": "Java",
+    "stars": 764,
+    "forks": 364,
+    "codelines": 185594,
+    "commentlines": 101526,
+    "emptylines": 98614
+},{
+    "owner": "getsentry",
+    "name": "sentry-react-native",
+    "language": "Java",
+    "stars": 757,
+    "forks": 186,
+    "codelines": 547,
+    "commentlines": 13,
+    "emptylines": 235
+},{
+    "owner": "paypal",
+    "name": "PayPal-Android-SDK",
+    "language": "Java",
+    "stars": 744,
+    "forks": 504,
+    "codelines": 296,
+    "commentlines": 101,
+    "emptylines": 125
+},{
+    "owner": "JorgeCastilloPrz",
+    "name": "PagedHeadListView",
+    "language": "Java",
+    "stars": 739,
+    "forks": 223,
+    "codelines": 807,
+    "commentlines": 138,
+    "emptylines": 409
+},{
+    "owner": "GoogleCloudPlatform",
+    "name": "community",
+    "language": "Java",
+    "stars": 738,
+    "forks": 807,
+    "codelines": 2780,
+    "commentlines": 1380,
+    "emptylines": 1122
+},{
+    "owner": "Victory-Over",
+    "name": "SuperWeb",
+    "language": "Java",
+    "stars": 740,
+    "forks": 127,
+    "codelines": 6160,
+    "commentlines": 528,
+    "emptylines": 3786
+},{
+    "owner": "florent37",
+    "name": "MaterialLeanBack",
+    "language": "Java",
+    "stars": 737,
+    "forks": 154,
+    "codelines": 621,
+    "commentlines": 47,
+    "emptylines": 334
+},{
+    "owner": "FuZhucheng",
+    "name": "SSM",
+    "language": "Java",
+    "stars": 738,
+    "forks": 389,
+    "codelines": 2512,
+    "commentlines": 728,
+    "emptylines": 1111
+},{
+    "owner": "apache",
+    "name": "phoenix",
+    "language": "Java",
+    "stars": 734,
+    "forks": 788,
+    "codelines": 253974,
+    "commentlines": 58933,
+    "emptylines": 84041
+},{
+    "owner": "jboss-developer",
+    "name": "jboss-eap-quickstarts",
+    "language": "Java",
+    "stars": 727,
+    "forks": 1337,
+    "codelines": 14237,
+    "commentlines": 12758,
+    "emptylines": 7046
+},{
+    "owner": "ahmetaa",
+    "name": "zemberek-nlp",
+    "language": "Java",
+    "stars": 722,
+    "forks": 153,
+    "codelines": 45917,
+    "commentlines": 6812,
+    "emptylines": 20250
+},{
+    "owner": "dianping",
+    "name": "pigeon",
+    "language": "Java",
+    "stars": 723,
+    "forks": 245,
+    "codelines": 29373,
+    "commentlines": 3281,
+    "emptylines": 16384
+},{
+    "owner": "aws",
+    "name": "aws-sdk-java-v2",
+    "language": "Java",
+    "stars": 712,
+    "forks": 241,
+    "codelines": 152721,
+    "commentlines": 77952,
+    "emptylines": 71127
+},{
+    "owner": "apache",
+    "name": "metron",
+    "language": "Java",
+    "stars": 710,
+    "forks": 470,
+    "codelines": 106311,
+    "commentlines": 48265,
+    "emptylines": 45381
+},{
+    "owner": "palantir",
+    "name": "atlasdb",
+    "language": "Java",
+    "stars": 707,
+    "forks": 131,
+    "codelines": 176018,
+    "commentlines": 52400,
+    "emptylines": 73542
+},{
+    "owner": "YangModels",
+    "name": "yang",
+    "language": "Java",
+    "stars": 704,
+    "forks": 584,
+    "codelines": 761,
+    "commentlines": 755,
+    "emptylines": 585
+},{
+    "owner": "danfickle",
+    "name": "openhtmltopdf",
+    "language": "Java",
+    "stars": 686,
+    "forks": 145,
+    "codelines": 45704,
+    "commentlines": 20056,
+    "emptylines": 23157
+},{
+    "owner": "mcxiaoke",
+    "name": "minicat",
+    "language": "Java",
+    "stars": 670,
+    "forks": 343,
+    "codelines": 20861,
+    "commentlines": 4805,
+    "emptylines": 8941
+},{
+    "owner": "caprica",
+    "name": "vlcj",
+    "language": "Java",
+    "stars": 668,
+    "forks": 229,
+    "codelines": 14611,
+    "commentlines": 18167,
+    "emptylines": 9628
+},{
+    "owner": "google",
+    "name": "google-api-java-client-samples",
+    "language": "Java",
+    "stars": 659,
+    "forks": 1074,
+    "codelines": 8243,
+    "commentlines": 6311,
+    "emptylines": 3819
+},{
+    "owner": "malmstein",
+    "name": "yahnac",
+    "language": "Java",
+    "stars": 653,
+    "forks": 118,
+    "codelines": 5673,
+    "commentlines": 271,
+    "emptylines": 2867
+},{
+    "owner": "dineshshetty",
+    "name": "Android-InsecureBankv2",
+    "language": "Java",
+    "stars": 654,
+    "forks": 215,
+    "codelines": 1335,
+    "commentlines": 375,
+    "emptylines": 522
+},{
+    "owner": "iqiyi",
+    "name": "Neptune",
+    "language": "Java",
+    "stars": 654,
+    "forks": 81,
+    "codelines": 13426,
+    "commentlines": 5616,
+    "emptylines": 6022
+},{
+    "owner": "lawloretienne",
+    "name": "TinderStack",
+    "language": "Java",
+    "stars": 651,
+    "forks": 85,
+    "codelines": 423,
+    "commentlines": 99,
+    "emptylines": 238
+},{
+    "owner": "ignatov",
+    "name": "intellij-erlang",
+    "language": "Java",
+    "stars": 646,
+    "forks": 100,
+    "codelines": 26500,
+    "commentlines": 7299,
+    "emptylines": 11222
+},{
+    "owner": "lovebing",
+    "name": "react-native-baidu-map",
+    "language": "Java",
+    "stars": 643,
+    "forks": 270,
+    "codelines": 3836,
+    "commentlines": 1177,
+    "emptylines": 1996
+},{
+    "owner": "sonatype",
+    "name": "nexus-public",
+    "language": "Java",
+    "stars": 642,
+    "forks": 286,
+    "codelines": 169020,
+    "commentlines": 74094,
+    "emptylines": 85341
+},{
+    "owner": "xiaohaibin",
+    "name": "OpenEyes",
+    "language": "Java",
+    "stars": 632,
+    "forks": 183,
+    "codelines": 2282,
+    "commentlines": 689,
+    "emptylines": 1293
+},{
+    "owner": "M66B",
+    "name": "FairEmail",
+    "language": "Java",
+    "stars": 639,
+    "forks": 109,
+    "codelines": 50919,
+    "commentlines": 9430,
+    "emptylines": 19494
+},{
+    "owner": "iqiyi",
+    "name": "Qigsaw",
+    "language": "Java",
+    "stars": 633,
+    "forks": 86,
+    "codelines": 10262,
+    "commentlines": 3580,
+    "emptylines": 5547
+},{
+    "owner": "android",
+    "name": "android-test",
+    "language": "Java",
+    "stars": 632,
+    "forks": 123,
+    "codelines": 63899,
+    "commentlines": 27487,
+    "emptylines": 25716
+},{
+    "owner": "ysnows",
+    "name": "DoubleScrollVIew",
+    "language": "Java",
+    "stars": 626,
+    "forks": 147,
+    "codelines": 433,
+    "commentlines": 39,
+    "emptylines": 245
+},{
+    "owner": "TellH",
+    "name": "GitClub",
+    "language": "Java",
+    "stars": 624,
+    "forks": 119,
+    "codelines": 9856,
+    "commentlines": 1207,
+    "emptylines": 4489
+},{
+    "owner": "smuyyh",
+    "name": "SprintNBA",
+    "language": "Java",
+    "stars": 623,
+    "forks": 249,
+    "codelines": 31017,
+    "commentlines": 7915,
+    "emptylines": 14485
+},{
+    "owner": "SigPloiter",
+    "name": "SigPloit",
+    "language": "Java",
+    "stars": 622,
+    "forks": 266,
+    "codelines": 2614,
+    "commentlines": 338,
+    "emptylines": 1954
+},{
+    "owner": "shts",
+    "name": "StoriesProgressView",
+    "language": "Java",
+    "stars": 620,
+    "forks": 145,
+    "codelines": 335,
+    "commentlines": 70,
+    "emptylines": 177
+},{
+    "owner": "digitalsonic",
+    "name": "geektime-spring-family",
+    "language": "Java",
+    "stars": 619,
+    "forks": 1499,
+    "codelines": 24275,
+    "commentlines": 638,
+    "emptylines": 7604
+},{
+    "owner": "MewX",
+    "name": "light-novel-library_Wenku8_Android",
+    "language": "Java",
+    "stars": 618,
+    "forks": 230,
+    "codelines": 32770,
+    "commentlines": 11841,
+    "emptylines": 14144
+},{
+    "owner": "andremion",
+    "name": "Louvre",
+    "language": "Java",
+    "stars": 616,
+    "forks": 96,
+    "codelines": 1501,
+    "commentlines": 419,
+    "emptylines": 737
+},{
+    "owner": "spring-cloud",
+    "name": "spring-cloud-consul",
+    "language": "Java",
+    "stars": 614,
+    "forks": 429,
+    "codelines": 6385,
+    "commentlines": 2803,
+    "emptylines": 3160
+},{
+    "owner": "forJrking",
+    "name": "FontZip",
+    "language": "Java",
+    "stars": 610,
+    "forks": 77,
+    "codelines": 91336,
+    "commentlines": 160334,
+    "emptylines": 8511
+},{
+    "owner": "80945540",
+    "name": "LCRapidDevelop",
+    "language": "Java",
+    "stars": 606,
+    "forks": 155,
+    "codelines": 7614,
+    "commentlines": 1683,
+    "emptylines": 3554
+},{
+    "owner": "RaiMan",
+    "name": "SikuliNG",
+    "language": "Java",
+    "stars": 606,
+    "forks": 100,
+    "codelines": 18247,
+    "commentlines": 2832,
+    "emptylines": 8223
+},{
+    "owner": "littleMeng",
+    "name": "video-live",
+    "language": "Java",
+    "stars": 599,
+    "forks": 241,
+    "codelines": 1629,
+    "commentlines": 312,
+    "emptylines": 807
+},{
+    "owner": "happylishang",
+    "name": "DragScrollDetailsLayout",
+    "language": "Java",
+    "stars": 599,
+    "forks": 89,
+    "codelines": 634,
+    "commentlines": 120,
+    "emptylines": 296
+},{
+    "owner": "nodebox",
+    "name": "nodebox",
+    "language": "Java",
+    "stars": 595,
+    "forks": 76,
+    "codelines": 26964,
+    "commentlines": 5257,
+    "emptylines": 12489
+},{
+    "owner": "huangfangyi",
+    "name": "FanXin",
+    "language": "Java",
+    "stars": 593,
+    "forks": 296,
+    "codelines": 34487,
+    "commentlines": 8847,
+    "emptylines": 16332
+},{
+    "owner": "apache",
+    "name": "pig",
+    "language": "Java",
+    "stars": 592,
+    "forks": 447,
+    "codelines": 228373,
+    "commentlines": 79113,
+    "emptylines": 93117
+},{
+    "owner": "FastBootWeixin",
+    "name": "FastBootWeixin",
+    "language": "Java",
+    "stars": 591,
+    "forks": 187,
+    "codelines": 29748,
+    "commentlines": 13850,
+    "emptylines": 16517
+},{
+    "owner": "googlearchive",
+    "name": "leanback-showcase",
+    "language": "Java",
+    "stars": 588,
+    "forks": 214,
+    "codelines": 7726,
+    "commentlines": 3562,
+    "emptylines": 3602
+},{
+    "owner": "olacabs",
+    "name": "jackhammer",
+    "language": "Java",
+    "stars": 587,
+    "forks": 138,
+    "codelines": 14992,
+    "commentlines": 248,
+    "emptylines": 5170
+},{
+    "owner": "rometools",
+    "name": "rome",
+    "language": "Java",
+    "stars": 588,
+    "forks": 134,
+    "codelines": 34635,
+    "commentlines": 44222,
+    "emptylines": 19751
+},{
+    "owner": "homcin",
+    "name": "Tuikan",
+    "language": "Java",
+    "stars": 584,
+    "forks": 164,
+    "codelines": 13406,
+    "commentlines": 4997,
+    "emptylines": 5845
+},{
+    "owner": "sitewhere",
+    "name": "sitewhere",
+    "language": "Java",
+    "stars": 586,
+    "forks": 259,
+    "codelines": 64468,
+    "commentlines": 55362,
+    "emptylines": 30746
+},{
+    "owner": "LiCola1213",
+    "name": "huabanDemo",
+    "language": "Java",
+    "stars": 578,
+    "forks": 181,
+    "codelines": 13046,
+    "commentlines": 3058,
+    "emptylines": 8338
+},{
+    "owner": "Tophold",
+    "name": "FinancialCustomerView",
+    "language": "Java",
+    "stars": 581,
+    "forks": 120,
+    "codelines": 7683,
+    "commentlines": 3180,
+    "emptylines": 3871
+},{
+    "owner": "processing",
+    "name": "processing-android",
+    "language": "Java",
+    "stars": 576,
+    "forks": 221,
+    "codelines": 52301,
+    "commentlines": 27416,
+    "emptylines": 30738
+},{
+    "owner": "rsksmart",
+    "name": "rskj",
+    "language": "Java",
+    "stars": 575,
+    "forks": 179,
+    "codelines": 102298,
+    "commentlines": 29683,
+    "emptylines": 49189
+},{
+    "owner": "jgraph",
+    "name": "jgraphx",
+    "language": "Java",
+    "stars": 569,
+    "forks": 319,
+    "codelines": 36765,
+    "commentlines": 25597,
+    "emptylines": 31807
+},{
+    "owner": "lucee",
+    "name": "Lucee",
+    "language": "Java",
+    "stars": 567,
+    "forks": 98,
+    "codelines": 207449,
+    "commentlines": 106676,
+    "emptylines": 107016
+},{
+    "owner": "brendano",
+    "name": "ark-tweet-nlp",
+    "language": "Java",
+    "stars": 558,
+    "forks": 198,
+    "codelines": 2081,
+    "commentlines": 603,
+    "emptylines": 997
+},{
+    "owner": "DroidPlanner",
+    "name": "Tower",
+    "language": "Java",
+    "stars": 557,
+    "forks": 513,
+    "codelines": 21575,
+    "commentlines": 3861,
+    "emptylines": 10859
+},{
+    "owner": "dcm4che",
+    "name": "dcm4che",
+    "language": "Java",
+    "stars": 557,
+    "forks": 421,
+    "codelines": 54590,
+    "commentlines": 19945,
+    "emptylines": 19947
+},{
+    "owner": "andresoviedo",
+    "name": "android-3D-model-viewer",
+    "language": "Java",
+    "stars": 559,
+    "forks": 176,
+    "codelines": 8122,
+    "commentlines": 3248,
+    "emptylines": 3752
+},{
+    "owner": "BelledonneCommunications",
+    "name": "linphone-android",
+    "language": "Java",
+    "stars": 554,
+    "forks": 437,
+    "codelines": 23685,
+    "commentlines": 3645,
+    "emptylines": 8949
+},{
+    "owner": "SleepyTrousers",
+    "name": "EnderIO",
+    "language": "Java",
+    "stars": 553,
+    "forks": 267,
+    "codelines": 123215,
+    "commentlines": 8121,
+    "emptylines": 61483
+},{
+    "owner": "WuXiaolong",
+    "name": "WeWin",
+    "language": "Java",
+    "stars": 548,
+    "forks": 238,
+    "codelines": 2558,
+    "commentlines": 325,
+    "emptylines": 1287
+},{
+    "owner": "freenet",
+    "name": "fred",
+    "language": "Java",
+    "stars": 543,
+    "forks": 157,
+    "codelines": 165495,
+    "commentlines": 41055,
+    "emptylines": 64139
+},{
+    "owner": "in28minutes",
+    "name": "spring-microservices",
+    "language": "Java",
+    "stars": 542,
+    "forks": 1074,
+    "codelines": 1028,
+    "commentlines": 32,
+    "emptylines": 655
+},{
+    "owner": "NearbyShops",
+    "name": "Nearby-Shops-End-User-Android-app",
+    "language": "Java",
+    "stars": 532,
+    "forks": 118,
+    "codelines": 30052,
+    "commentlines": 7787,
+    "emptylines": 38857
+},{
+    "owner": "JarvisGG",
+    "name": "NestedTouchScrollingLayout",
+    "language": "Java",
+    "stars": 529,
+    "forks": 57,
+    "codelines": 1931,
+    "commentlines": 245,
+    "emptylines": 1121
+},{
+    "owner": "limboemu",
+    "name": "limbo",
+    "language": "Java",
+    "stars": 528,
+    "forks": 148,
+    "codelines": 17865,
+    "commentlines": 3865,
+    "emptylines": 8157
+},{
+    "owner": "infinitest",
+    "name": "infinitest",
+    "language": "Java",
+    "stars": 527,
+    "forks": 137,
+    "codelines": 16461,
+    "commentlines": 14649,
+    "emptylines": 9184
+},{
+    "owner": "fayson",
+    "name": "cdhproject",
+    "language": "Java",
+    "stars": 523,
+    "forks": 350,
+    "codelines": 8518,
+    "commentlines": 2476,
+    "emptylines": 2044
+},{
+    "owner": "zhou-you",
+    "name": "EasyXRecyclerView",
+    "language": "Java",
+    "stars": 519,
+    "forks": 93,
+    "codelines": 10598,
+    "commentlines": 3038,
+    "emptylines": 4661
+},{
+    "owner": "elki-project",
+    "name": "elki",
+    "language": "Java",
+    "stars": 516,
+    "forks": 246,
+    "codelines": 149825,
+    "commentlines": 170327,
+    "emptylines": 66173
+},{
+    "owner": "linkedin",
+    "name": "sensei",
+    "language": "Java",
+    "stars": 513,
+    "forks": 171,
+    "codelines": 34678,
+    "commentlines": 12309,
+    "emptylines": 18141
+},{
+    "owner": "kaiwaehner",
+    "name": "kafka-streams-machine-learning-examples",
+    "language": "Java",
+    "stars": 511,
+    "forks": 187,
+    "codelines": 99513,
+    "commentlines": 832,
+    "emptylines": 833
+},{
+    "owner": "hprose",
+    "name": "hprose-java",
+    "language": "Java",
+    "stars": 507,
+    "forks": 176,
+    "codelines": 15884,
+    "commentlines": 6087,
+    "emptylines": 7614
+},{
+    "owner": "jenetics",
+    "name": "jenetics",
+    "language": "Java",
+    "stars": 508,
+    "forks": 103,
+    "codelines": 38740,
+    "commentlines": 34935,
+    "emptylines": 20593
+},{
+    "owner": "shibing624",
+    "name": "similarity",
+    "language": "Java",
+    "stars": 504,
+    "forks": 155,
+    "codelines": 4446,
+    "commentlines": 1931,
+    "emptylines": 2223
+},{
+    "owner": "kontalk",
+    "name": "androidclient",
+    "language": "Java",
+    "stars": 502,
+    "forks": 179,
+    "codelines": 40722,
+    "commentlines": 15290,
+    "emptylines": 20686
+},{
+    "owner": "meefik",
+    "name": "busybox",
+    "language": "Java",
+    "stars": 502,
+    "forks": 127,
+    "codelines": 915,
+    "commentlines": 305,
+    "emptylines": 332
+},{
+    "owner": "mekanism",
+    "name": "Mekanism",
+    "language": "Java",
+    "stars": 493,
+    "forks": 286,
+    "codelines": 79877,
+    "commentlines": 5209,
+    "emptylines": 31466
+},{
+    "owner": "xiangcman",
+    "name": "LayoutManager-FlowLayout",
+    "language": "Java",
+    "stars": 486,
+    "forks": 117,
+    "codelines": 823,
+    "commentlines": 202,
+    "emptylines": 339
+},{
+    "owner": "reds-heig",
+    "name": "logisim-evolution",
+    "language": "Java",
+    "stars": 486,
+    "forks": 102,
+    "codelines": 98348,
+    "commentlines": 28436,
+    "emptylines": 35961
+},{
+    "owner": "netease-im",
+    "name": "NIM_Android_UIKit",
+    "language": "Java",
+    "stars": 485,
+    "forks": 93,
+    "codelines": 37746,
+    "commentlines": 7409,
+    "emptylines": 20521
+},{
+    "owner": "jclouds",
+    "name": "legacy-jclouds",
+    "language": "Java",
+    "stars": 482,
+    "forks": 232,
+    "codelines": 274907,
+    "commentlines": 168777,
+    "emptylines": 118954
+},{
+    "owner": "sirixdb",
+    "name": "sirix",
+    "language": "Java",
+    "stars": 478,
+    "forks": 65,
+    "codelines": 74358,
+    "commentlines": 49726,
+    "emptylines": 32714
+},{
+    "owner": "IQSS",
+    "name": "dataverse",
+    "language": "Java",
+    "stars": 479,
+    "forks": 263,
+    "codelines": 125194,
+    "commentlines": 33762,
+    "emptylines": 61497
+},{
+    "owner": "jblas-project",
+    "name": "jblas",
+    "language": "Java",
+    "stars": 473,
+    "forks": 132,
+    "codelines": 9246,
+    "commentlines": 6912,
+    "emptylines": 5858
+},{
+    "owner": "spring-cloud",
+    "name": "spring-cloud-contract",
+    "language": "Java",
+    "stars": 470,
+    "forks": 286,
+    "codelines": 33629,
+    "commentlines": 18294,
+    "emptylines": 19108
+},{
+    "owner": "xSAVIKx",
+    "name": "AndroidScreencast",
+    "language": "Java",
+    "stars": 466,
+    "forks": 114,
+    "codelines": 3503,
+    "commentlines": 1745,
+    "emptylines": 1611
+},{
+    "owner": "vogellacompany",
+    "name": "codeexamples-android",
+    "language": "Java",
+    "stars": 464,
+    "forks": 740,
+    "codelines": 50314,
+    "commentlines": 15865,
+    "emptylines": 23212
+},{
+    "owner": "meganz",
+    "name": "android",
+    "language": "Java",
+    "stars": 463,
+    "forks": 196,
+    "codelines": 171162,
+    "commentlines": 14729,
+    "emptylines": 76788
+},{
+    "owner": "featurecat",
+    "name": "lizzie",
+    "language": "Java",
+    "stars": 460,
+    "forks": 134,
+    "codelines": 18122,
+    "commentlines": 1969,
+    "emptylines": 6008
+},{
+    "owner": "fuhoujun",
+    "name": "e",
+    "language": "Java",
+    "stars": 460,
+    "forks": 269,
+    "codelines": 1084,
+    "commentlines": 320,
+    "emptylines": 447
+},{
+    "owner": "TomRoush",
+    "name": "PdfBox-Android",
+    "language": "Java",
+    "stars": 458,
+    "forks": 121,
+    "codelines": 54221,
+    "commentlines": 51717,
+    "emptylines": 41817
+},{
+    "owner": "kaku2015",
+    "name": "WeatherAlarmClock",
+    "language": "Java",
+    "stars": 457,
+    "forks": 158,
+    "codelines": 19373,
+    "commentlines": 15936,
+    "emptylines": 9125
+},{
+    "owner": "apache",
+    "name": "karaf",
+    "language": "Java",
+    "stars": 448,
+    "forks": 522,
+    "codelines": 100342,
+    "commentlines": 39849,
+    "emptylines": 45044
+},{
+    "owner": "abixen",
+    "name": "abixen-platform",
+    "language": "Java",
+    "stars": 444,
+    "forks": 177,
+    "codelines": 15225,
+    "commentlines": 6381,
+    "emptylines": 8679
+},{
+    "owner": "eclipse",
+    "name": "buildship",
+    "language": "Java",
+    "stars": 445,
+    "forks": 132,
+    "codelines": 24064,
+    "commentlines": 12182,
+    "emptylines": 12975
+},{
+    "owner": "Michaelvilleneuve",
+    "name": "react-native-document-scanner",
+    "language": "Java",
+    "stars": 446,
+    "forks": 108,
+    "codelines": 12299,
+    "commentlines": 5423,
+    "emptylines": 11137
+},{
+    "owner": "chocoteam",
+    "name": "choco-solver",
+    "language": "Java",
+    "stars": 441,
+    "forks": 96,
+    "codelines": 73943,
+    "commentlines": 34300,
+    "emptylines": 31029
+},{
+    "owner": "deltachat",
+    "name": "deltachat-android",
+    "language": "Java",
+    "stars": 442,
+    "forks": 78,
+    "codelines": 32984,
+    "commentlines": 3680,
+    "emptylines": 16441
+},{
+    "owner": "MozillaReality",
+    "name": "FirefoxReality",
+    "language": "Java",
+    "stars": 440,
+    "forks": 82,
+    "codelines": 24297,
+    "commentlines": 1112,
+    "emptylines": 12121
+},{
+    "owner": "tinkerpop",
+    "name": "rexster",
+    "language": "Java",
+    "stars": 438,
+    "forks": 114,
+    "codelines": 19979,
+    "commentlines": 3172,
+    "emptylines": 9274
+},{
+    "owner": "muyinchen",
+    "name": "woker",
+    "language": "Java",
+    "stars": 438,
+    "forks": 206,
+    "codelines": 3114,
+    "commentlines": 608,
+    "emptylines": 2299
+},{
+    "owner": "sangcomz",
+    "name": "FishBun",
+    "language": "Java",
+    "stars": 435,
+    "forks": 107,
+    "codelines": 1895,
+    "commentlines": 371,
+    "emptylines": 865
+},{
+    "owner": "aws-samples",
+    "name": "kubernetes-for-java-developers",
+    "language": "Java",
+    "stars": 435,
+    "forks": 173,
+    "codelines": 15,
+    "commentlines": 3,
+    "emptylines": 10
+},{
+    "owner": "jitsi",
+    "name": "libjitsi",
+    "language": "Java",
+    "stars": 427,
+    "forks": 213,
+    "codelines": 86245,
+    "commentlines": 79759,
+    "emptylines": 52374
+},{
+    "owner": "bravobit",
+    "name": "FFmpeg-Android",
+    "language": "Java",
+    "stars": 428,
+    "forks": 108,
+    "codelines": 604,
+    "commentlines": 104,
+    "emptylines": 362
+},{
+    "owner": "usc-isi-i2",
+    "name": "Web-Karma",
+    "language": "Java",
+    "stars": 424,
+    "forks": 170,
+    "codelines": 71355,
+    "commentlines": 20897,
+    "emptylines": 33222
+},{
+    "owner": "robo-code",
+    "name": "robocode",
+    "language": "Java",
+    "stars": 424,
+    "forks": 205,
+    "codelines": 41011,
+    "commentlines": 22828,
+    "emptylines": 24271
+},{
+    "owner": "impossibl",
+    "name": "pgjdbc-ng",
+    "language": "Java",
+    "stars": 423,
+    "forks": 87,
+    "codelines": 43233,
+    "commentlines": 33212,
+    "emptylines": 25054
+},{
+    "owner": "ericwlange",
+    "name": "AndroidJSCore",
+    "language": "Java",
+    "stars": 423,
+    "forks": 69,
+    "codelines": 7174,
+    "commentlines": 4448,
+    "emptylines": 2703
+},{
+    "owner": "JorgeCastilloPrz",
+    "name": "ExpandablePanel",
+    "language": "Java",
+    "stars": 420,
+    "forks": 74,
+    "codelines": 596,
+    "commentlines": 85,
+    "emptylines": 323
+},{
+    "owner": "apache",
+    "name": "atlas",
+    "language": "Java",
+    "stars": 420,
+    "forks": 268,
+    "codelines": 105032,
+    "commentlines": 24367,
+    "emptylines": 56025
+},{
+    "owner": "DingProg",
+    "name": "Makeup",
+    "language": "Java",
+    "stars": 421,
+    "forks": 54,
+    "codelines": 1518,
+    "commentlines": 297,
+    "emptylines": 764
+},{
+    "owner": "tillnagel",
+    "name": "unfolding",
+    "language": "Java",
+    "stars": 418,
+    "forks": 241,
+    "codelines": 13838,
+    "commentlines": 5101,
+    "emptylines": 8175
+},{
+    "owner": "yahoo",
+    "name": "storm-yarn",
+    "language": "Java",
+    "stars": 418,
+    "forks": 168,
+    "codelines": 1989,
+    "commentlines": 389,
+    "emptylines": 693
+},{
+    "owner": "florent37",
+    "name": "BeautifulParallax",
+    "language": "Java",
+    "stars": 418,
+    "forks": 73,
+    "codelines": 108,
+    "commentlines": 15,
+    "emptylines": 78
+},{
+    "owner": "bifan-wei",
+    "name": "HwTxtReader",
+    "language": "Java",
+    "stars": 417,
+    "forks": 96,
+    "codelines": 4959,
+    "commentlines": 854,
+    "emptylines": 2397
+},{
+    "owner": "qzind",
+    "name": "tray",
+    "language": "Java",
+    "stars": 416,
+    "forks": 143,
+    "codelines": 12704,
+    "commentlines": 2967,
+    "emptylines": 6454
+},{
+    "owner": "JetBrains",
+    "name": "Grammar-Kit",
+    "language": "Java",
+    "stars": 416,
+    "forks": 75,
+    "codelines": 30036,
+    "commentlines": 7111,
+    "emptylines": 12349
+},{
+    "owner": "hsllany",
+    "name": "HtmlNative",
+    "language": "Java",
+    "stars": 417,
+    "forks": 57,
+    "codelines": 19678,
+    "commentlines": 9473,
+    "emptylines": 9533
+},{
+    "owner": "micdoodle8",
+    "name": "Galacticraft",
+    "language": "Java",
+    "stars": 415,
+    "forks": 273,
+    "codelines": 113973,
+    "commentlines": 12854,
+    "emptylines": 77641
+},{
+    "owner": "yoyiyi",
+    "name": "bilisoleil",
+    "language": "Java",
+    "stars": 414,
+    "forks": 91,
+    "codelines": 23070,
+    "commentlines": 9610,
+    "emptylines": 10850
+},{
+    "owner": "GoogleCloudPlatform",
+    "name": "getting-started-java",
+    "language": "Java",
+    "stars": 410,
+    "forks": 522,
+    "codelines": 9733,
+    "commentlines": 3801,
+    "emptylines": 3724
+},{
+    "owner": "bardsoftware",
+    "name": "ganttproject",
+    "language": "Java",
+    "stars": 411,
+    "forks": 139,
+    "codelines": 53803,
+    "commentlines": 17967,
+    "emptylines": 26151
+},{
+    "owner": "google",
+    "name": "closure-templates",
+    "language": "Java",
+    "stars": 406,
+    "forks": 150,
+    "codelines": 101483,
+    "commentlines": 43376,
+    "emptylines": 36138
+},{
+    "owner": "jpos",
+    "name": "jPOS",
+    "language": "Java",
+    "stars": 403,
+    "forks": 355,
+    "codelines": 77662,
+    "commentlines": 34558,
+    "emptylines": 30792
+},{
+    "owner": "asksven",
+    "name": "BetterBatteryStats",
+    "language": "Java",
+    "stars": 404,
+    "forks": 141,
+    "codelines": 16142,
+    "commentlines": 8165,
+    "emptylines": 12221
+},{
+    "owner": "lumifyio",
+    "name": "lumify",
+    "language": "Java",
+    "stars": 401,
+    "forks": 231,
+    "codelines": 54893,
+    "commentlines": 2533,
+    "emptylines": 24043
+},{
+    "owner": "yegor256",
+    "name": "rultor",
+    "language": "Java",
+    "stars": 399,
+    "forks": 126,
+    "codelines": 10612,
+    "commentlines": 11339,
+    "emptylines": 3694
+},{
+    "owner": "Nescafemix",
+    "name": "hintcase",
+    "language": "Java",
+    "stars": 396,
+    "forks": 53,
+    "codelines": 2429,
+    "commentlines": 14,
+    "emptylines": 933
+},{
+    "owner": "Wisser",
+    "name": "Jailer",
+    "language": "Java",
+    "stars": 395,
+    "forks": 25,
+    "codelines": 74258,
+    "commentlines": 19146,
+    "emptylines": 28832
+},{
+    "owner": "amalChandran",
+    "name": "trail-android",
+    "language": "Java",
+    "stars": 392,
+    "forks": 100,
+    "codelines": 3332,
+    "commentlines": 302,
+    "emptylines": 1239
+},{
+    "owner": "jitsi",
+    "name": "jitsi-android",
+    "language": "Java",
+    "stars": 390,
+    "forks": 250,
+    "codelines": 26167,
+    "commentlines": 20098,
+    "emptylines": 18681
+},{
+    "owner": "xiong-it",
+    "name": "EasyPay",
+    "language": "Java",
+    "stars": 389,
+    "forks": 86,
+    "codelines": 919,
+    "commentlines": 302,
+    "emptylines": 471
+},{
+    "owner": "ruboto",
+    "name": "ruboto-irb",
+    "language": "Java",
+    "stars": 387,
+    "forks": 61,
+    "codelines": 5063,
+    "commentlines": 1075,
+    "emptylines": 2091
+},{
+    "owner": "BiglySoftware",
+    "name": "BiglyBT",
+    "language": "Java",
+    "stars": 388,
+    "forks": 67,
+    "codelines": 526057,
+    "commentlines": 130970,
+    "emptylines": 400251
+},{
+    "owner": "Lyokone",
+    "name": "flutterlocation",
+    "language": "Java",
+    "stars": 386,
+    "forks": 193,
+    "codelines": 324,
+    "commentlines": 44,
+    "emptylines": 124
+},{
+    "owner": "guobinhit",
+    "name": "cg-blog",
+    "language": "Java",
+    "stars": 386,
+    "forks": 137,
+    "codelines": 223,
+    "commentlines": 84,
+    "emptylines": 133
+},{
+    "owner": "jclouds",
+    "name": "jclouds",
+    "language": "Java",
+    "stars": 385,
+    "forks": 490,
+    "codelines": 340780,
+    "commentlines": 159782,
+    "emptylines": 145382
+},{
+    "owner": "AlexMofer",
+    "name": "ProjectX",
+    "language": "Java",
+    "stars": 384,
+    "forks": 140,
+    "codelines": 39921,
+    "commentlines": 20001,
+    "emptylines": 14804
+},{
+    "owner": "naver",
+    "name": "yobi",
+    "language": "Java",
+    "stars": 383,
+    "forks": 146,
+    "codelines": 25864,
+    "commentlines": 10506,
+    "emptylines": 12579
+},{
+    "owner": "wanliyang1990",
+    "name": "wlmusic",
+    "language": "Java",
+    "stars": 380,
+    "forks": 89,
+    "codelines": 3390,
+    "commentlines": 324,
+    "emptylines": 2132
+},{
+    "owner": "OpenVidu",
+    "name": "openvidu",
+    "language": "Java",
+    "stars": 381,
+    "forks": 114,
+    "codelines": 15499,
+    "commentlines": 4504,
+    "emptylines": 6833
+},{
+    "owner": "TheFinestArtist",
+    "name": "YouTubePlayerActivity",
+    "language": "Java",
+    "stars": 377,
+    "forks": 114,
+    "codelines": 530,
+    "commentlines": 68,
+    "emptylines": 190
+},{
+    "owner": "nicolasgramlich",
+    "name": "AndEngineExamples",
+    "language": "Java",
+    "stars": 377,
+    "forks": 361,
+    "codelines": 10162,
+    "commentlines": 4135,
+    "emptylines": 5248
+},{
+    "owner": "qbhy",
+    "name": "poster-generater",
+    "language": "Java",
+    "stars": 375,
+    "forks": 86,
+    "codelines": 734,
+    "commentlines": 365,
+    "emptylines": 417
+},{
+    "owner": "CogComp",
+    "name": "cogcomp-nlp",
+    "language": "Java",
+    "stars": 375,
+    "forks": 130,
+    "codelines": 153033,
+    "commentlines": 34429,
+    "emptylines": 48614
+},{
+    "owner": "Pivotal-Open-Source-Hub",
+    "name": "StockInference-Spark",
+    "language": "Java",
+    "stars": 373,
+    "forks": 209,
+    "codelines": 403,
+    "commentlines": 44,
+    "emptylines": 257
+},{
+    "owner": "baidu",
+    "name": "Elasticsearch",
+    "language": "Java",
+    "stars": 374,
+    "forks": 104,
+    "codelines": 341006,
+    "commentlines": 145989,
+    "emptylines": 175518
+},{
+    "owner": "goldmansachs",
+    "name": "gs-collections-kata",
+    "language": "Java",
+    "stars": 369,
+    "forks": 113,
+    "codelines": 506,
+    "commentlines": 367,
+    "emptylines": 339
+},{
+    "owner": "ios-driver",
+    "name": "ios-driver",
+    "language": "Java",
+    "stars": 367,
+    "forks": 166,
+    "codelines": 25781,
+    "commentlines": 9241,
+    "emptylines": 12463
+},{
+    "owner": "Swati4star",
+    "name": "Images-to-PDF",
+    "language": "Java",
+    "stars": 365,
+    "forks": 335,
+    "codelines": 12217,
+    "commentlines": 1626,
+    "emptylines": 4109
+},{
+    "owner": "jpmml",
+    "name": "jpmml-sklearn",
+    "language": "Java",
+    "stars": 364,
+    "forks": 82,
+    "codelines": 10484,
+    "commentlines": 4638,
+    "emptylines": 6973
+},{
+    "owner": "dayatang",
+    "name": "dddlib",
+    "language": "Java",
+    "stars": 365,
+    "forks": 193,
+    "codelines": 21366,
+    "commentlines": 9566,
+    "emptylines": 12483
+},{
+    "owner": "genonbeta",
+    "name": "TrebleShot",
+    "language": "Java",
+    "stars": 362,
+    "forks": 66,
+    "codelines": 18622,
+    "commentlines": 978,
+    "emptylines": 11488
+},{
+    "owner": "SpoutDev",
+    "name": "Spout",
+    "language": "Java",
+    "stars": 359,
+    "forks": 118,
+    "codelines": 54786,
+    "commentlines": 44780,
+    "emptylines": 29099
+},{
+    "owner": "yaowen369",
+    "name": "DownloadHelper",
+    "language": "Java",
+    "stars": 357,
+    "forks": 40,
+    "codelines": 1155,
+    "commentlines": 251,
+    "emptylines": 624
+},{
+    "owner": "MFlisar",
+    "name": "DragSelectRecyclerView",
+    "language": "Java",
+    "stars": 356,
+    "forks": 38,
+    "codelines": 484,
+    "commentlines": 166,
+    "emptylines": 315
+},{
+    "owner": "flyfei",
+    "name": "CustomMenu",
+    "language": "Java",
+    "stars": 356,
+    "forks": 65,
+    "codelines": 383,
+    "commentlines": 135,
+    "emptylines": 164
+},{
+    "owner": "apache",
+    "name": "james-project",
+    "language": "Java",
+    "stars": 355,
+    "forks": 266,
+    "codelines": 333105,
+    "commentlines": 120781,
+    "emptylines": 142587
+},{
+    "owner": "emichael",
+    "name": "dslabs",
+    "language": "Java",
+    "stars": 354,
+    "forks": 44,
+    "codelines": 8691,
+    "commentlines": 2395,
+    "emptylines": 3992
+},{
+    "owner": "EleTeam",
+    "name": "Shop-for-JavaWeb",
+    "language": "Java",
+    "stars": 354,
+    "forks": 250,
+    "codelines": 27363,
+    "commentlines": 11948,
+    "emptylines": 13382
+},{
+    "owner": "protegeproject",
+    "name": "webprotege",
+    "language": "Java",
+    "stars": 352,
+    "forks": 163,
+    "codelines": 141724,
+    "commentlines": 24858,
+    "emptylines": 73257
+},{
+    "owner": "nuls-io",
+    "name": "nuls",
+    "language": "Java",
+    "stars": 345,
+    "forks": 89,
+    "codelines": 80431,
+    "commentlines": 43920,
+    "emptylines": 39361
+},{
+    "owner": "chaychan",
+    "name": "PowerfulViewLibrary",
+    "language": "Java",
+    "stars": 345,
+    "forks": 75,
+    "codelines": 2167,
+    "commentlines": 692,
+    "emptylines": 1164
+},{
+    "owner": "MilosKozak",
+    "name": "AndroidAPS",
+    "language": "Java",
+    "stars": 343,
+    "forks": 682,
+    "codelines": 85573,
+    "commentlines": 7656,
+    "emptylines": 37024
+},{
+    "owner": "SAP",
+    "name": "vulnerability-assessment-tool",
+    "language": "Java",
+    "stars": 340,
+    "forks": 80,
+    "codelines": 137716,
+    "commentlines": 62478,
+    "emptylines": 64631
+},{
+    "owner": "smallnew",
+    "name": "react-native-multibundler",
+    "language": "Java",
+    "stars": 339,
+    "forks": 75,
+    "codelines": 528,
+    "commentlines": 40,
+    "emptylines": 269
+},{
+    "owner": "jeddict",
+    "name": "jeddict",
+    "language": "Java",
+    "stars": 335,
+    "forks": 37,
+    "codelines": 72696,
+    "commentlines": 31746,
+    "emptylines": 32493
+},{
+    "owner": "JetBrains",
+    "name": "jediterm",
+    "language": "Java",
+    "stars": 338,
+    "forks": 118,
+    "codelines": 32017,
+    "commentlines": 6002,
+    "emptylines": 17139
+},{
+    "owner": "aporter",
+    "name": "coursera-android-labs",
+    "language": "Java",
+    "stars": 335,
+    "forks": 1622,
+    "codelines": 3282,
+    "commentlines": 1055,
+    "emptylines": 2474
+},{
+    "owner": "hibernate",
+    "name": "hibernate-search",
+    "language": "Java",
+    "stars": 333,
+    "forks": 210,
+    "codelines": 279256,
+    "commentlines": 83640,
+    "emptylines": 133944
+},{
+    "owner": "slashmax",
+    "name": "AAMirror",
+    "language": "Java",
+    "stars": 333,
+    "forks": 114,
+    "codelines": 1704,
+    "commentlines": 0,
+    "emptylines": 1144
+},{
+    "owner": "Netflix",
+    "name": "recipes-rss",
+    "language": "Java",
+    "stars": 329,
+    "forks": 105,
+    "codelines": 994,
+    "commentlines": 564,
+    "emptylines": 477
+},{
+    "owner": "iDevicesInc",
+    "name": "SweetBlue",
+    "language": "Java",
+    "stars": 326,
+    "forks": 51,
+    "codelines": 26410,
+    "commentlines": 12141,
+    "emptylines": 26417
+},{
+    "owner": "codefollower",
+    "name": "H2-Research",
+    "language": "Java",
+    "stars": 326,
+    "forks": 168,
+    "codelines": 238706,
+    "commentlines": 87003,
+    "emptylines": 80490
+},{
+    "owner": "ippontech",
+    "name": "tatami",
+    "language": "Java",
+    "stars": 325,
+    "forks": 237,
+    "codelines": 13443,
+    "commentlines": 2199,
+    "emptylines": 6181
+},{
+    "owner": "zq2599",
+    "name": "blog_demos",
+    "language": "Java",
+    "stars": 328,
+    "forks": 299,
+    "codelines": 25457,
+    "commentlines": 23168,
+    "emptylines": 15533
+},{
+    "owner": "mari-linhares",
+    "name": "mnist-android-tensorflow",
+    "language": "Java",
+    "stars": 324,
+    "forks": 69,
+    "codelines": 377,
+    "commentlines": 124,
+    "emptylines": 230
+},{
+    "owner": "wicketstuff",
+    "name": "core",
+    "language": "Java",
+    "stars": 324,
+    "forks": 306,
+    "codelines": 108889,
+    "commentlines": 85739,
+    "emptylines": 77601
+},{
+    "owner": "rapidminer",
+    "name": "rapidminer-studio",
+    "language": "Java",
+    "stars": 324,
+    "forks": 182,
+    "codelines": 340366,
+    "commentlines": 189218,
+    "emptylines": 165134
+},{
+    "owner": "yueshutong",
+    "name": "JavaMonitor",
+    "language": "Java",
+    "stars": 324,
+    "forks": 123,
+    "codelines": 2169,
+    "commentlines": 607,
+    "emptylines": 925
+},{
+    "owner": "xikuqi",
+    "name": "OpenCV",
+    "language": "Java",
+    "stars": 322,
+    "forks": 48,
+    "codelines": 667,
+    "commentlines": 346,
+    "emptylines": 323
+},{
+    "owner": "jpush",
+    "name": "jchat-android",
+    "language": "Java",
+    "stars": 320,
+    "forks": 132,
+    "codelines": 46730,
+    "commentlines": 7332,
+    "emptylines": 19411
+},{
+    "owner": "googlefonts",
+    "name": "sfntly",
+    "language": "Java",
+    "stars": 317,
+    "forks": 120,
+    "codelines": 22271,
+    "commentlines": 7145,
+    "emptylines": 10092
+},{
+    "owner": "apache",
+    "name": "tomee",
+    "language": "Java",
+    "stars": 317,
+    "forks": 652,
+    "codelines": 388932,
+    "commentlines": 203666,
+    "emptylines": 205148
+},{
+    "owner": "ben-manes",
+    "name": "concurrentlinkedhashmap",
+    "language": "Java",
+    "stars": 316,
+    "forks": 84,
+    "codelines": 8592,
+    "commentlines": 4423,
+    "emptylines": 3898
+},{
+    "owner": "duqian291902259",
+    "name": "WechatHook-Dusan",
+    "language": "Java",
+    "stars": 317,
+    "forks": 130,
+    "codelines": 3347,
+    "commentlines": 635,
+    "emptylines": 1591
+},{
+    "owner": "tsingsee",
+    "name": "EasyPlayer-RTSP-Android",
+    "language": "Java",
+    "stars": 315,
+    "forks": 130,
+    "codelines": 4789,
+    "commentlines": 1396,
+    "emptylines": 2252
+},{
+    "owner": "deeplearning4j",
+    "name": "rl4j",
+    "language": "Java",
+    "stars": 313,
+    "forks": 117,
+    "codelines": 3740,
+    "commentlines": 726,
+    "emptylines": 1834
+},{
+    "owner": "zifangsky",
+    "name": "WeatherSpider",
+    "language": "Java",
+    "stars": 313,
+    "forks": 144,
+    "codelines": 2008,
+    "commentlines": 618,
+    "emptylines": 1145
+},{
+    "owner": "weld",
+    "name": "core",
+    "language": "Java",
+    "stars": 311,
+    "forks": 256,
+    "codelines": 126146,
+    "commentlines": 93954,
+    "emptylines": 66591
+},{
+    "owner": "iipc",
+    "name": "openwayback",
+    "language": "Java",
+    "stars": 311,
+    "forks": 192,
+    "codelines": 37691,
+    "commentlines": 25428,
+    "emptylines": 18419
+},{
+    "owner": "xiaolongzuo",
+    "name": "niubi-job",
+    "language": "Java",
+    "stars": 310,
+    "forks": 222,
+    "codelines": 6267,
+    "commentlines": 4309,
+    "emptylines": 3425
+},{
+    "owner": "eclipse",
+    "name": "repairnator",
+    "language": "Java",
+    "stars": 309,
+    "forks": 54,
+    "codelines": 17108,
+    "commentlines": 1480,
+    "emptylines": 8016
+},{
+    "owner": "apache",
+    "name": "ranger",
+    "language": "Java",
+    "stars": 311,
+    "forks": 298,
+    "codelines": 170415,
+    "commentlines": 43330,
+    "emptylines": 78202
+},{
+    "owner": "Camelcade",
+    "name": "Perl5-IDEA",
+    "language": "Java",
+    "stars": 308,
+    "forks": 55,
+    "codelines": 85672,
+    "commentlines": 31075,
+    "emptylines": 42596
+},{
+    "owner": "qupath",
+    "name": "qupath",
+    "language": "Java",
+    "stars": 306,
+    "forks": 100,
+    "codelines": 83570,
+    "commentlines": 44343,
+    "emptylines": 39958
+},{
+    "owner": "Chion82",
+    "name": "WeChatMomentExport",
+    "language": "Java",
+    "stars": 301,
+    "forks": 111,
+    "codelines": 603,
+    "commentlines": 27,
+    "emptylines": 259
+},{
+    "owner": "CyanogenMod",
+    "name": "android_packages_apps_Camera",
+    "language": "Java",
+    "stars": 301,
+    "forks": 337,
+    "codelines": 15220,
+    "commentlines": 3762,
+    "emptylines": 6395
+},{
+    "owner": "albert-lii",
+    "name": "ImageViewer",
+    "language": "Java",
+    "stars": 299,
+    "forks": 33,
+    "codelines": 3018,
+    "commentlines": 808,
+    "emptylines": 1445
+},{
+    "owner": "spring-projects",
+    "name": "sts4",
+    "language": "Java",
+    "stars": 299,
+    "forks": 64,
+    "codelines": 84237,
+    "commentlines": 28578,
+    "emptylines": 37309
+},{
+    "owner": "citrusframework",
+    "name": "citrus",
+    "language": "Java",
+    "stars": 298,
+    "forks": 121,
+    "codelines": 123674,
+    "commentlines": 77379,
+    "emptylines": 62278
+},{
+    "owner": "asterisk-java",
+    "name": "asterisk-java",
+    "language": "Java",
+    "stars": 298,
+    "forks": 242,
+    "codelines": 35741,
+    "commentlines": 34387,
+    "emptylines": 35498
+},{
+    "owner": "MasonLiuChn",
+    "name": "DecompileApk",
+    "language": "Java",
+    "stars": 297,
+    "forks": 64,
+    "codelines": 817,
+    "commentlines": 207,
+    "emptylines": 299
+},{
+    "owner": "jonfhancock",
+    "name": "JsonToJava",
+    "language": "Java",
+    "stars": 296,
+    "forks": 76,
+    "codelines": 4056,
+    "commentlines": 3802,
+    "emptylines": 1951
+},{
+    "owner": "arunkumar9t2",
+    "name": "lynket-browser",
+    "language": "Java",
+    "stars": 294,
+    "forks": 55,
+    "codelines": 9881,
+    "commentlines": 3717,
+    "emptylines": 4143
+},{
+    "owner": "brucetoo",
+    "name": "ListVideoPlay",
+    "language": "Java",
+    "stars": 293,
+    "forks": 69,
+    "codelines": 11668,
+    "commentlines": 5325,
+    "emptylines": 6520
+},{
+    "owner": "hohoTT",
+    "name": "Logistics_Manage_System",
+    "language": "Java",
+    "stars": 294,
+    "forks": 159,
+    "codelines": 555,
+    "commentlines": 6,
+    "emptylines": 422
+},{
+    "owner": "apache",
+    "name": "jackrabbit-oak",
+    "language": "Java",
+    "stars": 291,
+    "forks": 308,
+    "codelines": 440462,
+    "commentlines": 154085,
+    "emptylines": 191620
+},{
+    "owner": "gk-brown",
+    "name": "HTTP-RPC",
+    "language": "Java",
+    "stars": 289,
+    "forks": 53,
+    "codelines": 4903,
+    "commentlines": 1581,
+    "emptylines": 2930
+},{
+    "owner": "indywidualny",
+    "name": "FaceSlim",
+    "language": "Java",
+    "stars": 288,
+    "forks": 65,
+    "codelines": 3006,
+    "commentlines": 522,
+    "emptylines": 1203
+},{
+    "owner": "segmentio",
+    "name": "analytics-android",
+    "language": "Java",
+    "stars": 289,
+    "forks": 165,
+    "codelines": 10447,
+    "commentlines": 3647,
+    "emptylines": 4148
+},{
+    "owner": "thubbo",
+    "name": "jmeter-plugins-for-apache-dubbo",
+    "language": "Java",
+    "stars": 289,
+    "forks": 151,
+    "codelines": 1838,
+    "commentlines": 674,
+    "emptylines": 622
+},{
+    "owner": "WPIRoboticsProjects",
+    "name": "GRIP",
+    "language": "Java",
+    "stars": 287,
+    "forks": 96,
+    "codelines": 26933,
+    "commentlines": 5501,
+    "emptylines": 11495
+},{
+    "owner": "cloudfoundry",
+    "name": "cf-java-client",
+    "language": "Java",
+    "stars": 286,
+    "forks": 283,
+    "codelines": 93052,
+    "commentlines": 51835,
+    "emptylines": 31845
+},{
+    "owner": "WebGoat",
+    "name": "WebGoat-Legacy",
+    "language": "Java",
+    "stars": 286,
+    "forks": 223,
+    "codelines": 18668,
+    "commentlines": 11090,
+    "emptylines": 12222
+},{
+    "owner": "Qualeams",
+    "name": "Android-Face-Recognition-with-Deep-Learning-Test-Framework",
+    "language": "Java",
+    "stars": 285,
+    "forks": 143,
+    "codelines": 999,
+    "commentlines": 244,
+    "emptylines": 453
+},{
+    "owner": "hunterhacker",
+    "name": "jdom",
+    "language": "Java",
+    "stars": 285,
+    "forks": 91,
+    "codelines": 41672,
+    "commentlines": 39548,
+    "emptylines": 19331
+},{
+    "owner": "CaMnter",
+    "name": "AndroidLife",
+    "language": "Java",
+    "stars": 283,
+    "forks": 69,
+    "codelines": 46900,
+    "commentlines": 39370,
+    "emptylines": 26969
+},{
+    "owner": "kangjianwei",
+    "name": "LearningJDK",
+    "language": "Java",
+    "stars": 287,
+    "forks": 160,
+    "codelines": 2399737,
+    "commentlines": 1811708,
+    "emptylines": 905963
+},{
+    "owner": "torakiki",
+    "name": "sejda",
+    "language": "Java",
+    "stars": 281,
+    "forks": 43,
+    "codelines": 32033,
+    "commentlines": 23034,
+    "emptylines": 14798
+},{
+    "owner": "hortonworks",
+    "name": "cloudbreak",
+    "language": "Java",
+    "stars": 279,
+    "forks": 137,
+    "codelines": 298906,
+    "commentlines": 9363,
+    "emptylines": 138292
+},{
+    "owner": "mini2Dx",
+    "name": "mini2Dx",
+    "language": "Java",
+    "stars": 275,
+    "forks": 24,
+    "codelines": 54929,
+    "commentlines": 23624,
+    "emptylines": 26759
+},{
+    "owner": "OpenHFT",
+    "name": "Java-Lang",
+    "language": "Java",
+    "stars": 274,
+    "forks": 83,
+    "codelines": 21311,
+    "commentlines": 8304,
+    "emptylines": 9796
+},{
+    "owner": "dlsc-software-consulting-gmbh",
+    "name": "WorkbenchFX",
+    "language": "Java",
+    "stars": 273,
+    "forks": 35,
+    "codelines": 8803,
+    "commentlines": 3762,
+    "emptylines": 4234
+},{
+    "owner": "allenai",
+    "name": "science-parse",
+    "language": "Java",
+    "stars": 271,
+    "forks": 49,
+    "codelines": 5109,
+    "commentlines": 489,
+    "emptylines": 1763
+},{
+    "owner": "apache",
+    "name": "felix",
+    "language": "Java",
+    "stars": 272,
+    "forks": 339,
+    "codelines": 360887,
+    "commentlines": 206442,
+    "emptylines": 217169
+},{
+    "owner": "rybalkinsd",
+    "name": "atom",
+    "language": "Java",
+    "stars": 269,
+    "forks": 820,
+    "codelines": 3557,
+    "commentlines": 590,
+    "emptylines": 1770
+},{
+    "owner": "Elder-Wu",
+    "name": "Notes",
+    "language": "Java",
+    "stars": 269,
+    "forks": 84,
+    "codelines": 5748,
+    "commentlines": 1200,
+    "emptylines": 2932
+},{
+    "owner": "Mr-xn",
+    "name": "Penetration_Testing_POC",
+    "language": "Java",
+    "stars": 270,
+    "forks": 88,
+    "codelines": 19289,
+    "commentlines": 29236,
+    "emptylines": 12812
+},{
+    "owner": "VIDA-NYU",
+    "name": "ache",
+    "language": "Java",
+    "stars": 268,
+    "forks": 91,
+    "codelines": 21545,
+    "commentlines": 3545,
+    "emptylines": 10835
+},{
+    "owner": "cernekee",
+    "name": "ics-openconnect",
+    "language": "Java",
+    "stars": 268,
+    "forks": 93,
+    "codelines": 7639,
+    "commentlines": 2848,
+    "emptylines": 4074
+},{
+    "owner": "m2049r",
+    "name": "xmrwallet",
+    "language": "Java",
+    "stars": 267,
+    "forks": 221,
+    "codelines": 17578,
+    "commentlines": 3036,
+    "emptylines": 6771
+},{
+    "owner": "thucydides-webtests",
+    "name": "thucydides",
+    "language": "Java",
+    "stars": 265,
+    "forks": 108,
+    "codelines": 47213,
+    "commentlines": 4341,
+    "emptylines": 27814
+},{
+    "owner": "WeBankFinTech",
+    "name": "DataSphereStudio",
+    "language": "Java",
+    "stars": 287,
+    "forks": 120,
+    "codelines": 11000,
+    "commentlines": 6104,
+    "emptylines": 6043
+},{
+    "owner": "qcadoo",
+    "name": "mes",
+    "language": "Java",
+    "stars": 265,
+    "forks": 198,
+    "codelines": 136967,
+    "commentlines": 56718,
+    "emptylines": 71696
+},{
+    "owner": "helloShen",
+    "name": "leetcode-helper",
+    "language": "Java",
+    "stars": 262,
+    "forks": 33,
+    "codelines": 893,
+    "commentlines": 621,
+    "emptylines": 391
+},{
+    "owner": "DroidPHP",
+    "name": "DroidPHP",
+    "language": "Java",
+    "stars": 263,
+    "forks": 126,
+    "codelines": 1698,
+    "commentlines": 81,
+    "emptylines": 874
+},{
+    "owner": "mangstadt",
+    "name": "ez-vcard",
+    "language": "Java",
+    "stars": 262,
+    "forks": 63,
+    "codelines": 31461,
+    "commentlines": 27378,
+    "emptylines": 14738
+},{
+    "owner": "15829238397",
+    "name": "CN5E-shop",
+    "language": "Java",
+    "stars": 262,
+    "forks": 131,
+    "codelines": 6528,
+    "commentlines": 686,
+    "emptylines": 3582
+},{
+    "owner": "ymcao",
+    "name": "YaPlayer",
+    "language": "Java",
+    "stars": 261,
+    "forks": 175,
+    "codelines": 5221,
+    "commentlines": 2197,
+    "emptylines": 2578
+},{
+    "owner": "d2rq",
+    "name": "d2rq",
+    "language": "Java",
+    "stars": 261,
+    "forks": 105,
+    "codelines": 18212,
+    "commentlines": 3541,
+    "emptylines": 8518
+},{
+    "owner": "apache",
+    "name": "openmeetings",
+    "language": "Java",
+    "stars": 261,
+    "forks": 136,
+    "codelines": 47261,
+    "commentlines": 14109,
+    "emptylines": 18657
+},{
+    "owner": "HirayClay",
+    "name": "StackLayoutManager",
+    "language": "Java",
+    "stars": 260,
+    "forks": 45,
+    "codelines": 615,
+    "commentlines": 110,
+    "emptylines": 250
+},{
+    "owner": "oltpbenchmark",
+    "name": "oltpbench",
+    "language": "Java",
+    "stars": 259,
+    "forks": 193,
+    "codelines": 35790,
+    "commentlines": 18970,
+    "emptylines": 13851
+},{
+    "owner": "codenvy",
+    "name": "codenvy",
+    "language": "Java",
+    "stars": 258,
+    "forks": 114,
+    "codelines": 28611,
+    "commentlines": 10920,
+    "emptylines": 9410
+},{
+    "owner": "flankerhqd",
+    "name": "JAADAS",
+    "language": "Java",
+    "stars": 257,
+    "forks": 94,
+    "codelines": 327981,
+    "commentlines": 178689,
+    "emptylines": 185119
+},{
+    "owner": "TheHolyWaffle",
+    "name": "TeamSpeak-3-Java-API",
+    "language": "Java",
+    "stars": 257,
+    "forks": 107,
+    "codelines": 6065,
+    "commentlines": 12773,
+    "emptylines": 4276
+},{
+    "owner": "apache",
+    "name": "ant",
+    "language": "Java",
+    "stars": 257,
+    "forks": 273,
+    "codelines": 115647,
+    "commentlines": 109564,
+    "emptylines": 58212
+},{
+    "owner": "domeos",
+    "name": "server",
+    "language": "Java",
+    "stars": 255,
+    "forks": 145,
+    "codelines": 35968,
+    "commentlines": 4909,
+    "emptylines": 17901
+},{
+    "owner": "TechBooster",
+    "name": "AndroidOpenTextbook",
+    "language": "Java",
+    "stars": 254,
+    "forks": 25,
+    "codelines": 2921,
+    "commentlines": 841,
+    "emptylines": 1469
+},{
+    "owner": "b-lam",
+    "name": "Resplash",
+    "language": "Java",
+    "stars": 253,
+    "forks": 49,
+    "codelines": 7797,
+    "commentlines": 1313,
+    "emptylines": 3390
+},{
+    "owner": "breadwallet",
+    "name": "breadwallet-android",
+    "language": "Java",
+    "stars": 251,
+    "forks": 344,
+    "codelines": 27591,
+    "commentlines": 9104,
+    "emptylines": 11777
+},{
+    "owner": "xiaohaibin",
+    "name": "VitamioDemo",
+    "language": "Java",
+    "stars": 251,
+    "forks": 90,
+    "codelines": 4400,
+    "commentlines": 2007,
+    "emptylines": 1739
+},{
+    "owner": "joaopedronardari",
+    "name": "OpenCV-AndroidSamples",
+    "language": "Java",
+    "stars": 252,
+    "forks": 136,
+    "codelines": 11203,
+    "commentlines": 5104,
+    "emptylines": 10431
+},{
+    "owner": "Li-Shang",
+    "name": "faceCapture",
+    "language": "Java",
+    "stars": 256,
+    "forks": 69,
+    "codelines": 3082,
+    "commentlines": 404,
+    "emptylines": 2572
+},{
+    "owner": "shaqian",
+    "name": "flutter_tflite",
+    "language": "Java",
+    "stars": 250,
+    "forks": 82,
+    "codelines": 1108,
+    "commentlines": 3,
+    "emptylines": 436
+},{
+    "owner": "liato",
+    "name": "android-bankdroid",
+    "language": "Java",
+    "stars": 250,
+    "forks": 180,
+    "codelines": 14495,
+    "commentlines": 3762,
+    "emptylines": 7132
+},{
+    "owner": "uustory",
+    "name": "U8Server",
+    "language": "Java",
+    "stars": 249,
+    "forks": 171,
+    "codelines": 20061,
+    "commentlines": 4980,
+    "emptylines": 12419
+},{
+    "owner": "lindenb",
+    "name": "jvarkit",
+    "language": "Java",
+    "stars": 250,
+    "forks": 102,
+    "codelines": 144828,
+    "commentlines": 42912,
+    "emptylines": 72230
+},{
+    "owner": "apache",
+    "name": "archiva",
+    "language": "Java",
+    "stars": 248,
+    "forks": 97,
+    "codelines": 79860,
+    "commentlines": 32353,
+    "emptylines": 52828
+},{
+    "owner": "gisgraphy",
+    "name": "gisgraphy",
+    "language": "Java",
+    "stars": 248,
+    "forks": 67,
+    "codelines": 73765,
+    "commentlines": 37752,
+    "emptylines": 32485
+},{
+    "owner": "Leifzhang",
+    "name": "ijkplayer",
+    "language": "Java",
+    "stars": 246,
+    "forks": 84,
+    "codelines": 1560,
+    "commentlines": 308,
+    "emptylines": 699
+},{
+    "owner": "secure-software-engineering",
+    "name": "soot-infoflow-android",
+    "language": "Java",
+    "stars": 245,
+    "forks": 158,
+    "codelines": 9387,
+    "commentlines": 4082,
+    "emptylines": 4468
+},{
+    "owner": "arun-gupta",
+    "name": "kubernetes-java-sample",
+    "language": "Java",
+    "stars": 244,
+    "forks": 172,
+    "codelines": 37,
+    "commentlines": 9,
+    "emptylines": 22
+},{
+    "owner": "Ye-Miao",
+    "name": "StatusBarUtil",
+    "language": "Java",
+    "stars": 244,
+    "forks": 30,
+    "codelines": 575,
+    "commentlines": 271,
+    "emptylines": 292
+},{
+    "owner": "automl",
+    "name": "autoweka",
+    "language": "Java",
+    "stars": 241,
+    "forks": 91,
+    "codelines": 5588,
+    "commentlines": 1946,
+    "emptylines": 3252
+},{
+    "owner": "zycgit",
+    "name": "hasor",
+    "language": "Java",
+    "stars": 239,
+    "forks": 88,
+    "codelines": 79761,
+    "commentlines": 73690,
+    "emptylines": 20341
+},{
+    "owner": "apache",
+    "name": "jackrabbit",
+    "language": "Java",
+    "stars": 239,
+    "forks": 172,
+    "codelines": 255311,
+    "commentlines": 205294,
+    "emptylines": 121439
+},{
+    "owner": "danxinzhicheng",
+    "name": "IThouse",
+    "language": "Java",
+    "stars": 239,
+    "forks": 69,
+    "codelines": 13581,
+    "commentlines": 4884,
+    "emptylines": 6442
+},{
+    "owner": "MassiveCraft",
+    "name": "Factions",
+    "language": "Java",
+    "stars": 238,
+    "forks": 588,
+    "codelines": 9520,
+    "commentlines": 3522,
+    "emptylines": 7158
+},{
+    "owner": "nysenate",
+    "name": "OpenLegislation",
+    "language": "Java",
+    "stars": 239,
+    "forks": 96,
+    "codelines": 53754,
+    "commentlines": 14689,
+    "emptylines": 25236
+},{
+    "owner": "apache",
+    "name": "maven-plugins",
+    "language": "Java",
+    "stars": 239,
+    "forks": 283,
+    "codelines": 96472,
+    "commentlines": 76603,
+    "emptylines": 79369
+},{
+    "owner": "Uphie",
+    "name": "ONE-Unofficial",
+    "language": "Java",
+    "stars": 236,
+    "forks": 45,
+    "codelines": 4803,
+    "commentlines": 1981,
+    "emptylines": 2364
+},{
+    "owner": "wutongke",
+    "name": "AndroidSkinAnimator",
+    "language": "Java",
+    "stars": 237,
+    "forks": 43,
+    "codelines": 5180,
+    "commentlines": 566,
+    "emptylines": 2516
+},{
+    "owner": "thialfihar",
+    "name": "apg",
+    "language": "Java",
+    "stars": 236,
+    "forks": 79,
+    "codelines": 34954,
+    "commentlines": 10303,
+    "emptylines": 16638
+},{
+    "owner": "apache",
+    "name": "helix",
+    "language": "Java",
+    "stars": 236,
+    "forks": 135,
+    "codelines": 107113,
+    "commentlines": 39595,
+    "emptylines": 43509
+},{
+    "owner": "bladecoder",
+    "name": "bladecoder-adventure-engine",
+    "language": "Java",
+    "stars": 236,
+    "forks": 45,
+    "codelines": 29652,
+    "commentlines": 6104,
+    "emptylines": 16110
+},{
+    "owner": "cubei",
+    "name": "FlappyCow",
+    "language": "Java",
+    "stars": 237,
+    "forks": 189,
+    "codelines": 2217,
+    "commentlines": 919,
+    "emptylines": 1085
+},{
+    "owner": "Mishiranu",
+    "name": "Dashchan",
+    "language": "Java",
+    "stars": 236,
+    "forks": 31,
+    "codelines": 52156,
+    "commentlines": 5238,
+    "emptylines": 20836
+},{
+    "owner": "dita-ot",
+    "name": "dita-ot",
+    "language": "Java",
+    "stars": 234,
+    "forks": 141,
+    "codelines": 37878,
+    "commentlines": 11451,
+    "emptylines": 14591
+},{
+    "owner": "xingstarx",
+    "name": "InkeVerticalViewPagerLive",
+    "language": "Java",
+    "stars": 233,
+    "forks": 69,
+    "codelines": 648,
+    "commentlines": 80,
+    "emptylines": 243
+},{
+    "owner": "ysc",
+    "name": "superword",
+    "language": "Java",
+    "stars": 233,
+    "forks": 161,
+    "codelines": 9144,
+    "commentlines": 2874,
+    "emptylines": 3213
+},{
+    "owner": "zanata",
+    "name": "zanata-platform",
+    "language": "Java",
+    "stars": 230,
+    "forks": 44,
+    "codelines": 170701,
+    "commentlines": 56459,
+    "emptylines": 62455
+},{
+    "owner": "vmware",
+    "name": "xenon",
+    "language": "Java",
+    "stars": 227,
+    "forks": 97,
+    "codelines": 87558,
+    "commentlines": 21685,
+    "emptylines": 37514
+},{
+    "owner": "google",
+    "name": "sagetv",
+    "language": "Java",
+    "stars": 227,
+    "forks": 166,
+    "codelines": 188263,
+    "commentlines": 61800,
+    "emptylines": 99360
+},{
+    "owner": "w1014804721",
+    "name": "SuperMario",
+    "language": "Java",
+    "stars": 227,
+    "forks": 80,
+    "codelines": 76,
+    "commentlines": 0,
+    "emptylines": 49
+},{
+    "owner": "f2prateek",
+    "name": "device-frame-generator",
+    "language": "Java",
+    "stars": 225,
+    "forks": 37,
+    "codelines": 2909,
+    "commentlines": 1137,
+    "emptylines": 1219
+},{
+    "owner": "qiyaTech",
+    "name": "javaCrawling",
+    "language": "Java",
+    "stars": 225,
+    "forks": 130,
+    "codelines": 7055,
+    "commentlines": 920,
+    "emptylines": 3375
+},{
+    "owner": "sunfusheng",
+    "name": "Gank.IO",
+    "language": "Java",
+    "stars": 223,
+    "forks": 42,
+    "codelines": 4006,
+    "commentlines": 618,
+    "emptylines": 1913
+},{
+    "owner": "MasayukiSuda",
+    "name": "GPUVideo-android",
+    "language": "Java",
+    "stars": 224,
+    "forks": 52,
+    "codelines": 6839,
+    "commentlines": 559,
+    "emptylines": 3329
+},{
+    "owner": "Mach5",
+    "name": "supersonic",
+    "language": "Java",
+    "stars": 221,
+    "forks": 66,
+    "codelines": 29018,
+    "commentlines": 13687,
+    "emptylines": 14929
+},{
+    "owner": "pulse00",
+    "name": "Symfony-2-Eclipse-Plugin",
+    "language": "Java",
+    "stars": 221,
+    "forks": 48,
+    "codelines": 13308,
+    "commentlines": 4836,
+    "emptylines": 8696
+},{
+    "owner": "goodtime-productivity",
+    "name": "Goodtime",
+    "language": "Java",
+    "stars": 221,
+    "forks": 49,
+    "codelines": 5699,
+    "commentlines": 1103,
+    "emptylines": 2476
+},{
+    "owner": "boyter",
+    "name": "searchcode-server",
+    "language": "Java",
+    "stars": 218,
+    "forks": 75,
+    "codelines": 14186,
+    "commentlines": 2221,
+    "emptylines": 7233
+},{
+    "owner": "OpenClinica",
+    "name": "OpenClinica",
+    "language": "Java",
+    "stars": 220,
+    "forks": 193,
+    "codelines": 167445,
+    "commentlines": 46012,
+    "emptylines": 75019
+},{
+    "owner": "KennFalcon",
+    "name": "elasticsearch-analysis-hanlp",
+    "language": "Java",
+    "stars": 221,
+    "forks": 60,
+    "codelines": 1801,
+    "commentlines": 491,
+    "emptylines": 834
+},{
+    "owner": "likaiyuan559",
+    "name": "TikTokDemo",
+    "language": "Java",
+    "stars": 217,
+    "forks": 52,
+    "codelines": 14015,
+    "commentlines": 3539,
+    "emptylines": 6629
+},{
+    "owner": "mduisenov",
+    "name": "GrokkingAlgorithms",
+    "language": "Java",
+    "stars": 217,
+    "forks": 82,
+    "codelines": 288,
+    "commentlines": 35,
+    "emptylines": 179
+},{
+    "owner": "opensciencemap",
+    "name": "vtm",
+    "language": "Java",
+    "stars": 216,
+    "forks": 143,
+    "codelines": 37044,
+    "commentlines": 13299,
+    "emptylines": 18102
+},{
+    "owner": "nifty-gui",
+    "name": "nifty-gui",
+    "language": "Java",
+    "stars": 216,
+    "forks": 74,
+    "codelines": 79043,
+    "commentlines": 29505,
+    "emptylines": 37594
+},{
+    "owner": "RamiJ3mli",
+    "name": "PercentageChartView",
+    "language": "Java",
+    "stars": 215,
+    "forks": 47,
+    "codelines": 3618,
+    "commentlines": 790,
+    "emptylines": 1696
+},{
+    "owner": "dingjikerbo",
+    "name": "Android-RTSP",
+    "language": "Java",
+    "stars": 215,
+    "forks": 22,
+    "codelines": 1618,
+    "commentlines": 683,
+    "emptylines": 902
+},{
+    "owner": "gudaoxuri",
+    "name": "dew",
+    "language": "Java",
+    "stars": 216,
+    "forks": 105,
+    "codelines": 14891,
+    "commentlines": 14568,
+    "emptylines": 7739
+},{
+    "owner": "sunweiguo",
+    "name": "MMall",
+    "language": "Java",
+    "stars": 214,
+    "forks": 92,
+    "codelines": 5823,
+    "commentlines": 1887,
+    "emptylines": 2748
+},{
+    "owner": "Hengle",
+    "name": "DeepNewdsForAndroid",
+    "language": "Java",
+    "stars": 212,
+    "forks": 202,
+    "codelines": 140363,
+    "commentlines": 43043,
+    "emptylines": 60217
+},{
+    "owner": "opennars",
+    "name": "opennars",
+    "language": "Java",
+    "stars": 212,
+    "forks": 57,
+    "codelines": 13311,
+    "commentlines": 8974,
+    "emptylines": 6985
+},{
+    "owner": "crosswalk-project",
+    "name": "crosswalk-cordova-android",
+    "language": "Java",
+    "stars": 211,
+    "forks": 57,
+    "codelines": 11688,
+    "commentlines": 6513,
+    "emptylines": 6131
+},{
+    "owner": "andrescv",
+    "name": "Jupiter",
+    "language": "Java",
+    "stars": 211,
+    "forks": 13,
+    "codelines": 16743,
+    "commentlines": 8324,
+    "emptylines": 5668
+},{
+    "owner": "wearscript",
+    "name": "wearscript-android",
+    "language": "Java",
+    "stars": 210,
+    "forks": 54,
+    "codelines": 14676,
+    "commentlines": 25900,
+    "emptylines": 11366
+},{
+    "owner": "dbamman",
+    "name": "book-nlp",
+    "language": "Java",
+    "stars": 212,
+    "forks": 37,
+    "codelines": 4243,
+    "commentlines": 425,
+    "emptylines": 2239
+},{
+    "owner": "OWASP",
+    "name": "MSTG-Hacking-Playground",
+    "language": "Java",
+    "stars": 209,
+    "forks": 64,
+    "codelines": 1679,
+    "commentlines": 559,
+    "emptylines": 922
+},{
+    "owner": "Vazkii",
+    "name": "Quark",
+    "language": "Java",
+    "stars": 209,
+    "forks": 91,
+    "codelines": 23313,
+    "commentlines": 2517,
+    "emptylines": 10315
+},{
+    "owner": "OWASP",
+    "name": "Benchmark",
+    "language": "Java",
+    "stars": 205,
+    "forks": 129,
+    "codelines": 148308,
+    "commentlines": 59147,
+    "emptylines": 78614
+},{
+    "owner": "babysource",
+    "name": "VRDroid",
+    "language": "Java",
+    "stars": 205,
+    "forks": 47,
+    "codelines": 760,
+    "commentlines": 113,
+    "emptylines": 364
+},{
+    "owner": "apache",
+    "name": "derby",
+    "language": "Java",
+    "stars": 203,
+    "forks": 109,
+    "codelines": 554382,
+    "commentlines": 392492,
+    "emptylines": 292336
+},{
+    "owner": "tohodog",
+    "name": "QSVideoPlayer",
+    "language": "Java",
+    "stars": 204,
+    "forks": 43,
+    "codelines": 4009,
+    "commentlines": 683,
+    "emptylines": 1954
+},{
+    "owner": "MarginallyClever",
+    "name": "Makelangelo-software",
+    "language": "Java",
+    "stars": 201,
+    "forks": 111,
+    "codelines": 15985,
+    "commentlines": 4461,
+    "emptylines": 6960
+},{
+    "owner": "apache",
+    "name": "cayenne",
+    "language": "Java",
+    "stars": 201,
+    "forks": 94,
+    "codelines": 225155,
+    "commentlines": 112695,
+    "emptylines": 124125
+},{
+    "owner": "matrix-org",
+    "name": "matrix-android-sdk",
+    "language": "Java",
+    "stars": 201,
+    "forks": 107,
+    "codelines": 36506,
+    "commentlines": 24476,
+    "emptylines": 22055
+},{
+    "owner": "yshrsmz",
+    "name": "LicenseAdapter",
+    "language": "Java",
+    "stars": 200,
+    "forks": 18,
+    "codelines": 740,
+    "commentlines": 344,
+    "emptylines": 343
+},{
+    "owner": "qijitech",
+    "name": "android-starter-kit",
+    "language": "Java",
+    "stars": 199,
+    "forks": 36,
+    "codelines": 7925,
+    "commentlines": 2623,
+    "emptylines": 4158
+},{
+    "owner": "JarvanMo",
+    "name": "ExoVideoView",
+    "language": "Java",
+    "stars": 198,
+    "forks": 50,
+    "codelines": 2793,
+    "commentlines": 601,
+    "emptylines": 1612
+},{
+    "owner": "IntellectualSites",
+    "name": "PlotSquared",
+    "language": "Java",
+    "stars": 197,
+    "forks": 175,
+    "codelines": 45160,
+    "commentlines": 9367,
+    "emptylines": 17816
+},{
+    "owner": "windwant",
+    "name": "spring-dubbo-service",
+    "language": "Java",
+    "stars": 197,
+    "forks": 78,
+    "codelines": 7881,
+    "commentlines": 2200,
+    "emptylines": 3594
+},{
+    "owner": "adityaarora1",
+    "name": "LiveEdgeDetection",
+    "language": "Java",
+    "stars": 196,
+    "forks": 63,
+    "codelines": 15673,
+    "commentlines": 7788,
+    "emptylines": 14914
+},{
+    "owner": "threerings",
+    "name": "playn",
+    "language": "Java",
+    "stars": 195,
+    "forks": 66,
+    "codelines": 31011,
+    "commentlines": 15357,
+    "emptylines": 15380
+},{
+    "owner": "ldtteam",
+    "name": "minecolonies",
+    "language": "Java",
+    "stars": 194,
+    "forks": 118,
+    "codelines": 83596,
+    "commentlines": 41472,
+    "emptylines": 55266
+},{
+    "owner": "singhkshitij",
+    "name": "MagicPrint-ECommerce-App-Android",
+    "language": "Java",
+    "stars": 195,
+    "forks": 182,
+    "codelines": 3108,
+    "commentlines": 420,
+    "emptylines": 1692
+},{
+    "owner": "FacePlusPlus",
+    "name": "MegviiFacepp-Android-SDK",
+    "language": "Java",
+    "stars": 193,
+    "forks": 70,
+    "codelines": 4692,
+    "commentlines": 910,
+    "emptylines": 1973
+},{
+    "owner": "AuthMe",
+    "name": "AuthMeReloaded",
+    "language": "Java",
+    "stars": 193,
+    "forks": 264,
+    "codelines": 38059,
+    "commentlines": 12444,
+    "emptylines": 16400
+},{
+    "owner": "kiegroup",
+    "name": "droolsjbpm-integration",
+    "language": "Java",
+    "stars": 192,
+    "forks": 471,
+    "codelines": 147488,
+    "commentlines": 36527,
+    "emptylines": 67525
+},{
+    "owner": "thewca",
+    "name": "tnoodle",
+    "language": "Java",
+    "stars": 191,
+    "forks": 65,
+    "codelines": 8680,
+    "commentlines": 1449,
+    "emptylines": 3572
+},{
+    "owner": "wangtaoT",
+    "name": "AndroidOCR",
+    "language": "Java",
+    "stars": 193,
+    "forks": 58,
+    "codelines": 939,
+    "commentlines": 224,
+    "emptylines": 391
+},{
+    "owner": "tim232385",
+    "name": "WebVideoBot",
+    "language": "Java",
+    "stars": 189,
+    "forks": 31,
+    "codelines": 559,
+    "commentlines": 28,
+    "emptylines": 221
+},{
+    "owner": "yukuku",
+    "name": "androidbible",
+    "language": "Java",
+    "stars": 188,
+    "forks": 128,
+    "codelines": 43325,
+    "commentlines": 7555,
+    "emptylines": 20486
+},{
+    "owner": "CitizensDev",
+    "name": "Citizens2",
+    "language": "Java",
+    "stars": 188,
+    "forks": 151,
+    "codelines": 103337,
+    "commentlines": 4213,
+    "emptylines": 46314
+},{
+    "owner": "asciidoctor",
+    "name": "asciidoctor-intellij-plugin",
+    "language": "Java",
+    "stars": 186,
+    "forks": 61,
+    "codelines": 13377,
+    "commentlines": 1347,
+    "emptylines": 5345
+},{
+    "owner": "pentaho",
+    "name": "pentaho-reporting",
+    "language": "Java",
+    "stars": 185,
+    "forks": 283,
+    "codelines": 392706,
+    "commentlines": 220517,
+    "emptylines": 198892
+},{
+    "owner": "scoute-dich",
+    "name": "PDFCreator",
+    "language": "Java",
+    "stars": 185,
+    "forks": 73,
+    "codelines": 5665,
+    "commentlines": 1743,
+    "emptylines": 2613
+},{
+    "owner": "phuonglh",
+    "name": "vn.vitk",
+    "language": "Java",
+    "stars": 184,
+    "forks": 94,
+    "codelines": 4035,
+    "commentlines": 1704,
+    "emptylines": 1600
+},{
+    "owner": "HongZhaoHua",
+    "name": "jstarcraft-rns",
+    "language": "Java",
+    "stars": 186,
+    "forks": 50,
+    "codelines": 16416,
+    "commentlines": 4185,
+    "emptylines": 6423
+},{
+    "owner": "jellyfin",
+    "name": "jellyfin-android",
+    "language": "Java",
+    "stars": 185,
+    "forks": 41,
+    "codelines": 1333,
+    "commentlines": 86,
+    "emptylines": 461
+},{
+    "owner": "Asqatasun",
+    "name": "Asqatasun",
+    "language": "Java",
+    "stars": 184,
+    "forks": 58,
+    "codelines": 207058,
+    "commentlines": 195193,
+    "emptylines": 72540
+},{
+    "owner": "jojoldu",
+    "name": "springboot-webservice",
+    "language": "Java",
+    "stars": 184,
+    "forks": 91,
+    "codelines": 302,
+    "commentlines": 79,
+    "emptylines": 136
+},{
+    "owner": "airlift",
+    "name": "aircompressor",
+    "language": "Java",
+    "stars": 183,
+    "forks": 39,
+    "codelines": 9095,
+    "commentlines": 2446,
+    "emptylines": 5000
+},{
+    "owner": "UNIVALI-LITE",
+    "name": "Portugol-Studio",
+    "language": "Java",
+    "stars": 181,
+    "forks": 104,
+    "codelines": 55205,
+    "commentlines": 11425,
+    "emptylines": 35577
+},{
+    "owner": "JD-Software",
+    "name": "JDeSurvey",
+    "language": "Java",
+    "stars": 181,
+    "forks": 162,
+    "codelines": 17474,
+    "commentlines": 4277,
+    "emptylines": 9755
+},{
+    "owner": "Gismo8",
+    "name": "Android_Basics_Nanodegree_by_Google-My_10_Projects",
+    "language": "Java",
+    "stars": 180,
+    "forks": 51,
+    "codelines": 2729,
+    "commentlines": 234,
+    "emptylines": 1355
+},{
+    "owner": "szaza",
+    "name": "android-yolo-v2",
+    "language": "Java",
+    "stars": 179,
+    "forks": 73,
+    "codelines": 1083,
+    "commentlines": 288,
+    "emptylines": 546
+},{
+    "owner": "JinBoy23520",
+    "name": "MPAndroidChartDemoByJin",
+    "language": "Java",
+    "stars": 179,
+    "forks": 43,
+    "codelines": 16028,
+    "commentlines": 9011,
+    "emptylines": 10004
+},{
+    "owner": "datso",
+    "name": "react-native-pjsip",
+    "language": "Java",
+    "stars": 179,
+    "forks": 117,
+    "codelines": 2075,
+    "commentlines": 114,
+    "emptylines": 1155
+},{
+    "owner": "zelandiya",
+    "name": "maui",
+    "language": "Java",
+    "stars": 178,
+    "forks": 57,
+    "codelines": 6574,
+    "commentlines": 2224,
+    "emptylines": 2525
+},{
+    "owner": "zhangliangming",
+    "name": "HappyMusicPlayer",
+    "language": "Java",
+    "stars": 177,
+    "forks": 110,
+    "codelines": 19504,
+    "commentlines": 7354,
+    "emptylines": 8520
+},{
+    "owner": "DayorNight",
+    "name": "BLCS",
+    "language": "Java",
+    "stars": 177,
+    "forks": 45,
+    "codelines": 30635,
+    "commentlines": 9875,
+    "emptylines": 13626
+},{
+    "owner": "Electrical-Age",
+    "name": "ElectricalAge",
+    "language": "Java",
+    "stars": 176,
+    "forks": 108,
+    "codelines": 50943,
+    "commentlines": 9813,
+    "emptylines": 24619
+},{
+    "owner": "aalhuz",
+    "name": "navex",
+    "language": "Java",
+    "stars": 175,
+    "forks": 19,
+    "codelines": 3874,
+    "commentlines": 599,
+    "emptylines": 1974
+},{
+    "owner": "shrikanth7698",
+    "name": "ChatView",
+    "language": "Java",
+    "stars": 177,
+    "forks": 49,
+    "codelines": 2399,
+    "commentlines": 126,
+    "emptylines": 1367
+},{
+    "owner": "MikaelZero",
+    "name": "MVideo",
+    "language": "Java",
+    "stars": 176,
+    "forks": 19,
+    "codelines": 1725,
+    "commentlines": 193,
+    "emptylines": 813
+},{
+    "owner": "zyl409214686",
+    "name": "Mp3Cutter",
+    "language": "Java",
+    "stars": 175,
+    "forks": 29,
+    "codelines": 3226,
+    "commentlines": 1049,
+    "emptylines": 1596
+},{
+    "owner": "MachineMuse",
+    "name": "MachineMusePowersuits",
+    "language": "Java",
+    "stars": 174,
+    "forks": 91,
+    "codelines": 18632,
+    "commentlines": 4059,
+    "emptylines": 7890
+},{
+    "owner": "zavtech",
+    "name": "morpheus-core",
+    "language": "Java",
+    "stars": 173,
+    "forks": 18,
+    "codelines": 39234,
+    "commentlines": 19034,
+    "emptylines": 17821
+},{
+    "owner": "liuyubobobo",
+    "name": "Play-with-Algorithm-Visualization",
+    "language": "Java",
+    "stars": 174,
+    "forks": 107,
+    "codelines": 18474,
+    "commentlines": 814,
+    "emptylines": 11299
+},{
+    "owner": "Windsander",
+    "name": "Android-UltimateGPUImage",
+    "language": "Java",
+    "stars": 173,
+    "forks": 34,
+    "codelines": 9784,
+    "commentlines": 2305,
+    "emptylines": 3716
+},{
+    "owner": "RojerAlone",
+    "name": "shop",
+    "language": "Java",
+    "stars": 172,
+    "forks": 49,
+    "codelines": 2886,
+    "commentlines": 864,
+    "emptylines": 1562
+},{
+    "owner": "vonzhou",
+    "name": "SpringInAction3",
+    "language": "Java",
+    "stars": 172,
+    "forks": 81,
+    "codelines": 5541,
+    "commentlines": 762,
+    "emptylines": 3711
+},{
+    "owner": "elephantscale",
+    "name": "hadoop-book",
+    "language": "Java",
+    "stars": 171,
+    "forks": 73,
+    "codelines": 3753,
+    "commentlines": 1459,
+    "emptylines": 1357
+},{
+    "owner": "T-chuangxin",
+    "name": "VideoMergeDemo",
+    "language": "Java",
+    "stars": 171,
+    "forks": 43,
+    "codelines": 10267,
+    "commentlines": 2119,
+    "emptylines": 4324
+},{
+    "owner": "harvardinformatics",
+    "name": "JAuth",
+    "language": "Java",
+    "stars": 170,
+    "forks": 45,
+    "codelines": 1185,
+    "commentlines": 282,
+    "emptylines": 587
+},{
+    "owner": "Multibit-Legacy",
+    "name": "multibit-hd",
+    "language": "Java",
+    "stars": 170,
+    "forks": 109,
+    "codelines": 59424,
+    "commentlines": 29646,
+    "emptylines": 35689
+},{
+    "owner": "dingjikerbo",
+    "name": "Android-DeepLearning",
+    "language": "Java",
+    "stars": 170,
+    "forks": 5,
+    "codelines": 626,
+    "commentlines": 131,
+    "emptylines": 355
+},{
+    "owner": "Byron4j",
+    "name": "CookBook",
+    "language": "Java",
+    "stars": 170,
+    "forks": 75,
+    "codelines": 4230,
+    "commentlines": 1274,
+    "emptylines": 2533
+},{
+    "owner": "dronekit",
+    "name": "dronekit-android",
+    "language": "Java",
+    "stars": 169,
+    "forks": 186,
+    "codelines": 25599,
+    "commentlines": 4716,
+    "emptylines": 14273
+},{
+    "owner": "RestComm",
+    "name": "sip-servlets",
+    "language": "Java",
+    "stars": 169,
+    "forks": 152,
+    "codelines": 126912,
+    "commentlines": 66757,
+    "emptylines": 55714
+},{
+    "owner": "pentaho",
+    "name": "big-data-plugin",
+    "language": "Java",
+    "stars": 168,
+    "forks": 273,
+    "codelines": 66580,
+    "commentlines": 18533,
+    "emptylines": 26688
+},{
+    "owner": "MatthewDavidBradshaw",
+    "name": "SlidingIntroScreen",
+    "language": "Java",
+    "stars": 168,
+    "forks": 33,
+    "codelines": 2542,
+    "commentlines": 3200,
+    "emptylines": 1570
+},{
+    "owner": "maxcom",
+    "name": "lorsource",
+    "language": "Java",
+    "stars": 167,
+    "forks": 72,
+    "codelines": 19008,
+    "commentlines": 6775,
+    "emptylines": 9564
+},{
+    "owner": "hcs-xph",
+    "name": "RetrofitUtils",
+    "language": "Java",
+    "stars": 167,
+    "forks": 35,
+    "codelines": 1245,
+    "commentlines": 419,
+    "emptylines": 644
+},{
+    "owner": "toddway",
+    "name": "ListOfThings",
+    "language": "Java",
+    "stars": 167,
+    "forks": 15,
+    "codelines": 1736,
+    "commentlines": 204,
+    "emptylines": 973
+},{
+    "owner": "fangxiaopeng",
+    "name": "fxp-plugin-video",
+    "language": "Java",
+    "stars": 165,
+    "forks": 63,
+    "codelines": 682,
+    "commentlines": 254,
+    "emptylines": 392
+},{
+    "owner": "modernmt",
+    "name": "modernmt",
+    "language": "Java",
+    "stars": 165,
+    "forks": 45,
+    "codelines": 23747,
+    "commentlines": 3072,
+    "emptylines": 13164
+},{
+    "owner": "Spoutcraft",
+    "name": "Spoutcraft",
+    "language": "Java",
+    "stars": 165,
+    "forks": 80,
+    "codelines": 75161,
+    "commentlines": 23856,
+    "emptylines": 37085
+},{
+    "owner": "joniks",
+    "name": "Android-MuPDF",
+    "language": "Java",
+    "stars": 165,
+    "forks": 73,
+    "codelines": 8542,
+    "commentlines": 3242,
+    "emptylines": 4686
+},{
+    "owner": "wbaumann",
+    "name": "SmartReceiptsLibrary",
+    "language": "Java",
+    "stars": 164,
+    "forks": 73,
+    "codelines": 44791,
+    "commentlines": 4529,
+    "emptylines": 19071
+},{
+    "owner": "odpi",
+    "name": "egeria",
+    "language": "Java",
+    "stars": 164,
+    "forks": 84,
+    "codelines": 251575,
+    "commentlines": 166952,
+    "emptylines": 156074
+},{
+    "owner": "OneBusAway",
+    "name": "onebusaway-application-modules",
+    "language": "Java",
+    "stars": 163,
+    "forks": 109,
+    "codelines": 121493,
+    "commentlines": 46741,
+    "emptylines": 63399
+},{
+    "owner": "betri28",
+    "name": "FaceDetectCamera",
+    "language": "Java",
+    "stars": 162,
+    "forks": 89,
+    "codelines": 1456,
+    "commentlines": 248,
+    "emptylines": 716
+},{
+    "owner": "java110",
+    "name": "MicroCommunity",
+    "language": "Java",
+    "stars": 163,
+    "forks": 84,
+    "codelines": 82107,
+    "commentlines": 37709,
+    "emptylines": 49025
+},{
+    "owner": "ActiveJpa",
+    "name": "activejpa",
+    "language": "Java",
+    "stars": 162,
+    "forks": 53,
+    "codelines": 4078,
+    "commentlines": 1750,
+    "emptylines": 2015
+},{
+    "owner": "ICIJ",
+    "name": "extract",
+    "language": "Java",
+    "stars": 161,
+    "forks": 20,
+    "codelines": 8792,
+    "commentlines": 2079,
+    "emptylines": 4697
+},{
+    "owner": "PangHaHa12138",
+    "name": "DouyinDemo",
+    "language": "Java",
+    "stars": 161,
+    "forks": 57,
+    "codelines": 316,
+    "commentlines": 20,
+    "emptylines": 148
+},{
+    "owner": "yeecode",
+    "name": "ObjectLogger",
+    "language": "Java",
+    "stars": 163,
+    "forks": 35,
+    "codelines": 1133,
+    "commentlines": 53,
+    "emptylines": 548
+},{
+    "owner": "201206030",
+    "name": "fiction_house",
+    "language": "Java",
+    "stars": 229,
+    "forks": 94,
+    "codelines": 5520,
+    "commentlines": 1174,
+    "emptylines": 3310
+},{
+    "owner": "ReplayMod",
+    "name": "ReplayMod",
+    "language": "Java",
+    "stars": 159,
+    "forks": 17,
+    "codelines": 19678,
+    "commentlines": 7363,
+    "emptylines": 8220
+},{
+    "owner": "RAOE",
+    "name": "RunnerManager",
+    "language": "Java",
+    "stars": 159,
+    "forks": 21,
+    "codelines": 1623,
+    "commentlines": 428,
+    "emptylines": 1170
+},{
+    "owner": "nutritionfactsorg",
+    "name": "daily-dozen-android",
+    "language": "Java",
+    "stars": 160,
+    "forks": 76,
+    "codelines": 3740,
+    "commentlines": 90,
+    "emptylines": 2035
+},{
+    "owner": "pingidentity",
+    "name": "ldapsdk",
+    "language": "Java",
+    "stars": 158,
+    "forks": 44,
+    "codelines": 458560,
+    "commentlines": 299921,
+    "emptylines": 314303
+},{
+    "owner": "IFL-CAMP",
+    "name": "iiwa_stack",
+    "language": "Java",
+    "stars": 157,
+    "forks": 142,
+    "codelines": 418,
+    "commentlines": 168,
+    "emptylines": 206
+},{
+    "owner": "88250",
+    "name": "solo",
+    "language": "Java",
+    "stars": 220,
+    "forks": 42,
+    "codelines": 15087,
+    "commentlines": 12862,
+    "emptylines": 6639
+},{
+    "owner": "manolo",
+    "name": "gwt-polymer-elements",
+    "language": "Java",
+    "stars": 156,
+    "forks": 46,
+    "codelines": 1406,
+    "commentlines": 80,
+    "emptylines": 630
+},{
+    "owner": "reddr",
+    "name": "LibScout",
+    "language": "Java",
+    "stars": 156,
+    "forks": 27,
+    "codelines": 7311,
+    "commentlines": 2774,
+    "emptylines": 4155
+},{
+    "owner": "xidian-rs",
+    "name": "Ruisi",
+    "language": "Java",
+    "stars": 156,
+    "forks": 60,
+    "codelines": 14787,
+    "commentlines": 1285,
+    "emptylines": 6070
+},{
+    "owner": "gary-rowe",
+    "name": "multibit-merchant",
+    "language": "Java",
+    "stars": 155,
+    "forks": 51,
+    "codelines": 10770,
+    "commentlines": 7062,
+    "emptylines": 6233
+},{
+    "owner": "EnMasseProject",
+    "name": "enmasse",
+    "language": "Java",
+    "stars": 155,
+    "forks": 70,
+    "codelines": 63864,
+    "commentlines": 7922,
+    "emptylines": 26709
+},{
+    "owner": "apache",
+    "name": "attic-stratos",
+    "language": "Java",
+    "stars": 153,
+    "forks": 111,
+    "codelines": 97303,
+    "commentlines": 44924,
+    "emptylines": 47475
+},{
+    "owner": "farsunset",
+    "name": "cim",
+    "language": "Java",
+    "stars": 153,
+    "forks": 83,
+    "codelines": 7979,
+    "commentlines": 4076,
+    "emptylines": 5236
+},{
+    "owner": "spring-avengers",
+    "name": "tesla",
+    "language": "Java",
+    "stars": 152,
+    "forks": 62,
+    "codelines": 33343,
+    "commentlines": 6840,
+    "emptylines": 16402
+},{
+    "owner": "slavpetrov",
+    "name": "berkeleyparser",
+    "language": "Java",
+    "stars": 152,
+    "forks": 47,
+    "codelines": 53977,
+    "commentlines": 17461,
+    "emptylines": 19211
+},{
+    "owner": "LambdaInnovation",
+    "name": "AcademyCraft",
+    "language": "Java",
+    "stars": 152,
+    "forks": 41,
+    "codelines": 21921,
+    "commentlines": 2333,
+    "emptylines": 11076
+},{
+    "owner": "ricardoalcocer",
+    "name": "actionbarextras",
+    "language": "Java",
+    "stars": 151,
+    "forks": 64,
+    "codelines": 1090,
+    "commentlines": 385,
+    "emptylines": 602
+},{
+    "owner": "openwms",
+    "name": "org.openwms",
+    "language": "Java",
+    "stars": 151,
+    "forks": 69,
+    "codelines": 740,
+    "commentlines": 2021,
+    "emptylines": 457
+},{
+    "owner": "socialize",
+    "name": "socialize-sdk-android",
+    "language": "Java",
+    "stars": 151,
+    "forks": 60,
+    "codelines": 51375,
+    "commentlines": 31610,
+    "emptylines": 32007
+},{
+    "owner": "leonHua",
+    "name": "LGank",
+    "language": "Java",
+    "stars": 150,
+    "forks": 34,
+    "codelines": 3710,
+    "commentlines": 1547,
+    "emptylines": 1623
+},{
+    "owner": "t-oster",
+    "name": "VisiCut",
+    "language": "Java",
+    "stars": 150,
+    "forks": 93,
+    "codelines": 21347,
+    "commentlines": 8436,
+    "emptylines": 13550
+},{
+    "owner": "LnJan",
+    "name": "WechatLuckyMoneyGetter",
+    "language": "Java",
+    "stars": 150,
+    "forks": 37,
+    "codelines": 17965,
+    "commentlines": 8589,
+    "emptylines": 17126
+},{
+    "owner": "doctorrm",
+    "name": "WechatMiniProgram-shopping-mall",
+    "language": "Java",
+    "stars": 149,
+    "forks": 81,
+    "codelines": 777,
+    "commentlines": 49,
+    "emptylines": 336
+},{
+    "owner": "zhuowei",
+    "name": "Boardwalk",
+    "language": "Java",
+    "stars": 149,
+    "forks": 31,
+    "codelines": 2140,
+    "commentlines": 345,
+    "emptylines": 823
+},{
+    "owner": "SingleYam",
+    "name": "overview_java",
+    "language": "Java",
+    "stars": 147,
+    "forks": 36,
+    "codelines": 1462,
+    "commentlines": 291,
+    "emptylines": 747
+},{
+    "owner": "dhis2",
+    "name": "dhis2-core",
+    "language": "Java",
+    "stars": 147,
+    "forks": 162,
+    "codelines": 241218,
+    "commentlines": 143643,
+    "emptylines": 176546
+},{
+    "owner": "ceylon",
+    "name": "ceylon-compiler",
+    "language": "Java",
+    "stars": 147,
+    "forks": 42,
+    "codelines": 220422,
+    "commentlines": 161958,
+    "emptylines": 92627
+},{
+    "owner": "techtribesje",
+    "name": "techtribesje",
+    "language": "Java",
+    "stars": 146,
+    "forks": 47,
+    "codelines": 11393,
+    "commentlines": 326,
+    "emptylines": 5798
+},{
+    "owner": "Talend",
+    "name": "tesb-rt-se",
+    "language": "Java",
+    "stars": 145,
+    "forks": 183,
+    "codelines": 55770,
+    "commentlines": 27215,
+    "emptylines": 29466
+},{
+    "owner": "wapchief",
+    "name": "android-CollectionDemo",
+    "language": "Java",
+    "stars": 145,
+    "forks": 45,
+    "codelines": 4909,
+    "commentlines": 1363,
+    "emptylines": 2073
+},{
+    "owner": "hortonworks",
+    "name": "streamline",
+    "language": "Java",
+    "stars": 145,
+    "forks": 93,
+    "codelines": 59318,
+    "commentlines": 20017,
+    "emptylines": 26841
+},{
+    "owner": "kframework",
+    "name": "k",
+    "language": "Java",
+    "stars": 144,
+    "forks": 55,
+    "codelines": 46162,
+    "commentlines": 7557,
+    "emptylines": 18876
+},{
+    "owner": "GregTechCE",
+    "name": "GregTech",
+    "language": "Java",
+    "stars": 144,
+    "forks": 93,
+    "codelines": 49191,
+    "commentlines": 2433,
+    "emptylines": 19619
+},{
+    "owner": "cbeust",
+    "name": "testng-eclipse",
+    "language": "Java",
+    "stars": 142,
+    "forks": 125,
+    "codelines": 14231,
+    "commentlines": 3249,
+    "emptylines": 7410
+},{
+    "owner": "eguid",
+    "name": "vlpr4j",
+    "language": "Java",
+    "stars": 143,
+    "forks": 80,
+    "codelines": 1062,
+    "commentlines": 509,
+    "emptylines": 535
+},{
+    "owner": "hallvard",
+    "name": "plantuml",
+    "language": "Java",
+    "stars": 143,
+    "forks": 44,
+    "codelines": 10719,
+    "commentlines": 12376,
+    "emptylines": 5130
+},{
+    "owner": "AppCanOpenSource",
+    "name": "appcan-android",
+    "language": "Java",
+    "stars": 143,
+    "forks": 129,
+    "codelines": 30491,
+    "commentlines": 7288,
+    "emptylines": 12860
+},{
+    "owner": "branflake2267",
+    "name": "GWT-Maps-V3-Api",
+    "language": "Java",
+    "stars": 143,
+    "forks": 119,
+    "codelines": 22778,
+    "commentlines": 25454,
+    "emptylines": 14035
+},{
+    "owner": "robinxdroid",
+    "name": "BlurView",
+    "language": "Java",
+    "stars": 142,
+    "forks": 19,
+    "codelines": 1691,
+    "commentlines": 192,
+    "emptylines": 845
+},{
+    "owner": "Saseke",
+    "name": "poseidon",
+    "language": "Java",
+    "stars": 142,
+    "forks": 52,
+    "codelines": 4882,
+    "commentlines": 1418,
+    "emptylines": 3253
+},{
+    "owner": "hudson",
+    "name": "hudson-2.x",
+    "language": "Java",
+    "stars": 142,
+    "forks": 50,
+    "codelines": 67308,
+    "commentlines": 61850,
+    "emptylines": 35396
+},{
+    "owner": "Steppschuh",
+    "name": "Sensor-Data-Logger",
+    "language": "Java",
+    "stars": 141,
+    "forks": 57,
+    "codelines": 3462,
+    "commentlines": 352,
+    "emptylines": 1938
+},{
+    "owner": "donlan",
+    "name": "Tuyi",
+    "language": "Java",
+    "stars": 141,
+    "forks": 80,
+    "codelines": 28681,
+    "commentlines": 6637,
+    "emptylines": 12427
+},{
+    "owner": "dstl",
+    "name": "baleen",
+    "language": "Java",
+    "stars": 141,
+    "forks": 39,
+    "codelines": 89375,
+    "commentlines": 30539,
+    "emptylines": 39260
+},{
+    "owner": "DanielLin07",
+    "name": "bookshop",
+    "language": "Java",
+    "stars": 141,
+    "forks": 48,
+    "codelines": 958,
+    "commentlines": 156,
+    "emptylines": 491
+},{
+    "owner": "junjunguo",
+    "name": "PocketMaps",
+    "language": "Java",
+    "stars": 140,
+    "forks": 50,
+    "codelines": 6211,
+    "commentlines": 1724,
+    "emptylines": 3177
+},{
+    "owner": "iFixit",
+    "name": "iFixitAndroid",
+    "language": "Java",
+    "stars": 139,
+    "forks": 91,
+    "codelines": 17304,
+    "commentlines": 2003,
+    "emptylines": 8728
+},{
+    "owner": "KettleFoundation",
+    "name": "Kettle",
+    "language": "Java",
+    "stars": 138,
+    "forks": 34,
+    "codelines": 51119,
+    "commentlines": 34337,
+    "emptylines": 28206
+},{
+    "owner": "CeuiLiSA",
+    "name": "Pixiv-android",
+    "language": "Java",
+    "stars": 138,
+    "forks": 18,
+    "codelines": 9339,
+    "commentlines": 962,
+    "emptylines": 4475
+},{
+    "owner": "PDDStudio",
+    "name": "earthview-android",
+    "language": "Java",
+    "stars": 137,
+    "forks": 26,
+    "codelines": 3070,
+    "commentlines": 1093,
+    "emptylines": 1459
+},{
+    "owner": "wqandroid",
+    "name": "ihepai",
+    "language": "Java",
+    "stars": 137,
+    "forks": 51,
+    "codelines": 26167,
+    "commentlines": 10594,
+    "emptylines": 10073
+},{
+    "owner": "epam",
+    "name": "JDI",
+    "language": "Java",
+    "stars": 137,
+    "forks": 120,
+    "codelines": 29659,
+    "commentlines": 9489,
+    "emptylines": 14995
+},{
+    "owner": "FlansMods",
+    "name": "FlansMod",
+    "language": "Java",
+    "stars": 137,
+    "forks": 119,
+    "codelines": 118917,
+    "commentlines": 9547,
+    "emptylines": 51525
+},{
+    "owner": "johnalexandergreene",
+    "name": "Forsythia",
+    "language": "Java",
+    "stars": 137,
+    "forks": 13,
+    "codelines": 9826,
+    "commentlines": 4755,
+    "emptylines": 3141
+},{
+    "owner": "petterobam",
+    "name": "html2file",
+    "language": "Java",
+    "stars": 137,
+    "forks": 36,
+    "codelines": 2795,
+    "commentlines": 1131,
+    "emptylines": 1056
+},{
+    "owner": "wzx54321",
+    "name": "LockDemo",
+    "language": "Java",
+    "stars": 136,
+    "forks": 32,
+    "codelines": 7300,
+    "commentlines": 3635,
+    "emptylines": 4076
+},{
+    "owner": "czyzby",
+    "name": "gdx-lml",
+    "language": "Java",
+    "stars": 137,
+    "forks": 23,
+    "codelines": 35807,
+    "commentlines": 14861,
+    "emptylines": 17357
+},{
+    "owner": "perfectsense",
+    "name": "brightspot-cms",
+    "language": "Java",
+    "stars": 137,
+    "forks": 56,
+    "codelines": 37115,
+    "commentlines": 5489,
+    "emptylines": 20148
+},{
+    "owner": "BentoBoxWorld",
+    "name": "BentoBox",
+    "language": "Java",
+    "stars": 136,
+    "forks": 75,
+    "codelines": 44576,
+    "commentlines": 17313,
+    "emptylines": 16439
+},{
+    "owner": "yoshioterada",
+    "name": "k8s-Azure-Container-Service-AKS--on-Azure",
+    "language": "Java",
+    "stars": 135,
+    "forks": 44,
+    "codelines": 209,
+    "commentlines": 145,
+    "emptylines": 82
+},{
+    "owner": "antest1",
+    "name": "kcanotify",
+    "language": "Java",
+    "stars": 135,
+    "forks": 25,
+    "codelines": 27049,
+    "commentlines": 617,
+    "emptylines": 8519
+},{
+    "owner": "eclipse",
+    "name": "egit",
+    "language": "Java",
+    "stars": 134,
+    "forks": 103,
+    "codelines": 129098,
+    "commentlines": 43345,
+    "emptylines": 48415
+},{
+    "owner": "oracle",
+    "name": "weblogic-kubernetes-operator",
+    "language": "Java",
+    "stars": 134,
+    "forks": 124,
+    "codelines": 55063,
+    "commentlines": 13214,
+    "emptylines": 24209
+},{
+    "owner": "jbosstm",
+    "name": "narayana",
+    "language": "Java",
+    "stars": 133,
+    "forks": 122,
+    "codelines": 264890,
+    "commentlines": 191594,
+    "emptylines": 193528
+},{
+    "owner": "FINRAOS",
+    "name": "DataGenerator",
+    "language": "Java",
+    "stars": 134,
+    "forks": 160,
+    "codelines": 9626,
+    "commentlines": 5339,
+    "emptylines": 4756
+},{
+    "owner": "864381832",
+    "name": "xJavaFxTool-spring",
+    "language": "Java",
+    "stars": 134,
+    "forks": 61,
+    "codelines": 29089,
+    "commentlines": 3746,
+    "emptylines": 8242
+},{
+    "owner": "eclipse",
+    "name": "vorto",
+    "language": "Java",
+    "stars": 133,
+    "forks": 93,
+    "codelines": 37319,
+    "commentlines": 13701,
+    "emptylines": 18086
+},{
+    "owner": "ShreyasD",
+    "name": "CrackingTheCodingInterviewSolutions",
+    "language": "Java",
+    "stars": 132,
+    "forks": 74,
+    "codelines": 931,
+    "commentlines": 84,
+    "emptylines": 507
+},{
+    "owner": "caoqazwsx",
+    "name": "MissZzzReader",
+    "language": "Java",
+    "stars": 133,
+    "forks": 54,
+    "codelines": 8954,
+    "commentlines": 2967,
+    "emptylines": 4703
+},{
+    "owner": "apache",
+    "name": "apex-malhar",
+    "language": "Java",
+    "stars": 132,
+    "forks": 150,
+    "codelines": 138503,
+    "commentlines": 84134,
+    "emptylines": 84670
+},{
+    "owner": "wxbty",
+    "name": "meepo",
+    "language": "Java",
+    "stars": 132,
+    "forks": 49,
+    "codelines": 9177,
+    "commentlines": 585,
+    "emptylines": 4580
+},{
+    "owner": "eclipse-ee4j",
+    "name": "glassfish",
+    "language": "Java",
+    "stars": 132,
+    "forks": 74,
+    "codelines": 980744,
+    "commentlines": 619344,
+    "emptylines": 518003
+},{
+    "owner": "nblavoie",
+    "name": "wyzecam-api",
+    "language": "Java",
+    "stars": 131,
+    "forks": 33,
+    "codelines": 476,
+    "commentlines": 1108,
+    "emptylines": 261
+},{
+    "owner": "osmlab",
+    "name": "atlas",
+    "language": "Java",
+    "stars": 130,
+    "forks": 52,
+    "codelines": 90025,
+    "commentlines": 25515,
+    "emptylines": 53576
+},{
+    "owner": "shin285",
+    "name": "KOMORAN",
+    "language": "Java",
+    "stars": 131,
+    "forks": 36,
+    "codelines": 3193,
+    "commentlines": 1189,
+    "emptylines": 1500
+},{
+    "owner": "mengzhidaren",
+    "name": "RecylerViewMultiHeaderView",
+    "language": "Java",
+    "stars": 129,
+    "forks": 24,
+    "codelines": 1426,
+    "commentlines": 211,
+    "emptylines": 685
+},{
+    "owner": "pivotal-legacy",
+    "name": "AndroidIntelliJStarter",
+    "language": "Java",
+    "stars": 129,
+    "forks": 42,
+    "codelines": 863,
+    "commentlines": 40,
+    "emptylines": 481
+},{
+    "owner": "bauer-bao",
+    "name": "DragCloseHelper",
+    "language": "Java",
+    "stars": 129,
+    "forks": 19,
+    "codelines": 548,
+    "commentlines": 245,
+    "emptylines": 254
+},{
+    "owner": "qzind",
+    "name": "qz-print",
+    "language": "Java",
+    "stars": 128,
+    "forks": 94,
+    "codelines": 7129,
+    "commentlines": 5130,
+    "emptylines": 3730
+},{
+    "owner": "wangdanlizhiyun",
+    "name": "lib_download",
+    "language": "Java",
+    "stars": 128,
+    "forks": 16,
+    "codelines": 4808,
+    "commentlines": 903,
+    "emptylines": 2114
+},{
+    "owner": "heuermh",
+    "name": "leap-motion-processing",
+    "language": "Java",
+    "stars": 127,
+    "forks": 30,
+    "codelines": 95,
+    "commentlines": 183,
+    "emptylines": 112
+},{
+    "owner": "iHelp101",
+    "name": "XInsta",
+    "language": "Java",
+    "stars": 126,
+    "forks": 36,
+    "codelines": 12820,
+    "commentlines": 1477,
+    "emptylines": 6987
+},{
+    "owner": "1144388620lq",
+    "name": "permission",
+    "language": "Java",
+    "stars": 127,
+    "forks": 21,
+    "codelines": 4332,
+    "commentlines": 449,
+    "emptylines": 2588
+},{
+    "owner": "scriptographer",
+    "name": "scriptographer",
+    "language": "Java",
+    "stars": 127,
+    "forks": 17,
+    "codelines": 22442,
+    "commentlines": 20017,
+    "emptylines": 12960
+},{
+    "owner": "SimonMarquis",
+    "name": "Android-PreferencesManager",
+    "language": "Java",
+    "stars": 126,
+    "forks": 32,
+    "codelines": 3482,
+    "commentlines": 798,
+    "emptylines": 1463
+},{
+    "owner": "SiberiaDante",
+    "name": "AndroidUtilLib",
+    "language": "Java",
+    "stars": 127,
+    "forks": 42,
+    "codelines": 17570,
+    "commentlines": 8506,
+    "emptylines": 7191
+},{
+    "owner": "apache",
+    "name": "hama",
+    "language": "Java",
+    "stars": 126,
+    "forks": 77,
+    "codelines": 37984,
+    "commentlines": 20297,
+    "emptylines": 17875
+},{
+    "owner": "CompEvol",
+    "name": "beast2",
+    "language": "Java",
+    "stars": 126,
+    "forks": 55,
+    "codelines": 67280,
+    "commentlines": 30219,
+    "emptylines": 30681
+},{
+    "owner": "jenkinsci",
+    "name": "tfs-plugin",
+    "language": "Java",
+    "stars": 126,
+    "forks": 163,
+    "codelines": 12683,
+    "commentlines": 2473,
+    "emptylines": 6065
+},{
+    "owner": "OpenSOC",
+    "name": "opensoc-streaming",
+    "language": "Java",
+    "stars": 125,
+    "forks": 88,
+    "codelines": 12986,
+    "commentlines": 6323,
+    "emptylines": 7064
+},{
+    "owner": "LanSoSdk",
+    "name": "LanSoSdkPlayDemo",
+    "language": "Java",
+    "stars": 125,
+    "forks": 64,
+    "codelines": 3241,
+    "commentlines": 1171,
+    "emptylines": 1631
+},{
+    "owner": "tvrenamer",
+    "name": "tvrenamer",
+    "language": "Java",
+    "stars": 125,
+    "forks": 21,
+    "codelines": 8634,
+    "commentlines": 4198,
+    "emptylines": 3327
+},{
+    "owner": "RestComm",
+    "name": "media-core",
+    "language": "Java",
+    "stars": 125,
+    "forks": 104,
+    "codelines": 94531,
+    "commentlines": 47542,
+    "emptylines": 42275
+},{
+    "owner": "jwcqc",
+    "name": "WechatPayDemo",
+    "language": "Java",
+    "stars": 124,
+    "forks": 58,
+    "codelines": 587,
+    "commentlines": 73,
+    "emptylines": 318
+},{
+    "owner": "CUTR-at-USF",
+    "name": "OpenTripPlanner-for-Android",
+    "language": "Java",
+    "stars": 124,
+    "forks": 91,
+    "codelines": 8205,
+    "commentlines": 2268,
+    "emptylines": 3732
+},{
+    "owner": "YummyLau",
+    "name": "PanelSwitchHelper",
+    "language": "Java",
+    "stars": 126,
+    "forks": 22,
+    "codelines": 3212,
+    "commentlines": 800,
+    "emptylines": 1435
+},{
+    "owner": "onlylemi",
+    "name": "processing-android-capture",
+    "language": "Java",
+    "stars": 123,
+    "forks": 26,
+    "codelines": 186,
+    "commentlines": 137,
+    "emptylines": 106
+},{
+    "owner": "CysionLiu",
+    "name": "SelfAdjointView",
+    "language": "Java",
+    "stars": 123,
+    "forks": 18,
+    "codelines": 1043,
+    "commentlines": 105,
+    "emptylines": 532
+},{
+    "owner": "microsoft",
+    "name": "azure-tools-for-java",
+    "language": "Java",
+    "stars": 123,
+    "forks": 84,
+    "codelines": 99255,
+    "commentlines": 44889,
+    "emptylines": 44586
+},{
+    "owner": "SINTEF-9012",
+    "name": "JArduino",
+    "language": "Java",
+    "stars": 122,
+    "forks": 51,
+    "codelines": 8213,
+    "commentlines": 3085,
+    "emptylines": 3773
+},{
+    "owner": "muabe",
+    "name": "Propose",
+    "language": "Java",
+    "stars": 122,
+    "forks": 40,
+    "codelines": 2022,
+    "commentlines": 391,
+    "emptylines": 1222
+},{
+    "owner": "cs-au-dk",
+    "name": "TAJS",
+    "language": "Java",
+    "stars": 122,
+    "forks": 27,
+    "codelines": 69629,
+    "commentlines": 22261,
+    "emptylines": 28763
+},{
+    "owner": "huijimuhe",
+    "name": "monolog-android",
+    "language": "Java",
+    "stars": 121,
+    "forks": 85,
+    "codelines": 14559,
+    "commentlines": 3184,
+    "emptylines": 6776
+},{
+    "owner": "TeamCohen",
+    "name": "ProPPR",
+    "language": "Java",
+    "stars": 121,
+    "forks": 46,
+    "codelines": 11322,
+    "commentlines": 2350,
+    "emptylines": 4063
+},{
+    "owner": "davidsoergel",
+    "name": "jlibsvm",
+    "language": "Java",
+    "stars": 121,
+    "forks": 64,
+    "codelines": 4948,
+    "commentlines": 2793,
+    "emptylines": 4485
+},{
+    "owner": "LUSHDigital",
+    "name": "android-player",
+    "language": "Java",
+    "stars": 120,
+    "forks": 21,
+    "codelines": 4493,
+    "commentlines": 917,
+    "emptylines": 3902
+},{
+    "owner": "liferay",
+    "name": "liferay-blade-samples",
+    "language": "Java",
+    "stars": 120,
+    "forks": 385,
+    "codelines": 55244,
+    "commentlines": 37958,
+    "emptylines": 34904
+},{
+    "owner": "angcyo",
+    "name": "RJcenter",
+    "language": "Java",
+    "stars": 120,
+    "forks": 54,
+    "codelines": 67034,
+    "commentlines": 28918,
+    "emptylines": 31456
+},{
+    "owner": "wildfly",
+    "name": "wildfly-core",
+    "language": "Java",
+    "stars": 120,
+    "forks": 369,
+    "codelines": 445837,
+    "commentlines": 174825,
+    "emptylines": 188692
+},{
+    "owner": "caelum",
+    "name": "agiletickets",
+    "language": "Java",
+    "stars": 120,
+    "forks": 259,
+    "codelines": 967,
+    "commentlines": 41,
+    "emptylines": 582
+},{
+    "owner": "aoju",
+    "name": "bus",
+    "language": "Java",
+    "stars": 123,
+    "forks": 28,
+    "codelines": 131616,
+    "commentlines": 138686,
+    "emptylines": 68790
+},{
+    "owner": "ha-jdbc",
+    "name": "ha-jdbc",
+    "language": "Java",
+    "stars": 120,
+    "forks": 53,
+    "codelines": 19679,
+    "commentlines": 14246,
+    "emptylines": 15619
+},{
+    "owner": "TScottJ",
+    "name": "OpenEphyra",
+    "language": "Java",
+    "stars": 119,
+    "forks": 59,
+    "codelines": 15032,
+    "commentlines": 11130,
+    "emptylines": 7073
+},{
+    "owner": "securityfirst",
+    "name": "Umbrella_android",
+    "language": "Java",
+    "stars": 119,
+    "forks": 42,
+    "codelines": 10267,
+    "commentlines": 170,
+    "emptylines": 4248
+},{
+    "owner": "uestccokey",
+    "name": "EZFilter",
+    "language": "Java",
+    "stars": 118,
+    "forks": 29,
+    "codelines": 9894,
+    "commentlines": 3610,
+    "emptylines": 4858
+},{
+    "owner": "ManyDesigns",
+    "name": "Portofino",
+    "language": "Java",
+    "stars": 118,
+    "forks": 41,
+    "codelines": 34549,
+    "commentlines": 16293,
+    "emptylines": 16627
+},{
+    "owner": "banq",
+    "name": "jivejdon",
+    "language": "Java",
+    "stars": 118,
+    "forks": 57,
+    "codelines": 26593,
+    "commentlines": 13105,
+    "emptylines": 13705
+},{
+    "owner": "mesosphere",
+    "name": "dcos-cassandra-service",
+    "language": "Java",
+    "stars": 118,
+    "forks": 60,
+    "codelines": 16631,
+    "commentlines": 3245,
+    "emptylines": 5668
+},{
+    "owner": "AsynctaskCoffee",
+    "name": "VideoLayout",
+    "language": "Java",
+    "stars": 117,
+    "forks": 14,
+    "codelines": 212,
+    "commentlines": 19,
+    "emptylines": 112
+},{
+    "owner": "Azure",
+    "name": "azure-iot-sdk-java",
+    "language": "Java",
+    "stars": 117,
+    "forks": 160,
+    "codelines": 106876,
+    "commentlines": 45653,
+    "emptylines": 74423
+},{
+    "owner": "tsantalis",
+    "name": "RefactoringMiner",
+    "language": "Java",
+    "stars": 117,
+    "forks": 72,
+    "codelines": 19314,
+    "commentlines": 526,
+    "emptylines": 8221
+},{
+    "owner": "amplab",
+    "name": "carat",
+    "language": "Java",
+    "stars": 117,
+    "forks": 42,
+    "codelines": 14134,
+    "commentlines": 8342,
+    "emptylines": 7742
+},{
+    "owner": "mpue",
+    "name": "blackboard",
+    "language": "Java",
+    "stars": 117,
+    "forks": 37,
+    "codelines": 85081,
+    "commentlines": 41455,
+    "emptylines": 43131
+},{
+    "owner": "CarGuo",
+    "name": "linkagescroll",
+    "language": "Java",
+    "stars": 117,
+    "forks": 29,
+    "codelines": 3423,
+    "commentlines": 330,
+    "emptylines": 1553
+},{
+    "owner": "mguessan",
+    "name": "davmail",
+    "language": "Java",
+    "stars": 121,
+    "forks": 20,
+    "codelines": 33035,
+    "commentlines": 13994,
+    "emptylines": 13745
+},{
+    "owner": "branaway",
+    "name": "Japid",
+    "language": "Java",
+    "stars": 116,
+    "forks": 20,
+    "codelines": 13587,
+    "commentlines": 6328,
+    "emptylines": 6294
+},{
+    "owner": "sayems",
+    "name": "java.webdriver",
+    "language": "Java",
+    "stars": 116,
+    "forks": 126,
+    "codelines": 447,
+    "commentlines": 36,
+    "emptylines": 284
+},{
+    "owner": "leavesC",
+    "name": "Chat",
+    "language": "Java",
+    "stars": 116,
+    "forks": 31,
+    "codelines": 6462,
+    "commentlines": 1078,
+    "emptylines": 3251
+},{
+    "owner": "DingMouRen",
+    "name": "DingDingMap",
+    "language": "Java",
+    "stars": 116,
+    "forks": 45,
+    "codelines": 10692,
+    "commentlines": 3011,
+    "emptylines": 3923
+},{
+    "owner": "FudanSELab",
+    "name": "train-ticket",
+    "language": "Java",
+    "stars": 116,
+    "forks": 69,
+    "codelines": 28408,
+    "commentlines": 5664,
+    "emptylines": 15316
+},{
+    "owner": "ywwynm",
+    "name": "EverythingDone",
+    "language": "Java",
+    "stars": 116,
+    "forks": 31,
+    "codelines": 27429,
+    "commentlines": 2603,
+    "emptylines": 10995
+},{
+    "owner": "google",
+    "name": "gdata-java-client",
+    "language": "Java",
+    "stars": 115,
+    "forks": 103,
+    "codelines": 86752,
+    "commentlines": 92100,
+    "emptylines": 50690
+},{
+    "owner": "godcheese",
+    "name": "nimrod",
+    "language": "Java",
+    "stars": 115,
+    "forks": 37,
+    "codelines": 8464,
+    "commentlines": 4697,
+    "emptylines": 4183
+},{
+    "owner": "mysticfall",
+    "name": "pivot4j",
+    "language": "Java",
+    "stars": 115,
+    "forks": 92,
+    "codelines": 26885,
+    "commentlines": 12360,
+    "emptylines": 17114
+},{
+    "owner": "StringCare",
+    "name": "AndroidLibrary",
+    "language": "Java",
+    "stars": 114,
+    "forks": 26,
+    "codelines": 150,
+    "commentlines": 54,
+    "emptylines": 81
+},{
+    "owner": "Gleidson28",
+    "name": "DashboardFx",
+    "language": "Java",
+    "stars": 114,
+    "forks": 38,
+    "codelines": 2827,
+    "commentlines": 917,
+    "emptylines": 1243
+},{
+    "owner": "karthikraj-duraisamy",
+    "name": "ScrollingBehaviorAndroid",
+    "language": "Java",
+    "stars": 115,
+    "forks": 35,
+    "codelines": 166,
+    "commentlines": 35,
+    "emptylines": 97
+},{
+    "owner": "clafonta",
+    "name": "Mockey",
+    "language": "Java",
+    "stars": 113,
+    "forks": 39,
+    "codelines": 12824,
+    "commentlines": 9712,
+    "emptylines": 6511
+},{
+    "owner": "kepmov",
+    "name": "elasticsearch-analysis-hanlp",
+    "language": "Java",
+    "stars": 113,
+    "forks": 37,
+    "codelines": 660,
+    "commentlines": 235,
+    "emptylines": 348
+},{
+    "owner": "umple",
+    "name": "umple",
+    "language": "Java",
+    "stars": 112,
+    "forks": 56,
+    "codelines": 478846,
+    "commentlines": 349880,
+    "emptylines": 286592
+},{
+    "owner": "ZeeRooo",
+    "name": "MaterialFBook",
+    "language": "Java",
+    "stars": 112,
+    "forks": 43,
+    "codelines": 3476,
+    "commentlines": 159,
+    "emptylines": 1410
+},{
+    "owner": "apache",
+    "name": "stanbol",
+    "language": "Java",
+    "stars": 112,
+    "forks": 76,
+    "codelines": 133791,
+    "commentlines": 88604,
+    "emptylines": 48292
+},{
+    "owner": "gchq",
+    "name": "stroom",
+    "language": "Java",
+    "stars": 112,
+    "forks": 29,
+    "codelines": 231288,
+    "commentlines": 95707,
+    "emptylines": 116032
+},{
+    "owner": "yuyufeng1994",
+    "name": "KnowledgeLibrary",
+    "language": "Java",
+    "stars": 112,
+    "forks": 81,
+    "codelines": 7066,
+    "commentlines": 2649,
+    "emptylines": 3329
+},{
+    "owner": "kamegami13",
+    "name": "MonsterHunter4UDatabase",
+    "language": "Java",
+    "stars": 111,
+    "forks": 40,
+    "codelines": 19884,
+    "commentlines": 3670,
+    "emptylines": 9311
+},{
+    "owner": "rapidminer",
+    "name": "rapidminer-5",
+    "language": "Java",
+    "stars": 111,
+    "forks": 69,
+    "codelines": 265439,
+    "commentlines": 140685,
+    "emptylines": 125461
+},{
+    "owner": "sriharshachilakapati",
+    "name": "SilenceEngine",
+    "language": "Java",
+    "stars": 110,
+    "forks": 26,
+    "codelines": 17120,
+    "commentlines": 12452,
+    "emptylines": 13232
+},{
+    "owner": "WuXiaolong",
+    "name": "WoChat",
+    "language": "Java",
+    "stars": 110,
+    "forks": 58,
+    "codelines": 12838,
+    "commentlines": 3719,
+    "emptylines": 6346
+},{
+    "owner": "w3c",
+    "name": "css-validator",
+    "language": "Java",
+    "stars": 110,
+    "forks": 66,
+    "codelines": 84782,
+    "commentlines": 51436,
+    "emptylines": 43338
+},{
+    "owner": "CodeToExpress",
+    "name": "dailycodebase",
+    "language": "Java",
+    "stars": 111,
+    "forks": 89,
+    "codelines": 2090,
+    "commentlines": 744,
+    "emptylines": 1082
+},{
+    "owner": "zhao-mingjian",
+    "name": "qvod",
+    "language": "Java",
+    "stars": 110,
+    "forks": 33,
+    "codelines": 3679,
+    "commentlines": 1129,
+    "emptylines": 1935
+},{
+    "owner": "hamen",
+    "name": "rxjava-essentials",
+    "language": "Java",
+    "stars": 109,
+    "forks": 29,
+    "codelines": 2636,
+    "commentlines": 329,
+    "emptylines": 1345
+},{
+    "owner": "Xiaofei-it",
+    "name": "pinoc",
+    "language": "Java",
+    "stars": 109,
+    "forks": 26,
+    "codelines": 1266,
+    "commentlines": 421,
+    "emptylines": 567
+},{
+    "owner": "castlabs",
+    "name": "dashencrypt",
+    "language": "Java",
+    "stars": 109,
+    "forks": 36,
+    "codelines": 4387,
+    "commentlines": 4482,
+    "emptylines": 2142
+},{
+    "owner": "vocollapse",
+    "name": "Blockinger",
+    "language": "Java",
+    "stars": 108,
+    "forks": 106,
+    "codelines": 91,
+    "commentlines": 13,
+    "emptylines": 39
+},{
+    "owner": "picocontainer",
+    "name": "picocontainer",
+    "language": "Java",
+    "stars": 108,
+    "forks": 27,
+    "codelines": 52705,
+    "commentlines": 19087,
+    "emptylines": 29751
+},{
+    "owner": "hashgraph",
+    "name": "hedera-sdk-java",
+    "language": "Java",
+    "stars": 108,
+    "forks": 50,
+    "codelines": 7059,
+    "commentlines": 1532,
+    "emptylines": 3474
+},{
+    "owner": "illyria-io",
+    "name": "illyriaFactions",
+    "language": "Java",
+    "stars": 108,
+    "forks": 76,
+    "codelines": 21363,
+    "commentlines": 3953,
+    "emptylines": 10514
+},{
+    "owner": "bigsinger",
+    "name": "fakegps",
+    "language": "Java",
+    "stars": 108,
+    "forks": 39,
+    "codelines": 2732,
+    "commentlines": 697,
+    "emptylines": 1327
+},{
+    "owner": "kiegroup",
+    "name": "appformer",
+    "language": "Java",
+    "stars": 109,
+    "forks": 125,
+    "codelines": 335287,
+    "commentlines": 100384,
+    "emptylines": 144064
+},
