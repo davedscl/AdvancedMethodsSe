@@ -87,8 +87,11 @@ class Repository:
                 sum += element.__dict__['cyclomatic_complexity']
                 function_count += 1
             
-        
-        self.averageCC = sum/function_count
+        if function_count!=0:
+            self.averageCC = sum/function_count
+        else:
+            self.averageCC = -1
+            print("Division by 0 set average CC to -1")
         
         print("Analysed Complexity of Repository: ", self.repository.name)
         return
