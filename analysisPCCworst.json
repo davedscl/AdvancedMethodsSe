@@ -1,0 +1,3541 @@
+[{
+    "owner": "ascai1",
+    "name": "continuity",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 227,
+    "commentlines": 41,
+    "emptylines": 51,
+    "averageCC": 3.1
+},{
+    "owner": "markbreneman",
+    "name": "SmartMoVote",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 12090,
+    "commentlines": 3135,
+    "emptylines": 1968,
+    "averageCC": 3.8307174887892375
+},{
+    "owner": "carepez",
+    "name": "MongoDB_for_Dev",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 370726,
+    "commentlines": 115726,
+    "emptylines": 75728,
+    "averageCC": 2.319946138984837
+},{
+    "owner": "jebgee03",
+    "name": "limestonelitmag",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 2017,
+    "commentlines": 145,
+    "emptylines": 637,
+    "averageCC": 1.503030303030303
+},{
+    "owner": "webmajstr",
+    "name": "ISI-zaliczonko",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 841,
+    "commentlines": 48,
+    "emptylines": 200,
+    "averageCC": 6.714285714285714
+},{
+    "owner": "honeyl3oom",
+    "name": "classweek",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 3248,
+    "commentlines": 428,
+    "emptylines": 924,
+    "averageCC": 2.3684210526315788
+},{
+    "owner": "roylanceMichael",
+    "name": "Partners_Obesity_Subjective_Feature_Learning",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 1867,
+    "commentlines": 56,
+    "emptylines": 600,
+    "averageCC": 3.06
+},{
+    "owner": "joyxu",
+    "name": "autotest",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 77342,
+    "commentlines": 23893,
+    "emptylines": 19856,
+    "averageCC": 2.110128086623531
+},{
+    "owner": "JKulakofsky",
+    "name": "CIP-Crosswalk",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 445,
+    "commentlines": 14,
+    "emptylines": 89,
+    "averageCC": 1.0
+},{
+    "owner": "acabar9",
+    "name": "acabar9",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 112636,
+    "commentlines": 57660,
+    "emptylines": 27968,
+    "averageCC": 2.0513297111810123
+},{
+    "owner": "GolfyMcG",
+    "name": "MIT_Classes",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 11725,
+    "commentlines": 2259,
+    "emptylines": 2111,
+    "averageCC": 2.3196787148594376
+},{
+    "owner": "LuluYu",
+    "name": "cs373-idb",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1780,
+    "commentlines": 211,
+    "emptylines": 454,
+    "averageCC": 1.2769230769230768
+},{
+    "owner": "oneski",
+    "name": "SAAST-Summer-Program-Project",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5225,
+    "commentlines": 75382,
+    "emptylines": 1204,
+    "averageCC": 2.6094488188976377
+},{
+    "owner": "TangXT",
+    "name": "GreatCatMOOC",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 92280,
+    "commentlines": 33528,
+    "emptylines": 28937,
+    "averageCC": 1.9904339387217524
+},{
+    "owner": "adalee2future",
+    "name": "learn-python",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6144,
+    "commentlines": 1957,
+    "emptylines": 1859,
+    "averageCC": 2.170818505338078
+},{
+    "owner": "bethac07",
+    "name": "CellProfilerStats",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4352,
+    "commentlines": 331,
+    "emptylines": 352,
+    "averageCC": 12.1875
+},{
+    "owner": "wwj718",
+    "name": "murp-edx",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 125656,
+    "commentlines": 45727,
+    "emptylines": 39546,
+    "averageCC": 1.9357872383456365
+},{
+    "owner": "jschlitt84",
+    "name": "mapOptimizer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1782,
+    "commentlines": 206,
+    "emptylines": 478,
+    "averageCC": 6.338709677419355
+},{
+    "owner": "virtual-labs",
+    "name": "lab-integration-kit-v0.5",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 147137,
+    "commentlines": 69458,
+    "emptylines": 35508,
+    "averageCC": 2.039600702062308
+},{
+    "owner": "GregChan",
+    "name": "eecs349",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1360,
+    "commentlines": 222,
+    "emptylines": 483,
+    "averageCC": 3.9759036144578315
+},{
+    "owner": "Geckoweb",
+    "name": "BAS",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 3434,
+    "commentlines": 2808,
+    "emptylines": 849,
+    "averageCC": 1.7102966841186737
+},{
+    "owner": "suhongjin94",
+    "name": "eecs332",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1465,
+    "commentlines": 222,
+    "emptylines": 340,
+    "averageCC": 4.476923076923077
+},{
+    "owner": "xin3liang",
+    "name": "platform_prebuilts_gcc_linux-x86_mips_mipsel-linux-android-4.8",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1596,
+    "commentlines": 1276,
+    "emptylines": 505,
+    "averageCC": 2.7134831460674156
+},{
+    "owner": "geraintpalmer",
+    "name": "SimulatingAQingNetwork",
+    "language": "Python",
+    "stars": 0,
+    "forks": 2,
+    "codelines": 703,
+    "commentlines": 1208,
+    "emptylines": 156,
+    "averageCC": 2.950617283950617
+},{
+    "owner": "sunny94",
+    "name": "temp",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 261834,
+    "commentlines": 131156,
+    "emptylines": 60980,
+    "averageCC": 2.891621792072964
+},{
+    "owner": "mshahriarinia",
+    "name": "NeuralNetworks",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4191,
+    "commentlines": 1945,
+    "emptylines": 1471,
+    "averageCC": 2.2767295597484276
+},{
+    "owner": "snoopdogg420",
+    "name": "src",
+    "language": "Python",
+    "stars": 0,
+    "forks": 94,
+    "codelines": 392381,
+    "commentlines": 2564,
+    "emptylines": 43552,
+    "averageCC": 2.276310483870968
+},{
+    "owner": "dstufft",
+    "name": "miniature-ninja",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2458,
+    "commentlines": 497,
+    "emptylines": 395,
+    "averageCC": 3.992957746478873
+},{
+    "owner": "quequino",
+    "name": "HomelessAddons",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 167,
+    "commentlines": 76,
+    "emptylines": 75,
+    "averageCC": 3.5
+},{
+    "owner": "jgooding7346",
+    "name": "projects",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 5434,
+    "commentlines": 777,
+    "emptylines": 1118,
+    "averageCC": 4.993079584775087
+},{
+    "owner": "shanest",
+    "name": "learning-evolution-compositionality",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 533,
+    "commentlines": 50,
+    "emptylines": 129,
+    "averageCC": 2.5964912280701755
+},{
+    "owner": "meyco",
+    "name": "Processing",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5302,
+    "commentlines": 1592,
+    "emptylines": 1264,
+    "averageCC": 3.101449275362319
+},{
+    "owner": "amibaren",
+    "name": "python",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 26,
+    "commentlines": 4,
+    "emptylines": 5,
+    "averageCC": 2.0
+},{
+    "owner": "ManInAGarden",
+    "name": "birdclock",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 182,
+    "commentlines": 70,
+    "emptylines": 44,
+    "averageCC": 2.875
+},{
+    "owner": "vincentsavard",
+    "name": "design3",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3275,
+    "commentlines": 56,
+    "emptylines": 880,
+    "averageCC": 2.193939393939394
+},{
+    "owner": "noorzaman",
+    "name": "projects",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3682,
+    "commentlines": 928,
+    "emptylines": 1828,
+    "averageCC": 4.619565217391305
+},{
+    "owner": "imtapps",
+    "name": "django-imt-fork",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 136062,
+    "commentlines": 41154,
+    "emptylines": 35700,
+    "averageCC": 2.0298253747488797
+},{
+    "owner": "Danisan",
+    "name": "openerp7",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 135010,
+    "commentlines": 56955,
+    "emptylines": 27751,
+    "averageCC": 4.108859508216978
+},{
+    "owner": "kathernandez",
+    "name": "AeroHydro",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1294,
+    "commentlines": 413,
+    "emptylines": 423,
+    "averageCC": 2.140625
+},{
+    "owner": "josecolella",
+    "name": "PLD",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 87940,
+    "commentlines": 53216,
+    "emptylines": 15066,
+    "averageCC": 2.6205552089831565
+},{
+    "owner": "georgeberry",
+    "name": "rdownloads",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 80,
+    "commentlines": 8,
+    "emptylines": 34,
+    "averageCC": 2.5714285714285716
+},{
+    "owner": "Adamska",
+    "name": "Gomoku",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1721,
+    "commentlines": 168,
+    "emptylines": 251,
+    "averageCC": 17.79245283018868
+},{
+    "owner": "myvideolibrary",
+    "name": "mvl-skin",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6849,
+    "commentlines": 909,
+    "emptylines": 1648,
+    "averageCC": 4.178841309823677
+},{
+    "owner": "matteosan1",
+    "name": "python_code",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 225002,
+    "commentlines": 3915,
+    "emptylines": 4466,
+    "averageCC": 2.7869897959183674
+},{
+    "owner": "Ultraporing",
+    "name": "jas0npc",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6288,
+    "commentlines": 463,
+    "emptylines": 1071,
+    "averageCC": 3.3669950738916254
+},{
+    "owner": "mikemp",
+    "name": "Current_Source_Test",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4683,
+    "commentlines": 2517,
+    "emptylines": 1374,
+    "averageCC": 1.5838709677419356
+},{
+    "owner": "RU-CS530-Go-Team",
+    "name": "GoLD",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 5860,
+    "commentlines": 504,
+    "emptylines": 641,
+    "averageCC": 5.515625
+},{
+    "owner": "alencool",
+    "name": "geek-love",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 916,
+    "commentlines": 125,
+    "emptylines": 208,
+    "averageCC": 3.8412698412698414
+},{
+    "owner": "borkess",
+    "name": "afis",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1553,
+    "commentlines": 118,
+    "emptylines": 376,
+    "averageCC": 5.290322580645161
+},{
+    "owner": "jedimonster",
+    "name": "nlp",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3209,
+    "commentlines": 1185,
+    "emptylines": 1075,
+    "averageCC": 2.4520958083832336
+},{
+    "owner": "wyleung",
+    "name": "rnaveer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1018,
+    "commentlines": 297,
+    "emptylines": 199,
+    "averageCC": 3.25
+},{
+    "owner": "Sachin19",
+    "name": "diversity-research",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 451,
+    "commentlines": 10,
+    "emptylines": 34,
+    "averageCC": 5.769230769230769
+},{
+    "owner": "XiaodunServerGroup",
+    "name": "ddyedx",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 121979,
+    "commentlines": 43238,
+    "emptylines": 38597,
+    "averageCC": 2.0082295843004854
+},{
+    "owner": "haoliangx",
+    "name": "Autobot-Nikki-UP2U",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 455,
+    "commentlines": 63,
+    "emptylines": 114,
+    "averageCC": 2.2195121951219514
+},{
+    "owner": "chillarnanda",
+    "name": "remote",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1616,
+    "commentlines": 286,
+    "emptylines": 486,
+    "averageCC": 1.6222222222222222
+},{
+    "owner": "bdizzyl",
+    "name": "test-platform",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 139363,
+    "commentlines": 52458,
+    "emptylines": 43609,
+    "averageCC": 1.9162298933670703
+},{
+    "owner": "mikeferguson",
+    "name": "energy_efficient_mm",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 231,
+    "commentlines": 141,
+    "emptylines": 75,
+    "averageCC": 1.3333333333333333
+},{
+    "owner": "svilerino",
+    "name": "tdc-networking",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5455,
+    "commentlines": 1653,
+    "emptylines": 1427,
+    "averageCC": 1.8745980707395498
+},{
+    "owner": "undertaker01",
+    "name": "misc-enigma2",
+    "language": null,
+    "stars": 0,
+    "forks": 0,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0,
+    "averageCC": 0
+},{
+    "owner": "nitindwivediglobus",
+    "name": "likestore",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 177327,
+    "commentlines": 70326,
+    "emptylines": 41275,
+    "averageCC": 2.9491410334759287
+},{
+    "owner": "Exorades",
+    "name": "sublime-text-3-config",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 23997,
+    "commentlines": 8382,
+    "emptylines": 6333,
+    "averageCC": 3.371753986332574
+},{
+    "owner": "vipulraheja",
+    "name": "name-ification",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 854,
+    "commentlines": 188,
+    "emptylines": 198,
+    "averageCC": 4.9411764705882355
+},{
+    "owner": "ZZHope",
+    "name": "pylib",
+    "language": null,
+    "stars": 0,
+    "forks": 0,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0,
+    "averageCC": 0
+},{
+    "owner": "mrhwick",
+    "name": "redcarpet",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 422,
+    "commentlines": 63,
+    "emptylines": 134,
+    "averageCC": 2.388888888888889
+},{
+    "owner": "ErwinHaasnoot",
+    "name": "AxonGameDataExtraction",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 522,
+    "commentlines": 311,
+    "emptylines": 172,
+    "averageCC": 2.8846153846153846
+},{
+    "owner": "aravindsankar28",
+    "name": "NLP",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4368,
+    "commentlines": 889,
+    "emptylines": 864,
+    "averageCC": 7.366336633663367
+},{
+    "owner": "rabidaudio",
+    "name": "dotfiles",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 194137,
+    "commentlines": 43597,
+    "emptylines": 35697,
+    "averageCC": 3.626130258157515
+},{
+    "owner": "wputra",
+    "name": "MOS-centos",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2022820,
+    "commentlines": 760030,
+    "emptylines": 548674,
+    "averageCC": 2.1611607633132692
+},{
+    "owner": "thedurphy",
+    "name": "Project1.Analyzing.the.NYC.Subway",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 35,
+    "commentlines": 0,
+    "emptylines": 15,
+    "averageCC": 4.333333333333333
+},{
+    "owner": "DataONEorg",
+    "name": "d1_client_onedrive",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6333,
+    "commentlines": 4145,
+    "emptylines": 2252,
+    "averageCC": 1.8652931854199684
+},{
+    "owner": "byronwasti",
+    "name": "SoftDes",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1947,
+    "commentlines": 1184,
+    "emptylines": 505,
+    "averageCC": 2.3972602739726026
+},{
+    "owner": "jinnykoo",
+    "name": "wuyisj",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 62308,
+    "commentlines": 6988,
+    "emptylines": 14349,
+    "averageCC": 1.6433990895295902
+},{
+    "owner": "auwong",
+    "name": "Harry-Potter-Maze-Game",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 672,
+    "commentlines": 52,
+    "emptylines": 178,
+    "averageCC": 4.25531914893617
+},{
+    "owner": "Qingluan",
+    "name": "G_Hash",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 228,
+    "commentlines": 18,
+    "emptylines": 38,
+    "averageCC": 1.5
+},{
+    "owner": "edwillis",
+    "name": "FishtankMonitor",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 600,
+    "commentlines": 487,
+    "emptylines": 159,
+    "averageCC": 2.6153846153846154
+},{
+    "owner": "strands-project",
+    "name": "aaf_deployment",
+    "language": "Python",
+    "stars": 0,
+    "forks": 11,
+    "codelines": 4824,
+    "commentlines": 476,
+    "emptylines": 1499,
+    "averageCC": 2.625
+},{
+    "owner": "PiWare",
+    "name": "kicad_library",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2282,
+    "commentlines": 451,
+    "emptylines": 520,
+    "averageCC": 3.6422018348623855
+},{
+    "owner": "jesuscast",
+    "name": "triplex",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 184138,
+    "commentlines": 61686,
+    "emptylines": 37153,
+    "averageCC": 3.236385948765148
+},{
+    "owner": "krishnakalyan3",
+    "name": "Algorithms",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 120,
+    "commentlines": 18,
+    "emptylines": 45,
+    "averageCC": 2.0
+},{
+    "owner": "ereodeereigeo",
+    "name": "dataTritiumWS22",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 151,
+    "commentlines": 51,
+    "emptylines": 46,
+    "averageCC": 3.0
+},{
+    "owner": "UF-ACE",
+    "name": "ACE-Workshops",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 473,
+    "commentlines": 146,
+    "emptylines": 146,
+    "averageCC": 2.5483870967741935
+},{
+    "owner": "kimdwkimdw",
+    "name": "CSR2_2014",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1254,
+    "commentlines": 72,
+    "emptylines": 272,
+    "averageCC": 5.140350877192983
+},{
+    "owner": "notconfusing",
+    "name": "listiness",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 35,
+    "commentlines": 1,
+    "emptylines": 10,
+    "averageCC": 7.0
+},{
+    "owner": "Tcremers",
+    "name": "Troep",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1739,
+    "commentlines": 845,
+    "emptylines": 570,
+    "averageCC": 2.6865671641791047
+},{
+    "owner": "jacobboy",
+    "name": "spring14",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1835,
+    "commentlines": 454,
+    "emptylines": 496,
+    "averageCC": 2.8181818181818183
+},{
+    "owner": "crimson-virtue",
+    "name": "cvr",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 61,
+    "commentlines": 76,
+    "emptylines": 29,
+    "averageCC": 1.75
+},{
+    "owner": "msegeya",
+    "name": "fbroute",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 120073,
+    "commentlines": 59055,
+    "emptylines": 24106,
+    "averageCC": 2.7855577951099817
+},{
+    "owner": "quique0194",
+    "name": "pmi",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 647,
+    "commentlines": 96,
+    "emptylines": 222,
+    "averageCC": 2.90625
+},{
+    "owner": "giuseppe",
+    "name": "virt-manager",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 36779,
+    "commentlines": 6409,
+    "emptylines": 10294,
+    "averageCC": 2.789443488238669
+},{
+    "owner": "jaymichls",
+    "name": "WPATest",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 769,
+    "commentlines": 241,
+    "emptylines": 225,
+    "averageCC": 2.5
+},{
+    "owner": "StephenLujan",
+    "name": "Naith",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2408,
+    "commentlines": 867,
+    "emptylines": 805,
+    "averageCC": 2.70995670995671
+},{
+    "owner": "castillocesar",
+    "name": "project",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1089,
+    "commentlines": 391,
+    "emptylines": 408,
+    "averageCC": 7.129032258064516
+},{
+    "owner": "justinhayes",
+    "name": "cis",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 182,
+    "commentlines": 109,
+    "emptylines": 91,
+    "averageCC": 1.3125
+},{
+    "owner": "hamogu",
+    "name": "TWHya",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 775,
+    "commentlines": 306,
+    "emptylines": 226,
+    "averageCC": 2.8297872340425534
+},{
+    "owner": "ranfish",
+    "name": "goagent",
+    "language": "Python",
+    "stars": 0,
+    "forks": 2,
+    "codelines": 4748,
+    "commentlines": 281,
+    "emptylines": 560,
+    "averageCC": 5.804511278195489
+},{
+    "owner": "Armi23",
+    "name": "AICoevolution",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 1110,
+    "commentlines": 337,
+    "emptylines": 300,
+    "averageCC": 3.257575757575758
+},{
+    "owner": "Blender-Brussels",
+    "name": "collaborative-python-scripting",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 147,
+    "commentlines": 32,
+    "emptylines": 3,
+    "averageCC": 1.8
+},{
+    "owner": "mattbellis",
+    "name": "stanford-foothill-research-project-2011-dark-matter-and-gpus",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1781,
+    "commentlines": 891,
+    "emptylines": 704,
+    "averageCC": 16.458333333333332
+},{
+    "owner": "lnln1111",
+    "name": "huhamhire-hosts",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6203,
+    "commentlines": 2826,
+    "emptylines": 429,
+    "averageCC": 2.647798742138365
+},{
+    "owner": "ZangeTsune",
+    "name": "ReusQuest",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 486,
+    "commentlines": 15,
+    "emptylines": 160,
+    "averageCC": 1.6222222222222222
+},{
+    "owner": "SwissTPH",
+    "name": "openmalaria.omtools",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2884,
+    "commentlines": 469,
+    "emptylines": 674,
+    "averageCC": 2.742690058479532
+},{
+    "owner": "bhomberg",
+    "name": "maslab-team-6",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 8157,
+    "commentlines": 4700,
+    "emptylines": 1966,
+    "averageCC": 1.6274089935760172
+},{
+    "owner": "xunxunzgq",
+    "name": "open-hackathon-bak_01",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 29762,
+    "commentlines": 4056,
+    "emptylines": 2226,
+    "averageCC": 1.7930607187112764
+},{
+    "owner": "plablo09",
+    "name": "desaparecidos-AE",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 68,
+    "commentlines": 21,
+    "emptylines": 7,
+    "averageCC": 1.5
+},{
+    "owner": "ishansrivastava90",
+    "name": "crowdsourced-machine-translation",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1513,
+    "commentlines": 463,
+    "emptylines": 549,
+    "averageCC": 4.75
+},{
+    "owner": "KshitizSethia",
+    "name": "AcroDisam",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1987,
+    "commentlines": 1132,
+    "emptylines": 599,
+    "averageCC": 2.4709302325581395
+},{
+    "owner": "mrcyberfighter",
+    "name": "cube-hunter",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4470,
+    "commentlines": 774,
+    "emptylines": 1956,
+    "averageCC": 3.9279279279279278
+},{
+    "owner": "reedharder",
+    "name": "bending_the_law",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2425,
+    "commentlines": 585,
+    "emptylines": 455,
+    "averageCC": 2.25
+},{
+    "owner": "richiedjohnson",
+    "name": "python3-rampage",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 279,
+    "commentlines": 38,
+    "emptylines": 49,
+    "averageCC": 1.96875
+},{
+    "owner": "lucywyman",
+    "name": "slides-content",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 148798,
+    "commentlines": 36639,
+    "emptylines": 27436,
+    "averageCC": 3.1751227495908347
+},{
+    "owner": "jondale",
+    "name": "hair",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3746,
+    "commentlines": 3358,
+    "emptylines": 1085,
+    "averageCC": 1.768092105263158
+},{
+    "owner": "otherchirps",
+    "name": "ibistro_test",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 99,
+    "commentlines": 51,
+    "emptylines": 44,
+    "averageCC": 3.3333333333333335
+},{
+    "owner": "AndersenLab",
+    "name": "andersen-CRISPR",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 42,
+    "commentlines": 2,
+    "emptylines": 8,
+    "averageCC": 4.0
+},{
+    "owner": "zeshan1977",
+    "name": "movie-content-editor",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4508,
+    "commentlines": 1167,
+    "emptylines": 842,
+    "averageCC": 1.4741144414168936
+},{
+    "owner": "Pawseyops",
+    "name": "ivec-user-portal",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5023,
+    "commentlines": 529,
+    "emptylines": 1104,
+    "averageCC": 3.03125
+},{
+    "owner": "lightsweeper",
+    "name": "games",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3078,
+    "commentlines": 525,
+    "emptylines": 495,
+    "averageCC": 5.105527638190955
+},{
+    "owner": "akshaynagpal",
+    "name": "data_mining_tourism",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 116,
+    "commentlines": 10,
+    "emptylines": 29,
+    "averageCC": 1.5
+},{
+    "owner": "rickyfernandez",
+    "name": "enzo_runs",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2060,
+    "commentlines": 150,
+    "emptylines": 525,
+    "averageCC": 1.5
+},{
+    "owner": "marinae",
+    "name": "bigdata",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 564,
+    "commentlines": 326,
+    "emptylines": 352,
+    "averageCC": 3.0
+},{
+    "owner": "h-mayorquin",
+    "name": "mnist_deep_neural_network_BPNNs",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1470,
+    "commentlines": 650,
+    "emptylines": 541,
+    "averageCC": 1.9696969696969697
+},{
+    "owner": "shimstar",
+    "name": "poc",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2064,
+    "commentlines": 610,
+    "emptylines": 486,
+    "averageCC": 2.7395833333333335
+},{
+    "owner": "pansz",
+    "name": "pimcloud",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4612,
+    "commentlines": 520,
+    "emptylines": 445,
+    "averageCC": 5.468
+},{
+    "owner": "arunsamy1",
+    "name": "gmapcatcher",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 14991,
+    "commentlines": 3194,
+    "emptylines": 3298,
+    "averageCC": 2.9583333333333335
+},{
+    "owner": "taylorlee",
+    "name": "web_text_classifier",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 337836,
+    "commentlines": 191655,
+    "emptylines": 71814,
+    "averageCC": 2.4010039040713886
+},{
+    "owner": "AnnaZhou",
+    "name": "LoanDefaultPrediction",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 705,
+    "commentlines": 80,
+    "emptylines": 260,
+    "averageCC": 1.2413793103448276
+},{
+    "owner": "FSUgenomics",
+    "name": "TFLOW",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5406,
+    "commentlines": 797,
+    "emptylines": 1386,
+    "averageCC": 4.948339483394834
+},{
+    "owner": "jerryli27",
+    "name": "EECS348PS4",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1209,
+    "commentlines": 538,
+    "emptylines": 285,
+    "averageCC": 3.2524271844660193
+},{
+    "owner": "BenjaminDHorne",
+    "name": "rpi_csdt_community",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1520,
+    "commentlines": 214,
+    "emptylines": 518,
+    "averageCC": 1.5274725274725274
+},{
+    "owner": "Fazi99",
+    "name": "flood_assessment-",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 267,
+    "commentlines": 32,
+    "emptylines": 39,
+    "averageCC": 2.55
+},{
+    "owner": "Nobu19800",
+    "name": "SettingRTSystem",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 19920,
+    "commentlines": 4228,
+    "emptylines": 3511,
+    "averageCC": 2.2759562841530054
+},{
+    "owner": "farmanb",
+    "name": "farmanb-school",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 203,
+    "commentlines": 18,
+    "emptylines": 54,
+    "averageCC": 4.5
+},{
+    "owner": "efranco63",
+    "name": "BusVis",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 73,
+    "commentlines": 15,
+    "emptylines": 20,
+    "averageCC": 5.5
+},{
+    "owner": "colonelnugget",
+    "name": "pychess",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 33053,
+    "commentlines": 4623,
+    "emptylines": 7488,
+    "averageCC": 3.507861635220126
+},{
+    "owner": "oulan",
+    "name": "oppia",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 21561,
+    "commentlines": 6738,
+    "emptylines": 6642,
+    "averageCC": 1.9954809554551323
+},{
+    "owner": "parthu04",
+    "name": "Yelp-Project-Repo",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 133,
+    "commentlines": 4,
+    "emptylines": 63,
+    "averageCC": 14.0
+},{
+    "owner": "PhilomontPhlea",
+    "name": "CVsolem",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3184,
+    "commentlines": 1099,
+    "emptylines": 1392,
+    "averageCC": 2.138181818181818
+},{
+    "owner": "mthrok",
+    "name": "cytom",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 670,
+    "commentlines": 52,
+    "emptylines": 174,
+    "averageCC": 2.3035714285714284
+},{
+    "owner": "LawrencePeng",
+    "name": "Tools",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 59932,
+    "commentlines": 2104,
+    "emptylines": 3090,
+    "averageCC": 2.3865546218487395
+},{
+    "owner": "jalnanco",
+    "name": "MerryMe",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2231,
+    "commentlines": 200,
+    "emptylines": 424,
+    "averageCC": 4.333333333333333
+},{
+    "owner": "arka005",
+    "name": "MovieAppIntegration",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 641046,
+    "commentlines": 242243,
+    "emptylines": 140462,
+    "averageCC": 2.316169117526517
+},{
+    "owner": "manojpandey",
+    "name": "hackenvision16",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 66605,
+    "commentlines": 20228,
+    "emptylines": 14797,
+    "averageCC": 3.065712187958884
+},{
+    "owner": "BluePigeons",
+    "name": "StacsHack",
+    "language": "Python",
+    "stars": 0,
+    "forks": 2,
+    "codelines": 125,
+    "commentlines": 0,
+    "emptylines": 41,
+    "averageCC": 3.0
+},{
+    "owner": "seidelj",
+    "name": "uprogram-math",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1432,
+    "commentlines": 92,
+    "emptylines": 433,
+    "averageCC": 2.5211267605633805
+},{
+    "owner": "tranthangdong",
+    "name": "PySerial2Mqtt",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 345,
+    "commentlines": 34,
+    "emptylines": 57,
+    "averageCC": 2.625
+},{
+    "owner": "cechava",
+    "name": "3Dcues",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 884,
+    "commentlines": 155,
+    "emptylines": 297,
+    "averageCC": 1.5660377358490567
+},{
+    "owner": "gangadharkadam",
+    "name": "v6_frappe",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 30949,
+    "commentlines": 3964,
+    "emptylines": 8638,
+    "averageCC": 3.6649852879361076
+},{
+    "owner": "ArtezGDA",
+    "name": "Algorithmic-Nature",
+    "language": "Python",
+    "stars": 0,
+    "forks": 2,
+    "codelines": 614,
+    "commentlines": 219,
+    "emptylines": 203,
+    "averageCC": 2.7906976744186047
+},{
+    "owner": "brada1",
+    "name": "bmm",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 586,
+    "commentlines": 53,
+    "emptylines": 128,
+    "averageCC": 2.282608695652174
+},{
+    "owner": "ayhjain",
+    "name": "Text-Classifier",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 911,
+    "commentlines": 173,
+    "emptylines": 263,
+    "averageCC": 2.8461538461538463
+},{
+    "owner": "mnegreira",
+    "name": "School",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 136,
+    "commentlines": 12,
+    "emptylines": 34,
+    "averageCC": 1.5
+},{
+    "owner": "petroleum101",
+    "name": "figures",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 202,
+    "commentlines": 35,
+    "emptylines": 56,
+    "averageCC": 1.8
+},{
+    "owner": "agalera",
+    "name": "desmadreteam",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1366,
+    "commentlines": 232,
+    "emptylines": 256,
+    "averageCC": 2.0927152317880795
+},{
+    "owner": "hxuanhung",
+    "name": "PRIM",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 171,
+    "commentlines": 3,
+    "emptylines": 31,
+    "averageCC": 1.9230769230769231
+},{
+    "owner": "mikebentley15",
+    "name": "cs6350_project_ml",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2990,
+    "commentlines": 2250,
+    "emptylines": 955,
+    "averageCC": 2.338582677165354
+},{
+    "owner": "BCC-UTFPR",
+    "name": "ArvoreGeradoraRotulosMinimos",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 344,
+    "commentlines": 13,
+    "emptylines": 61,
+    "averageCC": 8.0
+},{
+    "owner": "candlewill",
+    "name": "Thesis_experiment",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 829,
+    "commentlines": 272,
+    "emptylines": 220,
+    "averageCC": 2.5714285714285716
+},{
+    "owner": "windrobin",
+    "name": "gmapcatcher",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 14991,
+    "commentlines": 3194,
+    "emptylines": 3298,
+    "averageCC": 2.9583333333333335
+},{
+    "owner": "caracena",
+    "name": "fiwimaps",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 18218,
+    "commentlines": 178,
+    "emptylines": 130,
+    "averageCC": 2.56
+},{
+    "owner": "Ruizoft",
+    "name": "liceoPanamericano",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 156896,
+    "commentlines": 77466,
+    "emptylines": 38846,
+    "averageCC": 2.6635852090032155
+},{
+    "owner": "iamgroot42",
+    "name": "vision_scripts",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1270,
+    "commentlines": 123,
+    "emptylines": 185,
+    "averageCC": 3.6
+},{
+    "owner": "loggin",
+    "name": "romcollectionbrowser",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 13835,
+    "commentlines": 1741,
+    "emptylines": 4089,
+    "averageCC": 4.2218390804597705
+},{
+    "owner": "indictranstech",
+    "name": "osmosis-frappe",
+    "language": "Python",
+    "stars": 0,
+    "forks": 3,
+    "codelines": 31484,
+    "commentlines": 4036,
+    "emptylines": 8789,
+    "averageCC": 3.6524239934264586
+},{
+    "owner": "tajoerim",
+    "name": "PREN2_TEAM10",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1960,
+    "commentlines": 417,
+    "emptylines": 678,
+    "averageCC": 2.707317073170732
+},{
+    "owner": "piotrchmiel",
+    "name": "lemmatization_pos_tagger",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 650,
+    "commentlines": 15,
+    "emptylines": 176,
+    "averageCC": 2.4285714285714284
+},{
+    "owner": "allenwu5",
+    "name": "unimindService",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 693,
+    "commentlines": 257,
+    "emptylines": 280,
+    "averageCC": 2.4680851063829787
+},{
+    "owner": "andybenavides",
+    "name": "tangowithdjango",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 603,
+    "commentlines": 205,
+    "emptylines": 269,
+    "averageCC": 2.5925925925925926
+},{
+    "owner": "alangwansui",
+    "name": "dl",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5837,
+    "commentlines": 2158,
+    "emptylines": 1955,
+    "averageCC": 1.8771551724137931
+},{
+    "owner": "brucespang",
+    "name": "cs690op",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 361,
+    "commentlines": 49,
+    "emptylines": 61,
+    "averageCC": 2.111111111111111
+},{
+    "owner": "abbalcerek",
+    "name": "ClassificationCoursera",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 658,
+    "commentlines": 42,
+    "emptylines": 233,
+    "averageCC": 2.1481481481481484
+},{
+    "owner": "moruku36",
+    "name": "resume_python",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 215,
+    "commentlines": 45,
+    "emptylines": 48,
+    "averageCC": -1
+},{
+    "owner": "BansheeMediaPlayer",
+    "name": "windows-binaries",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0,
+    "averageCC": -1
+},{
+    "owner": "VanBronckhorst",
+    "name": "VizProject2",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 258,
+    "commentlines": 0,
+    "emptylines": 25,
+    "averageCC": 2.6
+},{
+    "owner": "bdh1011",
+    "name": "wau",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 840743,
+    "commentlines": 357441,
+    "emptylines": 223244,
+    "averageCC": 2.1159081267801954
+},{
+    "owner": "sonlinux",
+    "name": "gmapcatcher",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 14991,
+    "commentlines": 3194,
+    "emptylines": 3298,
+    "averageCC": 2.9583333333333335
+},{
+    "owner": "louyihsuan",
+    "name": "CYIMpyclass",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 8,
+    "commentlines": 2,
+    "emptylines": 3,
+    "averageCC": -1
+},{
+    "owner": "PeggyFan",
+    "name": "Old_project",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 630,
+    "commentlines": 549,
+    "emptylines": 159,
+    "averageCC": 2.911764705882353
+},{
+    "owner": "globalensolutionsgit",
+    "name": "Resalebuy",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 22068,
+    "commentlines": 1329,
+    "emptylines": 1064,
+    "averageCC": 2.88646288209607
+},{
+    "owner": "zwebert31",
+    "name": "Song-Matching",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0,
+    "averageCC": -1
+},{
+    "owner": "jtrwallace",
+    "name": "web2py",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 134505,
+    "commentlines": 22683,
+    "emptylines": 15934,
+    "averageCC": 3.557508883486067
+},{
+    "owner": "bitcoinsoftware",
+    "name": "videoAlgorithmsAnalysis",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 1158,
+    "commentlines": 58,
+    "emptylines": 114,
+    "averageCC": 2.1857142857142855
+},{
+    "owner": "kjko14",
+    "name": "check_mk",
+    "language": "Python",
+    "stars": 0,
+    "forks": 7,
+    "codelines": 68954,
+    "commentlines": 13390,
+    "emptylines": 16001,
+    "averageCC": 4.967731092436975
+},{
+    "owner": "Huehnerbrust",
+    "name": "romcollectionbrowser",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 13835,
+    "commentlines": 1741,
+    "emptylines": 4089,
+    "averageCC": 4.2218390804597705
+},{
+    "owner": "buithean2010",
+    "name": "thuc-tap-cnpm",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1839,
+    "commentlines": 520,
+    "emptylines": 406,
+    "averageCC": 1.7485380116959064
+},{
+    "owner": "aled1027",
+    "name": "Syntaur",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 872,
+    "commentlines": 157,
+    "emptylines": 269,
+    "averageCC": 1.9642857142857142
+},{
+    "owner": "kmfrost",
+    "name": "RMProject",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2672,
+    "commentlines": 181,
+    "emptylines": 455,
+    "averageCC": 13.352941176470589
+},{
+    "owner": "luiscape",
+    "name": "nepal_census_scraper",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 33,
+    "commentlines": 21,
+    "emptylines": 17,
+    "averageCC": 3.3333333333333335
+},{
+    "owner": "edxnercel",
+    "name": "edx-platform",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 265634,
+    "commentlines": 102411,
+    "emptylines": 81053,
+    "averageCC": 2.0304869573275264
+},{
+    "owner": "schismata",
+    "name": "devrepo",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 52,
+    "commentlines": 50,
+    "emptylines": 10,
+    "averageCC": 2.8333333333333335
+},{
+    "owner": "ClarKa",
+    "name": "MK",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 88,
+    "commentlines": 4,
+    "emptylines": 5,
+    "averageCC": 8.0
+},{
+    "owner": "pradyotprakash",
+    "name": "HDFCRed",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 961,
+    "commentlines": 79,
+    "emptylines": 353,
+    "averageCC": 5.72
+},{
+    "owner": "pbarragan",
+    "name": "mechIdentPartLocalStick",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5667,
+    "commentlines": 696,
+    "emptylines": 981,
+    "averageCC": 4.108108108108108
+},{
+    "owner": "Plabo1028",
+    "name": "ML_NTU_HW",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4706,
+    "commentlines": 729,
+    "emptylines": 668,
+    "averageCC": 3.6166666666666667
+},{
+    "owner": "mrggrm",
+    "name": "NERTagger",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 758,
+    "commentlines": 159,
+    "emptylines": 126,
+    "averageCC": 5.434782608695652
+},{
+    "owner": "kahihia",
+    "name": "cityfusion",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 37249,
+    "commentlines": 3870,
+    "emptylines": 8045,
+    "averageCC": 1.8096141682479443
+},{
+    "owner": "leoj3n",
+    "name": "OmniTube",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 16703,
+    "commentlines": 9170,
+    "emptylines": 3906,
+    "averageCC": 2.084694494857834
+},{
+    "owner": "Pranshu258",
+    "name": "Image_Matching_w_Interest_Points",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 155,
+    "commentlines": 24,
+    "emptylines": 22,
+    "averageCC": 14.0
+},{
+    "owner": "virtan",
+    "name": "captchan",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 579,
+    "commentlines": 218,
+    "emptylines": 167,
+    "averageCC": 1.3157894736842106
+},{
+    "owner": "gmduvvuri",
+    "name": "K2targets",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2241,
+    "commentlines": 281,
+    "emptylines": 319,
+    "averageCC": 3.121212121212121
+},{
+    "owner": "xueyulin",
+    "name": "pygame_hw_player",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 242,
+    "commentlines": 24,
+    "emptylines": 39,
+    "averageCC": 3.8333333333333335
+},{
+    "owner": "DharmanshuKamraa",
+    "name": "twisted_filesyncer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 148,
+    "commentlines": 5,
+    "emptylines": 62,
+    "averageCC": 1.9473684210526316
+},{
+    "owner": "ChenhuiZhouuuuuu",
+    "name": "emojify-headlines",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 251,
+    "commentlines": 15,
+    "emptylines": 72,
+    "averageCC": 3.75
+},{
+    "owner": "dpete2008",
+    "name": "Sandia",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 8229,
+    "commentlines": 6438,
+    "emptylines": 2393,
+    "averageCC": 1.679530201342282
+},{
+    "owner": "felipeguth",
+    "name": "udacity_autonomous_car",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2145,
+    "commentlines": 1250,
+    "emptylines": 903,
+    "averageCC": 4.024539877300613
+},{
+    "owner": "DarkerPWQ",
+    "name": "software",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 199739,
+    "commentlines": 242,
+    "emptylines": 159,
+    "averageCC": 1.8541666666666667
+},{
+    "owner": "shengjin",
+    "name": "radmc_plot",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1222,
+    "commentlines": 280,
+    "emptylines": 449,
+    "averageCC": 5.333333333333333
+},{
+    "owner": "dustinturp",
+    "name": "STLCallsToService",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 10,
+    "commentlines": 2,
+    "emptylines": 1,
+    "averageCC": -1
+},{
+    "owner": "plannapus",
+    "name": "Raritas",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 642,
+    "commentlines": 11,
+    "emptylines": 33,
+    "averageCC": 7.48
+},{
+    "owner": "TristanV12",
+    "name": "GMM",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2672,
+    "commentlines": 1143,
+    "emptylines": 439,
+    "averageCC": 3.899159663865546
+},{
+    "owner": "grantwra",
+    "name": "Benchmark_withJson",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5485,
+    "commentlines": 315,
+    "emptylines": 813,
+    "averageCC": 4.0
+},{
+    "owner": "alexpt92",
+    "name": "romcollectionbrowser",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 13835,
+    "commentlines": 1741,
+    "emptylines": 4089,
+    "averageCC": 4.2218390804597705
+},{
+    "owner": "Williamzz",
+    "name": "Koz-Run",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 284,
+    "commentlines": 73,
+    "emptylines": 83,
+    "averageCC": 3.6875
+},{
+    "owner": "tfz2101",
+    "name": "Machine-Learning",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2281,
+    "commentlines": 420,
+    "emptylines": 720,
+    "averageCC": 2.810344827586207
+},{
+    "owner": "acm-nonsense",
+    "name": "audio-matching",
+    "language": "Python",
+    "stars": 0,
+    "forks": 2,
+    "codelines": 402,
+    "commentlines": 179,
+    "emptylines": 78,
+    "averageCC": 1.8
+},{
+    "owner": "vasumv",
+    "name": "showdown-client",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 445,
+    "commentlines": 0,
+    "emptylines": 88,
+    "averageCC": 2.973684210526316
+},{
+    "owner": "patchb01",
+    "name": "project-valerie",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 18224,
+    "commentlines": 3263,
+    "emptylines": 4046,
+    "averageCC": 3.7937551355792936
+},{
+    "owner": "Aabglov",
+    "name": "TheanoRNN",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3214,
+    "commentlines": 1176,
+    "emptylines": 872,
+    "averageCC": 1.7314814814814814
+},{
+    "owner": "skraynev",
+    "name": "ci-cd-pipeline-app-murano",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2846,
+    "commentlines": 934,
+    "emptylines": 1562,
+    "averageCC": 1.7237762237762237
+},{
+    "owner": "khainguyen95",
+    "name": "project",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 142766,
+    "commentlines": 58819,
+    "emptylines": 25994,
+    "averageCC": 2.812699747687132
+},{
+    "owner": "jesseyli",
+    "name": "CS189",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2789,
+    "commentlines": 453,
+    "emptylines": 337,
+    "averageCC": 1.7884615384615385
+},{
+    "owner": "TheRolf",
+    "name": "git",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 629,
+    "commentlines": 155,
+    "emptylines": 205,
+    "averageCC": 2.140625
+},{
+    "owner": "eric4wan",
+    "name": "CmpPhFinal",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 135,
+    "commentlines": 67,
+    "emptylines": 28,
+    "averageCC": 1.6666666666666667
+},{
+    "owner": "merfishtools",
+    "name": "merfishtools-evaluation",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1218,
+    "commentlines": 106,
+    "emptylines": 361,
+    "averageCC": 2.888888888888889
+},{
+    "owner": "akracis",
+    "name": "kpuproject",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6159,
+    "commentlines": 214,
+    "emptylines": 662,
+    "averageCC": 2.6153846153846154
+},{
+    "owner": "ekkizogloy",
+    "name": "sound-cat",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 15,
+    "commentlines": 3,
+    "emptylines": 8,
+    "averageCC": -1
+},{
+    "owner": "snowcity",
+    "name": "massspec-toolbox",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1696,
+    "commentlines": 60,
+    "emptylines": 293,
+    "averageCC": 2.782608695652174
+},{
+    "owner": "kvantetore",
+    "name": "ukebilde",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 486,
+    "commentlines": 64,
+    "emptylines": 169,
+    "averageCC": 2.433333333333333
+},{
+    "owner": "omnicrog",
+    "name": "demo.gmx",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 264620,
+    "commentlines": 122577,
+    "emptylines": 53262,
+    "averageCC": 2.9997217713888245
+},{
+    "owner": "Alvalol",
+    "name": "Processing-Livestream",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 294,
+    "commentlines": 23,
+    "emptylines": 146,
+    "averageCC": 2.106382978723404
+},{
+    "owner": "sashaweiss",
+    "name": "BasedBayes",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 913,
+    "commentlines": 222,
+    "emptylines": 296,
+    "averageCC": 3.3846153846153846
+},{
+    "owner": "fusijie",
+    "name": "VankeHouse",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 74,
+    "commentlines": 4,
+    "emptylines": 13,
+    "averageCC": 4.0
+},{
+    "owner": "leprechuanese",
+    "name": "kamaoo",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2078,
+    "commentlines": 837,
+    "emptylines": 554,
+    "averageCC": 3.1914893617021276
+},{
+    "owner": "jingxia",
+    "name": "NLP_DL",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 466119,
+    "commentlines": 239751,
+    "emptylines": 106382,
+    "averageCC": 2.4217327678150657
+},{
+    "owner": "DanielWinklehner",
+    "name": "Ion-Source-Control-System",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 25074,
+    "commentlines": 5297,
+    "emptylines": 10044,
+    "averageCC": 2.483588621444201
+},{
+    "owner": "E-Help",
+    "name": "server_code",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 11026,
+    "commentlines": 812,
+    "emptylines": 2133,
+    "averageCC": 4.560165975103734
+},{
+    "owner": "griffincalme",
+    "name": "MicroDeconvolution",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 2118,
+    "commentlines": 607,
+    "emptylines": 1153,
+    "averageCC": 1.5434782608695652
+},{
+    "owner": "Anhmike",
+    "name": "Poetry-Generator",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 133,
+    "commentlines": 78,
+    "emptylines": 38,
+    "averageCC": 6.333333333333333
+},{
+    "owner": "pomahtuk",
+    "name": "vadim_folio",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 645,
+    "commentlines": 124,
+    "emptylines": 305,
+    "averageCC": 1.8888888888888888
+},{
+    "owner": "ktavabi",
+    "name": "kubi",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1335,
+    "commentlines": 162,
+    "emptylines": 110,
+    "averageCC": 2.5714285714285716
+},{
+    "owner": "vatsalchanana",
+    "name": "IntelligentClothingStore",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 691,
+    "commentlines": 100,
+    "emptylines": 266,
+    "averageCC": 2.9583333333333335
+},{
+    "owner": "fettermania",
+    "name": "uci-record-linkage-python",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 197,
+    "commentlines": 27,
+    "emptylines": 66,
+    "averageCC": 2.5238095238095237
+},{
+    "owner": "lihaiyun",
+    "name": "robot-friend",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 13630,
+    "commentlines": 5917,
+    "emptylines": 3068,
+    "averageCC": 2.597254004576659
+},{
+    "owner": "izzetkalic",
+    "name": "Accelerometer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1175,
+    "commentlines": 91,
+    "emptylines": 331,
+    "averageCC": 4.682926829268292
+},{
+    "owner": "minorsecond",
+    "name": "GIS-Helper",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 727,
+    "commentlines": 104,
+    "emptylines": 133,
+    "averageCC": 1.967741935483871
+},{
+    "owner": "matinazoe",
+    "name": "Recommendation-init",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 396,
+    "commentlines": 82,
+    "emptylines": 177,
+    "averageCC": 1.2
+},{
+    "owner": "goga-nakagawa",
+    "name": "nlp100",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1821,
+    "commentlines": 147,
+    "emptylines": 346,
+    "averageCC": 2.3333333333333335
+},{
+    "owner": "luofei86",
+    "name": "H5Game",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2251,
+    "commentlines": 233,
+    "emptylines": 472,
+    "averageCC": 2.5753424657534247
+},{
+    "owner": "ryanermita",
+    "name": "gsm-api",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 714,
+    "commentlines": 157,
+    "emptylines": 224,
+    "averageCC": 2.0142857142857142
+},{
+    "owner": "City-Bureau",
+    "name": "get-the-lead-out",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 332,
+    "commentlines": 10,
+    "emptylines": 62,
+    "averageCC": 2.12
+},{
+    "owner": "Abadhor",
+    "name": "tweet2vecWindows",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1296,
+    "commentlines": 281,
+    "emptylines": 324,
+    "averageCC": 4.065573770491803
+},{
+    "owner": "tech-team",
+    "name": "sentiment",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1263,
+    "commentlines": 167,
+    "emptylines": 413,
+    "averageCC": 2.364705882352941
+},{
+    "owner": "pearsonlab",
+    "name": "movie_localizer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 226,
+    "commentlines": 43,
+    "emptylines": 74,
+    "averageCC": 3.0
+},{
+    "owner": "skuba-athome",
+    "name": "faces",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 144,
+    "commentlines": 4,
+    "emptylines": 38,
+    "averageCC": 4.428571428571429
+},{
+    "owner": "alexbrylov1994",
+    "name": "OpenSoftwareResearch",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0,
+    "averageCC": -1
+},{
+    "owner": "IvanovAndrew",
+    "name": "3D-reconstruction",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 188,
+    "commentlines": 42,
+    "emptylines": 106,
+    "averageCC": 1.0952380952380953
+},{
+    "owner": "Girirajmaheshwari",
+    "name": "movie-content-editor",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4508,
+    "commentlines": 1167,
+    "emptylines": 842,
+    "averageCC": 1.4741144414168936
+},{
+    "owner": "romachero",
+    "name": "seppius-xbmc-repo",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 192536,
+    "commentlines": 58053,
+    "emptylines": 33076,
+    "averageCC": 4.10025745873088
+},{
+    "owner": "mithilaz",
+    "name": "FINAL_DRAFT",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 79,
+    "commentlines": 14,
+    "emptylines": 41,
+    "averageCC": 1.0
+},{
+    "owner": "rchatterjee",
+    "name": "pwmodels",
+    "language": "Python",
+    "stars": 0,
+    "forks": 2,
+    "codelines": 1143,
+    "commentlines": 320,
+    "emptylines": 272,
+    "averageCC": 2.8333333333333335
+},{
+    "owner": "bsubhashni",
+    "name": "ngrinder-scripts",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 287,
+    "commentlines": 17,
+    "emptylines": 56,
+    "averageCC": 2.0277777777777777
+},{
+    "owner": "richrr",
+    "name": "coremicro",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 941,
+    "commentlines": 446,
+    "emptylines": 221,
+    "averageCC": 3.875
+},{
+    "owner": "laolsson",
+    "name": "slump",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3375,
+    "commentlines": 912,
+    "emptylines": 983,
+    "averageCC": 2.8684210526315788
+},{
+    "owner": "meithanks",
+    "name": "MasterQc",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 1852,
+    "commentlines": 606,
+    "emptylines": 511,
+    "averageCC": 3.0
+},{
+    "owner": "cjieming",
+    "name": "alleleDB",
+    "language": "Python",
+    "stars": 0,
+    "forks": 3,
+    "codelines": 2325,
+    "commentlines": 383,
+    "emptylines": 554,
+    "averageCC": 2.896103896103896
+},{
+    "owner": "CarsonCraig",
+    "name": "CivilizationMods",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 102081,
+    "commentlines": 18764,
+    "emptylines": 21505,
+    "averageCC": 5.302523610466016
+},{
+    "owner": "lemon123456",
+    "name": "Protractor-Sample",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 355,
+    "commentlines": 77,
+    "emptylines": 203,
+    "averageCC": 1.0
+},{
+    "owner": "jingxiaoliu",
+    "name": "CMU-F16-12-746-Python-Project-Jingxiao_Liu",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1407,
+    "commentlines": 217,
+    "emptylines": 70,
+    "averageCC": 2.3208955223880596
+},{
+    "owner": "venkatp1997",
+    "name": "Paper-Author-Identification-Problem",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1267,
+    "commentlines": 214,
+    "emptylines": 128,
+    "averageCC": 6.277777777777778
+},{
+    "owner": "3370sohail",
+    "name": "prodigy-pygame",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1918,
+    "commentlines": 13,
+    "emptylines": 242,
+    "averageCC": 3.6153846153846154
+},{
+    "owner": "ndhu410421304",
+    "name": "VRDL2019FALL_Image-Recognition",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 484,
+    "commentlines": 85,
+    "emptylines": 71,
+    "averageCC": 1.0
+},{
+    "owner": "gustavo-depaula",
+    "name": "dicom-reader",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 12113,
+    "commentlines": 3304,
+    "emptylines": 3216,
+    "averageCC": 3.0167464114832536
+},{
+    "owner": "sn0wfree",
+    "name": "spider_for_kickstarterCFP",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1915,
+    "commentlines": 536,
+    "emptylines": 282,
+    "averageCC": 5.245283018867925
+},{
+    "owner": "hectord",
+    "name": "unifield",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 218578,
+    "commentlines": 72140,
+    "emptylines": 47957,
+    "averageCC": 5.349264053910268
+},{
+    "owner": "panospet",
+    "name": "Search_within_Books",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 162,
+    "commentlines": 58,
+    "emptylines": 39,
+    "averageCC": 2.0625
+},{
+    "owner": "axelsoto",
+    "name": "Droplet-Image-Processing",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 336,
+    "commentlines": 56,
+    "emptylines": 87,
+    "averageCC": 5.388888888888889
+},{
+    "owner": "marcosmamorim",
+    "name": "rh-openstack",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1717,
+    "commentlines": 295,
+    "emptylines": 387,
+    "averageCC": 3.3846153846153846
+},{
+    "owner": "matth2olson",
+    "name": "my-first-blog",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 357427,
+    "commentlines": 136517,
+    "emptylines": 75436,
+    "averageCC": 2.726708277507271
+},{
+    "owner": "cameronneylon",
+    "name": "signals",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 211,
+    "commentlines": 13,
+    "emptylines": 61,
+    "averageCC": 2.6
+},{
+    "owner": "oneratnov",
+    "name": "Yandex-CAPTCHA-Neural-Network-Server",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 377,
+    "commentlines": 25,
+    "emptylines": 4,
+    "averageCC": 2.1346153846153846
+},{
+    "owner": "Zeklandia",
+    "name": "quickimage",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 767,
+    "commentlines": 338,
+    "emptylines": 192,
+    "averageCC": 5.6923076923076925
+},{
+    "owner": "wmaciel",
+    "name": "flowerSpotter",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1058,
+    "commentlines": 469,
+    "emptylines": 370,
+    "averageCC": 3.5294117647058822
+},{
+    "owner": "yuvval",
+    "name": "nn_ex1",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 737,
+    "commentlines": 198,
+    "emptylines": 334,
+    "averageCC": 2.176470588235294
+},{
+    "owner": "samruddhisomani",
+    "name": "Cuisine",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1029,
+    "commentlines": 200,
+    "emptylines": 366,
+    "averageCC": 3.066666666666667
+},{
+    "owner": "Anathapindika",
+    "name": "MOR",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2324,
+    "commentlines": 284,
+    "emptylines": 724,
+    "averageCC": 2.364406779661017
+},{
+    "owner": "nmik",
+    "name": "advlab",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1419,
+    "commentlines": 471,
+    "emptylines": 228,
+    "averageCC": 3.1272727272727274
+},{
+    "owner": "ElTangoBandito",
+    "name": "CS-454-Game-Design",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2632,
+    "commentlines": 182,
+    "emptylines": 249,
+    "averageCC": 3.9673202614379086
+},{
+    "owner": "xgli",
+    "name": "EL",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 7962,
+    "commentlines": 1219,
+    "emptylines": 1586,
+    "averageCC": 2.690677966101695
+},{
+    "owner": "gouskova",
+    "name": "transcribers",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2359,
+    "commentlines": 570,
+    "emptylines": 649,
+    "averageCC": 3.900900900900901
+},{
+    "owner": "akhil137",
+    "name": "nasa",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 621,
+    "commentlines": 421,
+    "emptylines": 226,
+    "averageCC": 3.0
+},{
+    "owner": "tomcharnock",
+    "name": "tension",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 586,
+    "commentlines": 145,
+    "emptylines": 41,
+    "averageCC": 4.764705882352941
+},{
+    "owner": "BearXP",
+    "name": "Sumo2016_Pi",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 68533,
+    "commentlines": 36495,
+    "emptylines": 13294,
+    "averageCC": 2.5077503974562796
+},{
+    "owner": "uliana-sentsova",
+    "name": "russian_SPARQL",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 745,
+    "commentlines": 299,
+    "emptylines": 194,
+    "averageCC": 4.828571428571428
+},{
+    "owner": "XiaoYuZe",
+    "name": "GsCrawler",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 163,
+    "commentlines": 25,
+    "emptylines": 55,
+    "averageCC": 4.0
+},{
+    "owner": "Freenetvg",
+    "name": "seppius-xbmc-repo",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 192536,
+    "commentlines": 58053,
+    "emptylines": 33076,
+    "averageCC": 4.10025745873088
+},{
+    "owner": "jay0lu",
+    "name": "pmip6ns3.13new",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 257974,
+    "commentlines": 92723,
+    "emptylines": 38821,
+    "averageCC": 1.1389278394995146
+},{
+    "owner": "valenca",
+    "name": "News-Recommendation-System",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2165,
+    "commentlines": 38,
+    "emptylines": 227,
+    "averageCC": 5.323943661971831
+},{
+    "owner": "DAWZayas-Projects",
+    "name": "TEJEDOR-RETUERTO-ALEJANDRO",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 840376,
+    "commentlines": 239165,
+    "emptylines": 200200,
+    "averageCC": 2.188968608772977
+},{
+    "owner": "jufei",
+    "name": "BtsShell",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 23846,
+    "commentlines": 8116,
+    "emptylines": 4939,
+    "averageCC": 3.9895126465144974
+},{
+    "owner": "jhofstee",
+    "name": "eldk",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 32717,
+    "commentlines": 8160,
+    "emptylines": 7676,
+    "averageCC": 3.2936200211491014
+},{
+    "owner": "gabrown",
+    "name": "MyThesis",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 11,
+    "commentlines": 0,
+    "emptylines": 0,
+    "averageCC": -1
+},{
+    "owner": "FRH-Analytics",
+    "name": "humor.tt.br",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 424,
+    "commentlines": 22,
+    "emptylines": 99,
+    "averageCC": 2.5454545454545454
+},{
+    "owner": "sol",
+    "name": "pygments",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 67127,
+    "commentlines": 11181,
+    "emptylines": 9550,
+    "averageCC": 3.157943067033976
+},{
+    "owner": "martiert",
+    "name": "openembedded-core",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 25426,
+    "commentlines": 7566,
+    "emptylines": 6246,
+    "averageCC": 3.0410138248847924
+},{
+    "owner": "camm",
+    "name": "documents",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 19,
+    "commentlines": 8,
+    "emptylines": 3,
+    "averageCC": 1.5
+},{
+    "owner": "iam-tom",
+    "name": "wave2mp3",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 131,
+    "commentlines": 15,
+    "emptylines": 54,
+    "averageCC": 1.5454545454545454
+},{
+    "owner": "kurka",
+    "name": "plants-network",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 750,
+    "commentlines": 242,
+    "emptylines": 256,
+    "averageCC": 3.0454545454545454
+},{
+    "owner": "drewkerrigan",
+    "name": "yolo-octo-ninja",
+    "language": "Shell",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 0,
+    "commentlines": 0,
+    "emptylines": 0,
+    "averageCC": 0
+},{
+    "owner": "hicannon",
+    "name": "scrubber",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 879,
+    "commentlines": 211,
+    "emptylines": 178,
+    "averageCC": 3.6515151515151514
+},{
+    "owner": "shivdasgujare",
+    "name": "poky",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 35674,
+    "commentlines": 8853,
+    "emptylines": 8253,
+    "averageCC": 3.3159986750579664
+},{
+    "owner": "ernestojfcosta",
+    "name": "IPRP",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 10603,
+    "commentlines": 3349,
+    "emptylines": 3117,
+    "averageCC": 2.1503477795612627
+},{
+    "owner": "alfayez",
+    "name": "radiomoc",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 4957,
+    "commentlines": 1216,
+    "emptylines": 645,
+    "averageCC": 2.988235294117647
+},{
+    "owner": "bjkomer",
+    "name": "pyratslam",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1733,
+    "commentlines": 224,
+    "emptylines": 299,
+    "averageCC": 3.8933333333333335
+},{
+    "owner": "Ali09",
+    "name": "image-segmentation",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 569,
+    "commentlines": 320,
+    "emptylines": 214,
+    "averageCC": 4.0
+},{
+    "owner": "04msambit",
+    "name": "unstack_the_stack",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 456,
+    "commentlines": 20,
+    "emptylines": 165,
+    "averageCC": 8.181818181818182
+},{
+    "owner": "chaitan3",
+    "name": "Cyanobacteria",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 871,
+    "commentlines": 170,
+    "emptylines": 132,
+    "averageCC": 3.8333333333333335
+},{
+    "owner": "whit2333",
+    "name": "NucDB",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 6491,
+    "commentlines": 1528,
+    "emptylines": 799,
+    "averageCC": 2.5414012738853504
+},{
+    "owner": "fndiaz",
+    "name": "backup",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 84775,
+    "commentlines": 18290,
+    "emptylines": 12267,
+    "averageCC": 3.4529991047448525
+},{
+    "owner": "RAWKHIGH",
+    "name": "Alfonso",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 3741,
+    "commentlines": 97,
+    "emptylines": 736,
+    "averageCC": 1.5260960334029228
+},{
+    "owner": "Perlmint",
+    "name": "quadcore",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 2297,
+    "commentlines": 702,
+    "emptylines": 773,
+    "averageCC": 2.596244131455399
+},{
+    "owner": "davidko",
+    "name": "BaroboFirmwareLoader",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 936,
+    "commentlines": 69,
+    "emptylines": 164,
+    "averageCC": 2.097826086956522
+},{
+    "owner": "paulepps",
+    "name": "Computational-Investing",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 21763,
+    "commentlines": 10493,
+    "emptylines": 4888,
+    "averageCC": 4.8180163785259325
+},{
+    "owner": "mlin",
+    "name": "dx-ccle-fpkm",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 223,
+    "commentlines": 94,
+    "emptylines": 75,
+    "averageCC": 3.9411764705882355
+},{
+    "owner": "godiane",
+    "name": "fitsenv",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 176914,
+    "commentlines": 61440,
+    "emptylines": 41396,
+    "averageCC": 2.8759795570698468
+},{
+    "owner": "menski",
+    "name": "ppr-s11",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1118,
+    "commentlines": 309,
+    "emptylines": 257,
+    "averageCC": 2.6904761904761907
+},{
+    "owner": "nyucusp",
+    "name": "gx5003-fall2013",
+    "language": "Python",
+    "stars": 0,
+    "forks": 6,
+    "codelines": 40719,
+    "commentlines": 9417,
+    "emptylines": 11719,
+    "averageCC": 2.9805825242718447
+},{
+    "owner": "Vinessa",
+    "name": "VinessaAIEProgramming",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 449621,
+    "commentlines": 126183,
+    "emptylines": 91810,
+    "averageCC": 2.1749256919933124
+},{
+    "owner": "pfctgeorge",
+    "name": "tools",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1557,
+    "commentlines": 567,
+    "emptylines": 436,
+    "averageCC": 1.5429864253393666
+},{
+    "owner": "oceanflux-ghg",
+    "name": "FluxEngineAncillaryTools",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 1988,
+    "commentlines": 627,
+    "emptylines": 593,
+    "averageCC": 5.661971830985915
+},{
+    "owner": "rbrigden",
+    "name": "awair",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 304,
+    "commentlines": 46,
+    "emptylines": 106,
+    "averageCC": 4.0
+},{
+    "owner": "doduytrung",
+    "name": "odoo-8.0",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 150763,
+    "commentlines": 56730,
+    "emptylines": 31910,
+    "averageCC": 3.9118300031715827
+},{
+    "owner": "NickolayVasilishin",
+    "name": "repository",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6470,
+    "commentlines": 763,
+    "emptylines": 724,
+    "averageCC": 2.0508474576271185
+},{
+    "owner": "Biodiscus",
+    "name": "SEBHVAConfig",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 12,
+    "commentlines": 2,
+    "emptylines": 6,
+    "averageCC": -1
+},{
+    "owner": "paulmkim",
+    "name": "ghai",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 42,
+    "commentlines": 0,
+    "emptylines": 11,
+    "averageCC": 2.0
+},{
+    "owner": "N02698664",
+    "name": "ELSpring2015",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 124,
+    "commentlines": 15,
+    "emptylines": 54,
+    "averageCC": 1.2
+},{
+    "owner": "nicolashahn",
+    "name": "2015winter",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5357,
+    "commentlines": 2065,
+    "emptylines": 1287,
+    "averageCC": 2.6977848101265822
+},{
+    "owner": "jkabhishek",
+    "name": "bigdata-learn",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 303,
+    "commentlines": 155,
+    "emptylines": 119,
+    "averageCC": 1.2857142857142858
+},{
+    "owner": "imoan1983",
+    "name": "medlist",
+    "language": "Python",
+    "stars": 0,
+    "forks": 1,
+    "codelines": 469,
+    "commentlines": 55,
+    "emptylines": 362,
+    "averageCC": 5.85
+},{
+    "owner": "matt-gardner",
+    "name": "dominion-django",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1942,
+    "commentlines": 357,
+    "emptylines": 400,
+    "averageCC": 2.3155339805825244
+},{
+    "owner": "XinyuYun",
+    "name": "Networking",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 189,
+    "commentlines": 88,
+    "emptylines": 5,
+    "averageCC": -1
+},{
+    "owner": "lshumlich",
+    "name": "python-playground",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 9906,
+    "commentlines": 1969,
+    "emptylines": 2384,
+    "averageCC": 2.2816691505216093
+},{
+    "owner": "practical-neuroimaging",
+    "name": "fmri-analysis",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 632,
+    "commentlines": 504,
+    "emptylines": 223,
+    "averageCC": 3.7333333333333334
+},{
+    "owner": "gordenbrown51",
+    "name": "damnvid",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6522,
+    "commentlines": 279,
+    "emptylines": 150,
+    "averageCC": 3.8304668304668303
+},{
+    "owner": "anndream",
+    "name": "mixprint-addons",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 113863,
+    "commentlines": 49613,
+    "emptylines": 22892,
+    "averageCC": 4.370394522334529
+},{
+    "owner": "hitrust",
+    "name": "gmapcatcher",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 14991,
+    "commentlines": 3194,
+    "emptylines": 3298,
+    "averageCC": 2.9583333333333335
+},{
+    "owner": "bitmonk",
+    "name": "Tavern",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 5983,
+    "commentlines": 1467,
+    "emptylines": 1614,
+    "averageCC": 3.5803814713896456
+},{
+    "owner": "tim-price",
+    "name": "horizon",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 87527,
+    "commentlines": 18556,
+    "emptylines": 21134,
+    "averageCC": 1.9332334332334333
+},{
+    "owner": "w6678w",
+    "name": "seppius-xbmc-repo",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 192536,
+    "commentlines": 58053,
+    "emptylines": 33076,
+    "averageCC": 4.10025745873088
+},{
+    "owner": "learnitall",
+    "name": "Liber",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1337,
+    "commentlines": 329,
+    "emptylines": 367,
+    "averageCC": 2.857142857142857
+},{
+    "owner": "gangadharkadam",
+    "name": "saloon_erp_install",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 33370,
+    "commentlines": 2768,
+    "emptylines": 10522,
+    "averageCC": 3.5077658303464756
+},{
+    "owner": "subhambiswajit",
+    "name": "development_django",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 403,
+    "commentlines": 48,
+    "emptylines": 165,
+    "averageCC": 2.076923076923077
+},{
+    "owner": "vitalik296",
+    "name": "Kyrsach",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 6922,
+    "commentlines": 2511,
+    "emptylines": 1957,
+    "averageCC": 3.64
+},{
+    "owner": "Guepardo",
+    "name": "Eleicoes_Python",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 47,
+    "commentlines": 25,
+    "emptylines": 25,
+    "averageCC": 1.5
+},{
+    "owner": "YangZhang1990",
+    "name": "InterviewNotes",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 134,
+    "commentlines": 10,
+    "emptylines": 29,
+    "averageCC": 1.5238095238095237
+},{
+    "owner": "YushinSong",
+    "name": "namkoog",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 1893,
+    "commentlines": 72,
+    "emptylines": 390,
+    "averageCC": 3.487437185929648
+},{
+    "owner": "NCI-GDC",
+    "name": "cgquery_xml_to_bamlibrary_capture_json",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "codelines": 268,
+    "commentlines": 6,
+    "emptylines": 28,
+    "averageCC": 3.2857142857142856
+}]
