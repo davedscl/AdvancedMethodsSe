@@ -12,6 +12,14 @@ import json
 from pathlib import Path
 import lizard
 
+# This represents a repository class
+# its attributes are:  * Repository: of type pyGithub repository
+#                      * Path: the path where the repository should be cloned
+#                      * AnalysisFile: the path to the file where the results should be saved
+#                      * Codelines: number of codelines from all source code files of a repository
+#                      * Emptylines: number of emptylines from all source code files of a repository
+#                      * Commentlines: number of commentlines from all source code files of a repository
+#                      * AverageCC: the average cyclomatic complexity of a repository (average of all source code files)
 class Repository:
     
     def __init__(self, repository, path, analysisFile):
@@ -23,19 +31,20 @@ class Repository:
         self.emptylines = 0
         self.commentlines = 0
         
-        # average cyclomatic complexity per repository
         self.averageCC = 0
         
-        
+    
+    # method that clones a given repository in a specified path
     def download(self):
         Repo.clone_from(self.repository.clone_url, self.path+self.repository.name)
         print("Cloned Repository: ", self.repository.name)
-        
+     
     
+    # method that analyses a repository (iterates through all code files and analyses it)
     def analyse(self):
         
         ending = ''
-        
+        # sets an ending variable to differentate the source code files of Python and Java repos 
         if self.repository.language == "Python":
             ending = '**/*.py'
         elif self.repository.language == "Java":
@@ -48,6 +57,7 @@ class Repository:
 
         pathlist = Path(directory_in_str).glob(ending)
         
+        # loops through all folders in a repository to find all source code files and analyses them
         for path in pathlist:
             # because path is object not string
             path_in_str = str(path)
@@ -59,9 +69,11 @@ class Repository:
         print("Analysed Repository: ", self.repository.name)
         return
     
+    # analyses the complexity of a given repository
     def analyseComplexity(self):
         ending = ''
         
+        # sets an ending variable to differentate the source code files of Python and Java repos 
         if self.repository.language == "Python":
             ending = '**/*.py'
         elif self.repository.language == "Java":
@@ -76,7 +88,7 @@ class Repository:
         
         sum = 0
         function_count = 0
-        
+        # loops through all folders in a repository to find all source code files and analyses their cyclomatic complexity
         for path in pathlist:
             # because path is object not string
             path_in_str = str(path)
@@ -87,21 +99,19 @@ class Repository:
                 sum += element.__dict__['cyclomatic_complexity']
                 function_count += 1
             
-        if function_count!=0:
-            self.averageCC = sum/function_count
-        else:
-            self.averageCC = -1
-            print("Division by 0 set average CC to -1")
+        
+        self.averageCC = sum/function_count
         
         print("Analysed Complexity of Repository: ", self.repository.name)
         return
         
     
-                    
+    # deletes a given repository from hard drive                
     def delete(self):
         shutil.rmtree(self.path+self.repository.name)
         print("Deleted Repository: ", self.repository.name)
-        
+     
+    # dumps all analysed information of a repository into a given json file
     def dump(self):
         
         repo_info = {
